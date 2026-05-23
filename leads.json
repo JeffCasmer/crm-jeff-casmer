@@ -17,7 +17,24 @@
       "customerSince": "2026-05-23",
       "dateAdded": "2026-05-23",
       "addedAt": "2026-05-23T21:38:20.825Z"
+    },
+    {
+      "id": "mpivqwipep7745vcid",
+      "name": "Jason Dubin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jason.dublin.520",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-23",
+      "nextFollowUp": "2026-05-26",
+      "notes": "",
+      "lastModified": "2026-05-23",
+      "dateAdded": "2026-05-23",
+      "addedAt": "2026-05-23T21:48:02.977Z"
     }
   ],
-  "lastUpdated": "2026-05-23T21:45:26.665Z"
+  "lastUpdated": "2026-05-23T21:48:02.977Z"
 }
