@@ -68,7 +68,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T12:37:47.069Z"
+    },
+    {
+      "id": "mpl85zc3onk5l3pzhl8",
+      "name": "Michael Alexander",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/michaelsnap824",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-05-28",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T13:11:14.211Z"
     }
   ],
-  "lastUpdated": "2026-05-25T12:37:47.069Z"
+  "lastUpdated": "2026-05-25T13:11:14.211Z"
 }
