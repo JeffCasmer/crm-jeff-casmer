@@ -204,7 +204,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T15:36:17.345Z"
+    },
+    {
+      "id": "mpldes3da5s1i5v2qba",
+      "name": "Mel Blasser",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/AnaisB2681/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-05-28",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T15:38:02.809Z"
     }
   ],
-  "lastUpdated": "2026-05-25T15:36:17.346Z"
+  "lastUpdated": "2026-05-25T15:38:02.809Z"
 }
