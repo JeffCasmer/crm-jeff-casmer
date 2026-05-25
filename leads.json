@@ -187,7 +187,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T15:30:35.945Z"
+    },
+    {
+      "id": "mpldcipt2b5tcynfy3c",
+      "name": "Frank Collins",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/fcollinsjr/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-05-28",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T15:36:17.345Z"
     }
   ],
-  "lastUpdated": "2026-05-25T15:30:35.946Z"
+  "lastUpdated": "2026-05-25T15:36:17.346Z"
 }
