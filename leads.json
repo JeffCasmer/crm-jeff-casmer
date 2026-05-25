@@ -102,7 +102,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T13:12:49.419Z"
+    },
+    {
+      "id": "mpl8c9c3ngvaz6tgao",
+      "name": "Gina Viator Whatley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ginaviatorwhatley/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-05-28",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T13:16:07.107Z"
     }
   ],
-  "lastUpdated": "2026-05-25T13:12:49.419Z"
+  "lastUpdated": "2026-05-25T13:16:07.107Z"
 }
