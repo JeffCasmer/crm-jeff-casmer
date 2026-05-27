@@ -10,8 +10,8 @@
       "status": "Nurture",
       "temperature": "Warm",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-23",
-      "nextFollowUp": "2026-05-26",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-05-29",
       "notes": "",
       "lastModified": "2026-05-27",
       "customerSince": "2026-05-23",
@@ -223,5 +223,5 @@
       "addedAt": "2026-05-25T15:38:02.809Z"
     }
   ],
-  "lastUpdated": "2026-05-27T13:45:58.458Z"
+  "lastUpdated": "2026-05-27T13:46:12.754Z"
 }
