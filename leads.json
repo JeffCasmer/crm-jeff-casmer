@@ -250,11 +250,12 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-28",
+      "nextFollowUp": "2026-06-01",
       "notes": "",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-27",
-      "addedAt": "2026-05-27T13:53:13.794Z"
+      "addedAt": "2026-05-27T13:53:13.794Z",
+      "videoSent": false
     },
     {
       "id": "mpo4ni9ldo7c5hw0fw",
@@ -292,5 +293,5 @@
       "addedAt": "2026-05-27T14:23:55.542Z"
     }
   ],
-  "lastUpdated": "2026-05-28T15:09:19.852Z"
+  "lastUpdated": "2026-05-28T15:09:30.356Z"
 }
