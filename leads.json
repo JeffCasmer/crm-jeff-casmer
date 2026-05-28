@@ -232,13 +232,14 @@
       "source": "Facebook",
       "status": "New Lead",
       "temperature": "Cold",
-      "lastAction": "Scheduled Call",
+      "lastAction": "Follow-up 4",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-28",
+      "nextFollowUp": "2026-06-01",
       "notes": "Speaking today at 1pm on phone to close.",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-27",
-      "addedAt": "2026-05-27T13:51:42.201Z"
+      "addedAt": "2026-05-27T13:51:42.201Z",
+      "videoSent": false
     },
     {
       "id": "mpo4josi3rd1t4coxie",
@@ -294,5 +295,5 @@
       "addedAt": "2026-05-27T14:23:55.542Z"
     }
   ],
-  "lastUpdated": "2026-05-28T15:10:15.596Z"
+  "lastUpdated": "2026-05-28T15:12:32.052Z"
 }
