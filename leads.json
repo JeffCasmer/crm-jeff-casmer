@@ -293,7 +293,25 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T14:23:55.542Z"
+    },
+    {
+      "id": "mpq69kzc0relcltrx489",
+      "name": "Gareth Rosser",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gareth.rosser.33",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-29T00:16:53.880Z"
     }
   ],
-  "lastUpdated": "2026-05-28T15:12:32.052Z"
+  "lastUpdated": "2026-05-29T00:16:53.880Z"
 }
