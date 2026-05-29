@@ -59,15 +59,16 @@
       "phone": "",
       "social": "https://www.facebook.com/ludene.cooperclarke",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Prospect",
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Follow-up 3",
       "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-05-28",
+      "nextFollowUp": "2026-06-01",
       "notes": "",
-      "lastModified": "2026-05-25",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-25",
-      "addedAt": "2026-05-25T12:37:47.069Z"
+      "addedAt": "2026-05-25T12:37:47.069Z",
+      "videoSent": false
     },
     {
       "id": "mpl85zc3onk5l3pzhl8",
@@ -339,5 +340,5 @@
       "addedAt": "2026-05-29T00:23:23.830Z"
     }
   ],
-  "lastUpdated": "2026-05-29T00:26:04.246Z"
+  "lastUpdated": "2026-05-29T00:26:25.261Z"
 }
