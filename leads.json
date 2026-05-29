@@ -132,13 +132,14 @@
       "source": "Facebook",
       "status": "New Lead",
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Follow-up 4",
       "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-05-28",
+      "nextFollowUp": "2026-06-01",
       "notes": "",
-      "lastModified": "2026-05-25",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-25",
-      "addedAt": "2026-05-25T13:22:23.675Z"
+      "addedAt": "2026-05-25T13:22:23.675Z",
+      "videoSent": false
     },
     {
       "id": "mplcwumw36h20c25gag",
@@ -334,5 +335,5 @@
       "addedAt": "2026-05-29T00:23:23.830Z"
     }
   ],
-  "lastUpdated": "2026-05-29T00:24:51.557Z"
+  "lastUpdated": "2026-05-29T00:25:08.374Z"
 }
