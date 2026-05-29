@@ -311,7 +311,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-29T00:16:53.880Z"
+    },
+    {
+      "id": "mpq6hxvaic50g42azr",
+      "name": "Charles Dukes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/charles.dukes.756",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-30",
+      "notes": "",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-29T00:23:23.830Z"
     }
   ],
-  "lastUpdated": "2026-05-29T00:16:53.880Z"
+  "lastUpdated": "2026-05-29T00:23:23.830Z"
 }
