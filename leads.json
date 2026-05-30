@@ -185,16 +185,16 @@
       "phone": "",
       "social": "https://www.facebook.com/barrie.sandy/",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-05-25",
       "nextFollowUp": "2026-06-01",
       "notes": "",
-      "lastModified": "2026-05-28",
+      "lastModified": "2026-05-29",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T15:30:35.945Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpldcipt2b5tcynfy3c",
@@ -340,5 +340,5 @@
       "addedAt": "2026-05-29T00:23:23.830Z"
     }
   ],
-  "lastUpdated": "2026-05-29T00:26:25.261Z"
+  "lastUpdated": "2026-05-30T01:10:09.979Z"
 }
