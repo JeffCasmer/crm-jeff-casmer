@@ -359,7 +359,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-30T01:16:57.024Z"
+    },
+    {
+      "id": "mpro0femh252dwz8ne",
+      "name": "Gareth Rosser",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gareth.marland.3/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-30T01:21:26.015Z"
     }
   ],
-  "lastUpdated": "2026-05-30T01:16:57.024Z"
+  "lastUpdated": "2026-05-30T01:21:26.015Z"
 }
