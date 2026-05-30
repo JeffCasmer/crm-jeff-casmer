@@ -395,7 +395,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-30T01:23:48.439Z"
+    },
+    {
+      "id": "mpro69moej4ppu1f1t5",
+      "name": "Glenn Paterson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/glenn.paterson.12/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-30T01:25:58.464Z"
     }
   ],
-  "lastUpdated": "2026-05-30T01:23:48.440Z"
+  "lastUpdated": "2026-05-30T01:25:58.464Z"
 }
