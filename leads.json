@@ -341,7 +341,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-29T00:23:23.830Z"
+    },
+    {
+      "id": "mprnunuocbqyfa2u3ta",
+      "name": "Mark Eaton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mark.eaton.1029/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-30T01:16:57.024Z"
     }
   ],
-  "lastUpdated": "2026-05-30T01:13:56.271Z"
+  "lastUpdated": "2026-05-30T01:16:57.024Z"
 }
