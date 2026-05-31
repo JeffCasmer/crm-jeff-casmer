@@ -296,15 +296,16 @@
       "phone": "",
       "social": "https://www.facebook.com/steve.kingstonwalcott",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Prospect",
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
+      "lastAction": "Nurture",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-30",
+      "nextFollowUp": "2026-06-03",
       "notes": "",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-05-31",
       "dateAdded": "2026-05-27",
-      "addedAt": "2026-05-27T14:23:55.542Z"
+      "addedAt": "2026-05-27T14:23:55.542Z",
+      "videoSent": false
     },
     {
       "id": "mpq69kzc0relcltrx489",
@@ -415,5 +416,5 @@
       "addedAt": "2026-05-30T01:25:58.464Z"
     }
   ],
-  "lastUpdated": "2026-05-31T20:38:40.669Z"
+  "lastUpdated": "2026-05-31T20:39:02.708Z"
 }
