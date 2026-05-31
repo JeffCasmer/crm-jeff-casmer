@@ -414,7 +414,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-30T01:25:58.464Z"
+    },
+    {
+      "id": "mpubawvwqo4r6ahl6s",
+      "name": "Steven Thompson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/groups/166467421563582/user/1052405627",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-31",
+      "addedAt": "2026-05-31T21:48:58.748Z"
     }
   ],
-  "lastUpdated": "2026-05-31T20:41:55.373Z"
+  "lastUpdated": "2026-05-31T21:48:58.749Z"
 }
