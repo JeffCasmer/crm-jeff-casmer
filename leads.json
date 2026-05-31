@@ -468,7 +468,25 @@
       "lastModified": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T21:57:35.743Z"
+    },
+    {
+      "id": "mpubmnp3sznejieswj",
+      "name": "Shahid Khan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/groups/166467421563582/user/100001432985956",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-31",
+      "addedAt": "2026-05-31T21:58:06.711Z"
     }
   ],
-  "lastUpdated": "2026-05-31T21:57:35.743Z"
+  "lastUpdated": "2026-05-31T21:58:06.711Z"
 }
