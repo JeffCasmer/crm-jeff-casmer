@@ -332,14 +332,14 @@
       "phone": "",
       "social": "https://www.facebook.com/charles.dukes.756",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-05-30",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-28",
+      "lastModified": "2026-05-31",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-29T00:23:23.830Z"
     },
@@ -416,5 +416,5 @@
       "addedAt": "2026-05-30T01:25:58.464Z"
     }
   ],
-  "lastUpdated": "2026-05-31T20:39:02.708Z"
+  "lastUpdated": "2026-05-31T20:39:14.604Z"
 }
