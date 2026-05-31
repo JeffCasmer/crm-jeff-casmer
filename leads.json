@@ -260,13 +260,13 @@
       "phone": "",
       "social": "https://www.facebook.com/michael.paluso.2025",
       "source": "Facebook",
-      "status": "New Lead",
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "status": "Prospect",
+      "temperature": "Hot",
+      "lastAction": "Nurture",
       "lastContact": "2026-05-27",
       "nextFollowUp": "2026-06-01",
       "notes": "",
-      "lastModified": "2026-05-28",
+      "lastModified": "2026-05-31",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T13:53:13.794Z",
       "videoSent": false
@@ -416,5 +416,5 @@
       "addedAt": "2026-05-30T01:25:58.464Z"
     }
   ],
-  "lastUpdated": "2026-05-31T20:39:36.516Z"
+  "lastUpdated": "2026-05-31T20:41:30.669Z"
 }
