@@ -9,11 +9,11 @@
       "source": "Facebook",
       "status": "Nurture",
       "temperature": "Warm",
-      "lastAction": "Initial Contact",
+      "lastAction": "Follow-up 4",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-01",
+      "nextFollowUp": "2026-06-04",
       "notes": "",
-      "lastModified": "2026-05-29",
+      "lastModified": "2026-06-01",
       "customerSince": "2026-05-23",
       "dateAdded": "2026-05-23",
       "addedAt": "2026-05-23T21:38:20.825Z",
@@ -596,5 +596,5 @@
       "addedAt": "2026-06-01T15:46:23.358Z"
     }
   ],
-  "lastUpdated": "2026-06-01T15:46:23.358Z"
+  "lastUpdated": "2026-06-01T15:47:03.046Z"
 }
