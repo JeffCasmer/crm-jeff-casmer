@@ -630,7 +630,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T15:55:37.814Z"
+    },
+    {
+      "id": "mpveat12usv8ky75e8",
+      "name": "Darrick Potter",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/darrick.potter.7/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-04",
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T16:00:38.774Z"
     }
   ],
-  "lastUpdated": "2026-06-01T15:57:40.382Z"
+  "lastUpdated": "2026-06-01T16:00:38.774Z"
 }
