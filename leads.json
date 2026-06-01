@@ -504,7 +504,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T14:20:41.167Z"
+    },
+    {
+      "id": "mpvau3c6rxq7xnppwfe",
+      "name": "Veronica Ponnuthurai",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/veronica.ponnuthurai",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T14:23:40.134Z"
     }
   ],
-  "lastUpdated": "2026-06-01T14:20:41.167Z"
+  "lastUpdated": "2026-06-01T14:23:40.134Z"
 }
