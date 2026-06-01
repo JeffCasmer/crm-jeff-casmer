@@ -522,7 +522,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T14:23:40.134Z"
+    },
+    {
+      "id": "mpvaxjfyznss3zhcq5c",
+      "name": "Teague Gray",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/groups/166467421563582/user/100004301797588",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T14:26:20.974Z"
     }
   ],
-  "lastUpdated": "2026-06-01T14:23:40.134Z"
+  "lastUpdated": "2026-06-01T14:26:20.974Z"
 }
