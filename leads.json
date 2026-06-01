@@ -540,7 +540,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T14:26:20.974Z"
+    },
+    {
+      "id": "mpvb1m46p90lfvm6umk",
+      "name": "Rutka Ewelina",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/groups/166467421563582/user/100000226266773",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T14:29:31.062Z"
     }
   ],
-  "lastUpdated": "2026-06-01T14:26:20.974Z"
+  "lastUpdated": "2026-06-01T14:29:31.062Z"
 }
