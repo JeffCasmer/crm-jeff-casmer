@@ -594,7 +594,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T15:46:23.358Z"
+    },
+    {
+      "id": "mpve2d7i7fymg1v0urp",
+      "name": "Tasi Feite",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tfeite/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-04",
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T15:54:05.022Z"
     }
   ],
-  "lastUpdated": "2026-06-01T15:52:12.326Z"
+  "lastUpdated": "2026-06-01T15:54:05.022Z"
 }
