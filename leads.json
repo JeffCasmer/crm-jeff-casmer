@@ -666,7 +666,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T16:04:25.062Z"
+    },
+    {
+      "id": "mpwk817mz76rmo92bb",
+      "name": "Trader",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/trader.trader.372/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-04",
+      "notes": "",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T11:34:13.282Z"
     }
   ],
-  "lastUpdated": "2026-06-01T16:06:40.829Z"
+  "lastUpdated": "2026-06-02T11:34:13.282Z"
 }
