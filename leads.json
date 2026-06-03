@@ -30,7 +30,7 @@
       "temperature": "Warm",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-03",
+      "nextFollowUp": "2026-06-06",
       "notes": "",
       "lastModified": "2026-06-03",
       "dateAdded": "2026-05-23",
@@ -741,5 +741,5 @@
       "addedAt": "2026-06-03T11:06:22.446Z"
     }
   ],
-  "lastUpdated": "2026-06-03T23:11:05.505Z"
+  "lastUpdated": "2026-06-03T23:11:19.960Z"
 }
