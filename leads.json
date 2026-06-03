@@ -261,13 +261,13 @@
       "phone": "",
       "social": "https://www.facebook.com/michael.paluso.2025",
       "source": "Facebook",
-      "status": "Watched",
+      "status": "Nurture",
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-03",
+      "nextFollowUp": "2026-06-04",
       "notes": "",
-      "lastModified": "2026-06-01",
+      "lastModified": "2026-06-03",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T13:53:13.794Z",
       "videoSent": false
@@ -687,5 +687,5 @@
       "addedAt": "2026-06-02T11:34:13.282Z"
     }
   ],
-  "lastUpdated": "2026-06-03T10:55:18.784Z"
+  "lastUpdated": "2026-06-03T10:57:10.503Z"
 }
