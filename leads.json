@@ -685,7 +685,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T11:34:13.282Z"
+    },
+    {
+      "id": "mpxyi47rzv18fn309b",
+      "name": "Linda Harmer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/linda.harmer.1/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T11:01:44.535Z"
     }
   ],
-  "lastUpdated": "2026-06-03T10:57:10.503Z"
+  "lastUpdated": "2026-06-03T11:01:44.535Z"
 }
