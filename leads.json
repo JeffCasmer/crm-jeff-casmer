@@ -847,7 +847,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T23:42:41.173Z"
+    },
+    {
+      "id": "mpypqezy6cc5kcasm7t",
+      "name": "Terrance Dickson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/terrence.dickson.98/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-06",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T23:44:01.390Z"
     }
   ],
-  "lastUpdated": "2026-06-03T23:42:41.173Z"
+  "lastUpdated": "2026-06-03T23:44:01.390Z"
 }
