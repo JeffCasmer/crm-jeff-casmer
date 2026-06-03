@@ -703,7 +703,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T11:01:44.535Z"
+    },
+    {
+      "id": "mpxyjl27j6269fb1agm",
+      "name": "Jeff Payne",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jeff.payne.14/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T11:02:53.023Z"
     }
   ],
-  "lastUpdated": "2026-06-03T11:01:44.535Z"
+  "lastUpdated": "2026-06-03T11:02:53.023Z"
 }
