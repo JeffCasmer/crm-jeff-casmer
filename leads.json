@@ -298,12 +298,12 @@
       "social": "https://www.facebook.com/steve.kingstonwalcott",
       "source": "Facebook",
       "status": "Prospect",
-      "temperature": "Cold",
+      "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-03",
+      "nextFollowUp": "2026-06-05",
       "notes": "",
-      "lastModified": "2026-05-31",
+      "lastModified": "2026-06-03",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T14:23:55.542Z",
       "videoSent": false
@@ -741,5 +741,5 @@
       "addedAt": "2026-06-03T11:06:22.446Z"
     }
   ],
-  "lastUpdated": "2026-06-03T23:16:07.416Z"
+  "lastUpdated": "2026-06-03T23:16:28.136Z"
 }
