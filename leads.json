@@ -811,7 +811,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T23:35:53.254Z"
+    },
+    {
+      "id": "mpypm299topefk4muje",
+      "name": "Marius Hendricks",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/marius.hendricks",
+      "source": "Facebook",
+      "status": "Prospect",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-06",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T23:40:38.253Z"
     }
   ],
-  "lastUpdated": "2026-06-03T23:35:53.254Z"
+  "lastUpdated": "2026-06-03T23:40:38.253Z"
 }
