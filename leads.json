@@ -739,7 +739,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T11:06:22.446Z"
+    },
+    {
+      "id": "mpyp4b5jeokzptmgdx5",
+      "name": "Dan Davies",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dan.davies.31924792/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T23:26:49.975Z"
     }
   ],
-  "lastUpdated": "2026-06-03T23:17:45.073Z"
+  "lastUpdated": "2026-06-03T23:26:49.975Z"
 }
