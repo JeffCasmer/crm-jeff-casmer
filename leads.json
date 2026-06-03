@@ -757,7 +757,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T23:26:49.975Z"
+    },
+    {
+      "id": "mpyp8p7rxi8rvhopxep",
+      "name": "Chien Lim",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chien.lim.56",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-06",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T23:30:14.823Z"
     }
   ],
-  "lastUpdated": "2026-06-03T23:26:49.975Z"
+  "lastUpdated": "2026-06-03T23:30:14.823Z"
 }
