@@ -279,13 +279,13 @@
       "phone": "",
       "social": "https://www.facebook.com/toddsmithakathelyfepoet",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-02",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-28",
+      "lastModified": "2026-06-03",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T13:56:11.961Z",
       "videoSent": false
@@ -687,5 +687,5 @@
       "addedAt": "2026-06-02T11:34:13.282Z"
     }
   ],
-  "lastUpdated": "2026-06-03T10:55:05.777Z"
+  "lastUpdated": "2026-06-03T10:55:18.784Z"
 }
