@@ -242,16 +242,17 @@
       "phone": "",
       "social": "https://www.facebook.com/erik.presto.3",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Customer",
       "temperature": "Hot",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-05-27",
       "nextFollowUp": "2026-06-02",
       "notes": "Speaking today at 1pm on phone to close.",
-      "lastModified": "2026-06-01",
+      "lastModified": "2026-06-03",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T13:51:42.201Z",
-      "videoSent": false
+      "videoSent": false,
+      "customerSince": "2026-06-03"
     },
     {
       "id": "mpo4josi3rd1t4coxie",
@@ -686,5 +687,5 @@
       "addedAt": "2026-06-02T11:34:13.282Z"
     }
   ],
-  "lastUpdated": "2026-06-02T11:34:13.282Z"
+  "lastUpdated": "2026-06-03T10:55:05.777Z"
 }
