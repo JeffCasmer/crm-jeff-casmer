@@ -244,11 +244,11 @@
       "source": "Facebook",
       "status": "Customer",
       "temperature": "Hot",
-      "lastAction": "Follow-up 4",
+      "lastAction": "Nurture",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-02",
+      "nextFollowUp": "2026-06-08",
       "notes": "Speaking today at 1pm on phone to close.",
-      "lastModified": "2026-06-03",
+      "lastModified": "2026-06-04",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T13:51:42.201Z",
       "videoSent": false,
@@ -867,5 +867,5 @@
       "addedAt": "2026-06-03T23:44:01.390Z"
     }
   ],
-  "lastUpdated": "2026-06-03T23:44:01.390Z"
+  "lastUpdated": "2026-06-04T19:18:49.320Z"
 }
