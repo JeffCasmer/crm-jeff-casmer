@@ -855,14 +855,14 @@
       "phone": "",
       "social": "https://www.facebook.com/terrence.dickson.98/",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-03",
       "nextFollowUp": "2026-06-06",
       "notes": "",
-      "lastModified": "2026-06-03",
+      "lastModified": "2026-06-04",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T23:44:01.390Z"
     },
@@ -975,5 +975,5 @@
       "addedAt": "2026-06-05T00:44:34.545Z"
     }
   ],
-  "lastUpdated": "2026-06-05T00:44:34.545Z"
+  "lastUpdated": "2026-06-05T00:44:50.320Z"
 }
