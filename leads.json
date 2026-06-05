@@ -919,7 +919,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-05T00:18:26.370Z"
+    },
+    {
+      "id": "mq076sgw4slpltopsqv",
+      "name": "Jamie MCcaffety",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jamie.mccaffety/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-05T00:40:24.992Z"
     }
   ],
-  "lastUpdated": "2026-06-05T00:18:26.370Z"
+  "lastUpdated": "2026-06-05T00:40:24.992Z"
 }
