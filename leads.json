@@ -865,7 +865,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T23:44:01.390Z"
+    },
+    {
+      "id": "mq05xd5v6534c9v45qi",
+      "name": "Eyes Wide Christ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/eyeswidechrist/",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-06",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-05T00:05:05.635Z"
     }
   ],
-  "lastUpdated": "2026-06-04T19:26:04.613Z"
+  "lastUpdated": "2026-06-05T00:05:05.635Z"
 }
