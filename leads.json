@@ -937,7 +937,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-05T00:40:24.992Z"
+    },
+    {
+      "id": "mq0791owla048yl567a",
+      "name": "Dan Davidson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/danmdavidson/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-05T00:42:10.256Z"
     }
   ],
-  "lastUpdated": "2026-06-05T00:40:24.992Z"
+  "lastUpdated": "2026-06-05T00:42:10.256Z"
 }
