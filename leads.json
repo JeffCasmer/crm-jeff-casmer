@@ -973,7 +973,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-05T00:44:34.545Z"
+    },
+    {
+      "id": "mq07h7ndh3o69s8hqc6",
+      "name": "Felipe Picon",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/felipe.n.picon/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-05T00:48:31.225Z"
     }
   ],
-  "lastUpdated": "2026-06-05T00:44:50.320Z"
+  "lastUpdated": "2026-06-05T00:48:31.225Z"
 }
