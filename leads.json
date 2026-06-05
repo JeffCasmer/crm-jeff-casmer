@@ -955,7 +955,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-05T00:42:10.256Z"
+    },
+    {
+      "id": "mq07c50xo5lyzq414ke",
+      "name": "Sabrina Christopher",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sabrina.ard.7/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-05T00:44:34.545Z"
     }
   ],
-  "lastUpdated": "2026-06-05T00:42:10.256Z"
+  "lastUpdated": "2026-06-05T00:44:34.545Z"
 }
