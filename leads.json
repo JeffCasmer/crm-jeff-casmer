@@ -1090,10 +1090,10 @@
       "phone": "",
       "social": "https://www.facebook.com/alex150668",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Follow-up 1",
       "lastContact": "2026-06-06",
       "nextFollowUp": "2026-06-08",
       "notes": "",
@@ -1174,5 +1174,5 @@
       "addedAt": "2026-06-06T14:43:52.918Z"
     }
   ],
-  "lastUpdated": "2026-06-06T16:46:03.510Z"
+  "lastUpdated": "2026-06-06T20:56:20.282Z"
 }
