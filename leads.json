@@ -1190,7 +1190,25 @@
       "lastModified": "2026-06-06",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-06T21:01:40.866Z"
+    },
+    {
+      "id": "mq2uca56bpfummwnlrc",
+      "name": "Romeo Lheur",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jr.lheureux.3/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-06",
+      "nextFollowUp": "2026-06-09",
+      "notes": "",
+      "lastModified": "2026-06-06",
+      "dateAdded": "2026-06-06",
+      "addedAt": "2026-06-06T21:04:04.698Z"
     }
   ],
-  "lastUpdated": "2026-06-06T21:01:40.866Z"
+  "lastUpdated": "2026-06-06T21:04:04.698Z"
 }
