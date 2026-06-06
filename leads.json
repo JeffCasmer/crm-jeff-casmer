@@ -1064,7 +1064,25 @@
       "lastModified": "2026-06-06",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-06T14:28:36.205Z"
+    },
+    {
+      "id": "mq2g9hd2bic55yyddpm",
+      "name": "Anthony King",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/anto.beck.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-06",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-06",
+      "dateAdded": "2026-06-06",
+      "addedAt": "2026-06-06T14:29:59.462Z"
     }
   ],
-  "lastUpdated": "2026-06-06T14:28:36.205Z"
+  "lastUpdated": "2026-06-06T14:29:59.462Z"
 }
