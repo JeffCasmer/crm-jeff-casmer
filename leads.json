@@ -1262,7 +1262,25 @@
       "lastModified": "2026-06-06",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-07T00:32:19.597Z"
+    },
+    {
+      "id": "mq31tt3wd77n56wcdj4",
+      "name": "Mark Baddeley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/m.baddeley2",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-06",
+      "nextFollowUp": "2026-06-09",
+      "notes": "",
+      "lastModified": "2026-06-06",
+      "dateAdded": "2026-06-06",
+      "addedAt": "2026-06-07T00:33:39.740Z"
     }
   ],
-  "lastUpdated": "2026-06-07T00:32:19.597Z"
+  "lastUpdated": "2026-06-07T00:33:39.740Z"
 }
