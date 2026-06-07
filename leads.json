@@ -1316,7 +1316,25 @@
       "lastModified": "2026-06-06",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-07T00:39:45.556Z"
+    },
+    {
+      "id": "mq3247zas9ijidmn19b",
+      "name": "Nathan Shook",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nathan.shook.98",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-06",
+      "nextFollowUp": "2026-06-09",
+      "notes": "",
+      "lastModified": "2026-06-06",
+      "dateAdded": "2026-06-06",
+      "addedAt": "2026-06-07T00:41:45.574Z"
     }
   ],
-  "lastUpdated": "2026-06-07T00:39:45.556Z"
+  "lastUpdated": "2026-06-07T00:41:45.574Z"
 }
