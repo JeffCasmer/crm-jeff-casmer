@@ -352,12 +352,12 @@
       "phone": "",
       "social": "https://www.facebook.com/mark.eaton.1029/",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-29",
-      "nextFollowUp": "2026-06-11",
+      "nextFollowUp": "2026-06-09",
       "notes": "",
       "lastModified": "2026-06-08",
       "dateAdded": "2026-05-29",
@@ -1895,5 +1895,5 @@
       "addedAt": "2026-06-08T19:11:56.352Z"
     }
   ],
-  "lastUpdated": "2026-06-08T19:28:43.503Z"
+  "lastUpdated": "2026-06-08T19:31:01.159Z"
 }
