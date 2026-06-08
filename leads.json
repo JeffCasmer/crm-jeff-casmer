@@ -1407,7 +1407,25 @@
       "lastModified": "2026-06-07",
       "dateAdded": "2026-06-07",
       "addedAt": "2026-06-08T00:34:17.733Z"
+    },
+    {
+      "id": "mq4heanhy6sizu760t",
+      "name": "David Budhoo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/david.budhoo.75",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-07",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-07",
+      "dateAdded": "2026-06-07",
+      "addedAt": "2026-06-08T00:37:16.013Z"
     }
   ],
-  "lastUpdated": "2026-06-08T00:34:17.733Z"
+  "lastUpdated": "2026-06-08T00:37:16.013Z"
 }
