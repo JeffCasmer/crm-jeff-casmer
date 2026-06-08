@@ -1857,7 +1857,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T18:43:37.627Z"
+    },
+    {
+      "id": "mq5k7wo2tzxrwue083",
+      "name": "Ron Joe",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ron.joe.503954",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-11",
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T18:44:02.978Z"
     }
   ],
-  "lastUpdated": "2026-06-08T18:43:37.627Z"
+  "lastUpdated": "2026-06-08T18:44:02.978Z"
 }
