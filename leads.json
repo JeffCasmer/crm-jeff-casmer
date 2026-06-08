@@ -1443,7 +1443,25 @@
       "lastModified": "2026-06-07",
       "dateAdded": "2026-06-07",
       "addedAt": "2026-06-08T01:03:29.230Z"
+    },
+    {
+      "id": "mq4ilh72aklzzulvwo4",
+      "name": "Anthony Laidlaw",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100080971771398",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-07",
+      "nextFollowUp": "2026-06-09",
+      "notes": "",
+      "lastModified": "2026-06-07",
+      "dateAdded": "2026-06-07",
+      "addedAt": "2026-06-08T01:10:50.702Z"
     }
   ],
-  "lastUpdated": "2026-06-08T01:03:29.230Z"
+  "lastUpdated": "2026-06-08T01:10:50.702Z"
 }
