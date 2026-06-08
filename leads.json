@@ -964,14 +964,14 @@
       "phone": "",
       "social": "https://www.facebook.com/sabrina.ard.7/",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Prospect",
       "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "temperature": "Warm",
+      "lastAction": "Follow-up 3",
       "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-06-08",
+      "nextFollowUp": "2026-06-12",
       "notes": "",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-06-08",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-05T00:44:34.545Z"
     },
@@ -1589,5 +1589,5 @@
       "addedAt": "2026-06-08T14:44:51.251Z"
     }
   ],
-  "lastUpdated": "2026-06-08T14:58:32.652Z"
+  "lastUpdated": "2026-06-08T14:58:51.893Z"
 }
