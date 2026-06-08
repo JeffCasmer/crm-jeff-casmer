@@ -1533,7 +1533,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T14:27:57.363Z"
+    },
+    {
+      "id": "mq5bj28kjuwe5c4p3lc",
+      "name": "Travis Bruce",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/travis.bruce.714",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-10",
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T14:40:46.868Z"
     }
   ],
-  "lastUpdated": "2026-06-08T14:27:57.363Z"
+  "lastUpdated": "2026-06-08T14:40:46.868Z"
 }
