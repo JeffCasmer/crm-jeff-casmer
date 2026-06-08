@@ -1415,14 +1415,14 @@
       "phone": "",
       "social": "https://www.facebook.com/david.budhoo.75",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-07",
-      "nextFollowUp": "2026-06-08",
+      "nextFollowUp": "2026-06-09",
       "notes": "",
-      "lastModified": "2026-06-07",
+      "lastModified": "2026-06-08",
       "dateAdded": "2026-06-07",
       "addedAt": "2026-06-08T00:37:16.013Z"
     },
@@ -1589,5 +1589,5 @@
       "addedAt": "2026-06-08T14:44:51.251Z"
     }
   ],
-  "lastUpdated": "2026-06-08T14:45:00.412Z"
+  "lastUpdated": "2026-06-08T14:47:16.788Z"
 }
