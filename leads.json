@@ -1582,12 +1582,12 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-08",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-06-10",
       "notes": "",
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T14:44:51.251Z"
     }
   ],
-  "lastUpdated": "2026-06-08T14:44:51.251Z"
+  "lastUpdated": "2026-06-08T14:45:00.412Z"
 }
