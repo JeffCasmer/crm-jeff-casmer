@@ -1821,7 +1821,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T18:42:11.402Z"
+    },
+    {
+      "id": "mq5k6gh68hsth13049e",
+      "name": "John Jockem",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.f.jochem",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-11",
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T18:42:55.338Z"
     }
   ],
-  "lastUpdated": "2026-06-08T18:42:11.402Z"
+  "lastUpdated": "2026-06-08T18:42:55.338Z"
 }
