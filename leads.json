@@ -1785,7 +1785,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T18:36:19.730Z"
+    },
+    {
+      "id": "mq5k4woq11pdosxpl6hl",
+      "name": "Jorge Ruiz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jorge.j.ruiz.56/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-11",
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T18:41:43.034Z"
     }
   ],
-  "lastUpdated": "2026-06-08T18:36:19.730Z"
+  "lastUpdated": "2026-06-08T18:41:43.034Z"
 }
