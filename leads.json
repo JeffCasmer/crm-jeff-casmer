@@ -1569,7 +1569,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T14:42:42.340Z"
+    },
+    {
+      "id": "mq5boaszeryq8l2mns4",
+      "name": "Brad Steinbach",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brad.steinbach.3/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T14:44:51.251Z"
     }
   ],
-  "lastUpdated": "2026-06-08T14:42:42.340Z"
+  "lastUpdated": "2026-06-08T14:44:51.251Z"
 }
