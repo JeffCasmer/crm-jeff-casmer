@@ -1731,7 +1731,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T18:34:34.962Z"
+    },
+    {
+      "id": "mq5jwhgz9rqsdxotju",
+      "name": "James Chambers",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jameschambers2261",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-11",
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T18:35:10.067Z"
     }
   ],
-  "lastUpdated": "2026-06-08T18:34:34.962Z"
+  "lastUpdated": "2026-06-08T18:35:10.067Z"
 }
