@@ -1479,7 +1479,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T14:16:14.363Z"
+    },
+    {
+      "id": "mq5aqgqx56mu4siya26",
+      "name": "Sky Kaufmann",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sykaufman1/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-10",
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T14:18:32.650Z"
     }
   ],
-  "lastUpdated": "2026-06-08T14:16:14.363Z"
+  "lastUpdated": "2026-06-08T14:18:32.650Z"
 }
