@@ -1839,7 +1839,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T18:42:55.338Z"
+    },
+    {
+      "id": "mq5k7d3v8xrdlhcxjak",
+      "name": "Chuck Donahue",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chuck.donahue.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-11",
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T18:43:37.627Z"
     }
   ],
-  "lastUpdated": "2026-06-08T18:42:55.338Z"
+  "lastUpdated": "2026-06-08T18:43:37.627Z"
 }
