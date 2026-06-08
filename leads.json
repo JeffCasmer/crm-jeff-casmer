@@ -98,13 +98,13 @@
       "phone": "",
       "social": "https://www.facebook.com/jaz.porchia.9/",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Prospect",
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-06-08",
+      "nextFollowUp": "2026-06-10",
       "notes": "",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-06-08",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T13:12:49.419Z",
       "videoSent": false
@@ -1877,5 +1877,5 @@
       "addedAt": "2026-06-08T18:44:02.978Z"
     }
   ],
-  "lastUpdated": "2026-06-08T19:09:25.424Z"
+  "lastUpdated": "2026-06-08T19:09:48.368Z"
 }
