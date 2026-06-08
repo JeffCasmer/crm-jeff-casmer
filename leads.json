@@ -1649,8 +1649,8 @@
       "phone": "",
       "social": "https://www.facebook.com/mail.mikelloyd",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-08",
@@ -1877,5 +1877,5 @@
       "addedAt": "2026-06-08T18:44:02.978Z"
     }
   ],
-  "lastUpdated": "2026-06-08T18:46:53.890Z"
+  "lastUpdated": "2026-06-08T19:05:19.328Z"
 }
