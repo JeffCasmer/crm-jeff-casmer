@@ -1389,7 +1389,25 @@
       "customerSince": "2026-06-07",
       "dateAdded": "2026-06-07",
       "addedAt": "2026-06-08T00:21:24.180Z"
+    },
+    {
+      "id": "mq4hah39mm5rvh3jrii",
+      "name": "Jaime Richardson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jr.stealthfx/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-07",
+      "nextFollowUp": "2026-06-09",
+      "notes": "",
+      "lastModified": "2026-06-07",
+      "dateAdded": "2026-06-07",
+      "addedAt": "2026-06-08T00:34:17.733Z"
     }
   ],
-  "lastUpdated": "2026-06-08T00:30:53.813Z"
+  "lastUpdated": "2026-06-08T00:34:17.733Z"
 }
