@@ -1677,7 +1677,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T18:32:55.738Z"
+    },
+    {
+      "id": "mq5jucjuvo32ml4mar",
+      "name": "Marianna Sachi",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100091392366093",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-11",
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T18:33:30.378Z"
     }
   ],
-  "lastUpdated": "2026-06-08T18:32:55.738Z"
+  "lastUpdated": "2026-06-08T18:33:30.378Z"
 }
