@@ -1497,7 +1497,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T14:18:32.650Z"
+    },
+    {
+      "id": "mq5awlnun8cnt8xg8in",
+      "name": "Chris Compston",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chris.compston.37/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-10",
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T14:23:18.954Z"
     }
   ],
-  "lastUpdated": "2026-06-08T14:18:32.650Z"
+  "lastUpdated": "2026-06-08T14:23:18.954Z"
 }
