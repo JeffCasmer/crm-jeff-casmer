@@ -1425,7 +1425,25 @@
       "lastModified": "2026-06-07",
       "dateAdded": "2026-06-07",
       "addedAt": "2026-06-08T00:37:16.013Z"
+    },
+    {
+      "id": "mq4ic0jyiezhnxxbq6f",
+      "name": "Chris Michael",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chrisharman7/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-07",
+      "nextFollowUp": "2026-06-09",
+      "notes": "",
+      "lastModified": "2026-06-07",
+      "dateAdded": "2026-06-07",
+      "addedAt": "2026-06-08T01:03:29.230Z"
     }
   ],
-  "lastUpdated": "2026-06-08T00:37:16.013Z"
+  "lastUpdated": "2026-06-08T01:03:29.230Z"
 }
