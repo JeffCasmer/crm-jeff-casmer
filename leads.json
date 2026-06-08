@@ -1659,7 +1659,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T18:32:21.634Z"
+    },
+    {
+      "id": "mq5jtltmeqwiuilmatb",
+      "name": "Adriano Gordon",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/adriano.gordon.10",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-11",
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T18:32:55.738Z"
     }
   ],
-  "lastUpdated": "2026-06-08T18:32:21.634Z"
+  "lastUpdated": "2026-06-08T18:32:55.738Z"
 }
