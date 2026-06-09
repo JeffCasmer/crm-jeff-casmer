@@ -1198,14 +1198,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jr.lheureux.3/",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Follow-up 2",
       "lastContact": "2026-06-06",
-      "nextFollowUp": "2026-06-09",
+      "nextFollowUp": "2026-06-11",
       "notes": "",
-      "lastModified": "2026-06-06",
+      "lastModified": "2026-06-09",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-06T21:04:04.698Z"
     },
@@ -1895,5 +1895,5 @@
       "addedAt": "2026-06-08T19:11:56.352Z"
     }
   ],
-  "lastUpdated": "2026-06-09T20:32:28.118Z"
+  "lastUpdated": "2026-06-09T20:33:39.245Z"
 }
