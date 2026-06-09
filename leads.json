@@ -1219,11 +1219,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Follow-up 1",
       "lastContact": "2026-06-06",
-      "nextFollowUp": "2026-06-09",
+      "nextFollowUp": "2026-06-11",
       "notes": "",
-      "lastModified": "2026-06-06",
+      "lastModified": "2026-06-09",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-06T21:21:59.475Z"
     },
@@ -1895,5 +1895,5 @@
       "addedAt": "2026-06-08T19:11:56.352Z"
     }
   ],
-  "lastUpdated": "2026-06-09T20:31:03.973Z"
+  "lastUpdated": "2026-06-09T20:32:28.118Z"
 }
