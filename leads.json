@@ -1983,7 +1983,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-10T01:34:42.636Z"
+    },
+    {
+      "id": "mq8pxjh75704mhi6fc5",
+      "name": "Mario Sequira",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100010596553712",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-12",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T23:47:15.547Z"
     }
   ],
-  "lastUpdated": "2026-06-10T23:35:07.898Z"
+  "lastUpdated": "2026-06-10T23:47:15.547Z"
 }
