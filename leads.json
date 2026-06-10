@@ -1911,7 +1911,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-10T01:01:38.996Z"
+    },
+    {
+      "id": "mq7d95rafxmr7egkrx",
+      "name": "Justin Kirby",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/justin.kirby.3551/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-06-11",
+      "notes": "",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-10T01:04:36.454Z"
     }
   ],
-  "lastUpdated": "2026-06-10T01:01:38.996Z"
+  "lastUpdated": "2026-06-10T01:04:36.454Z"
 }
