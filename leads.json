@@ -11,9 +11,9 @@
       "temperature": "Warm",
       "lastAction": "Not Interested",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-11",
+      "nextFollowUp": "2026-07-11",
       "notes": "",
-      "lastModified": "2026-06-08",
+      "lastModified": "2026-06-11",
       "customerSince": "2026-05-23",
       "dateAdded": "2026-05-23",
       "addedAt": "2026-05-23T21:38:20.825Z",
@@ -2093,5 +2093,5 @@
       "addedAt": "2026-06-11T02:15:59.488Z"
     }
   ],
-  "lastUpdated": "2026-06-11T23:44:18.743Z"
+  "lastUpdated": "2026-06-11T23:44:39.126Z"
 }
