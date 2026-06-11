@@ -2037,7 +2037,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T02:05:29.840Z"
+    },
+    {
+      "id": "mq8uyvg8ew9lvlb8bgk",
+      "name": "Tesla Bynum",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tesla.bynum",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T02:08:15.800Z"
     }
   ],
-  "lastUpdated": "2026-06-11T02:05:29.840Z"
+  "lastUpdated": "2026-06-11T02:08:15.800Z"
 }
