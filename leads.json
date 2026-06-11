@@ -2055,7 +2055,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T02:08:15.800Z"
+    },
+    {
+      "id": "mq8v0p94ia1mb095ue",
+      "name": "Hans Traxler",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/hans.traxler",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T02:09:41.080Z"
     }
   ],
-  "lastUpdated": "2026-06-11T02:08:15.800Z"
+  "lastUpdated": "2026-06-11T02:09:41.080Z"
 }
