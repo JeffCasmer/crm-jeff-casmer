@@ -2019,7 +2019,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T23:51:32.211Z"
+    },
+    {
+      "id": "mq8uvbe80f8cjtz43j89",
+      "name": "Tony Bradshaw",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tonybradshaw4",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T02:05:29.840Z"
     }
   ],
-  "lastUpdated": "2026-06-10T23:52:47.739Z"
+  "lastUpdated": "2026-06-11T02:05:29.840Z"
 }
