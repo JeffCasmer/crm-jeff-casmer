@@ -2073,7 +2073,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T02:09:41.080Z"
+    },
+    {
+      "id": "mq8v4g2orzikksvb3ra",
+      "name": "Jim Park",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jim.park.3990/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T02:12:35.808Z"
     }
   ],
-  "lastUpdated": "2026-06-11T02:09:41.080Z"
+  "lastUpdated": "2026-06-11T02:12:35.808Z"
 }
