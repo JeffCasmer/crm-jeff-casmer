@@ -2145,7 +2145,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T21:06:32.685Z"
+    },
+    {
+      "id": "mqbf4lss65j29ay6sx",
+      "name": "Keith Ward",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100086275676940",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-14",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T21:08:07.900Z"
     }
   ],
-  "lastUpdated": "2026-06-12T21:06:32.685Z"
+  "lastUpdated": "2026-06-12T21:08:07.900Z"
 }
