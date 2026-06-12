@@ -2181,7 +2181,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T21:10:50.261Z"
+    },
+    {
+      "id": "mqbg5lzfhjxeyz4ll1",
+      "name": "Claudia Long",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/claudia.long.54/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T21:36:54.411Z"
     }
   ],
-  "lastUpdated": "2026-06-12T21:10:50.261Z"
+  "lastUpdated": "2026-06-12T21:36:54.411Z"
 }
