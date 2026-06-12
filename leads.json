@@ -2289,7 +2289,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T23:52:53.874Z"
+    },
+    {
+      "id": "mqbl2gje5uisc6j92qp",
+      "name": "John Ritchie",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.ritchie.391082/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T23:54:25.466Z"
     }
   ],
-  "lastUpdated": "2026-06-12T23:52:53.874Z"
+  "lastUpdated": "2026-06-12T23:54:25.466Z"
 }
