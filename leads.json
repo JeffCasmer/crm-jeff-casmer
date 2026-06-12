@@ -2217,7 +2217,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T23:43:42.554Z"
+    },
+    {
+      "id": "mqbkqfxn9nzujwwwga7",
+      "name": "Chris Stevens",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chris.stevens.1675275/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T23:45:04.811Z"
     }
   ],
-  "lastUpdated": "2026-06-12T23:43:42.554Z"
+  "lastUpdated": "2026-06-12T23:45:04.811Z"
 }
