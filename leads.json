@@ -2199,7 +2199,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T21:36:54.411Z"
+    },
+    {
+      "id": "mqbkoogqxfiibv4vsi",
+      "name": "Jared Emmette",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jared.emmette/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T23:43:42.554Z"
     }
   ],
-  "lastUpdated": "2026-06-12T23:32:33.619Z"
+  "lastUpdated": "2026-06-12T23:43:42.554Z"
 }
