@@ -2073,7 +2073,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T02:15:59.488Z"
+    },
+    {
+      "id": "mqa67r6zu38xesdctuf",
+      "name": "Charles Sharpe",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/charles.sharpe.927/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-14",
+      "notes": "",
+      "lastModified": "2026-06-11",
+      "dateAdded": "2026-06-11",
+      "addedAt": "2026-06-12T00:10:52.139Z"
     }
   ],
-  "lastUpdated": "2026-06-11T23:50:15.046Z"
+  "lastUpdated": "2026-06-12T00:10:52.139Z"
 }
