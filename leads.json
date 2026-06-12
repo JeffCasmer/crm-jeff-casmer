@@ -2163,7 +2163,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T21:08:07.900Z"
+    },
+    {
+      "id": "mqbf832tynbzkc123p",
+      "name": "Louann Kristoff",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/louann.kristoff/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-14",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T21:10:50.261Z"
     }
   ],
-  "lastUpdated": "2026-06-12T21:08:07.900Z"
+  "lastUpdated": "2026-06-12T21:10:50.261Z"
 }
