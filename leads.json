@@ -2127,7 +2127,25 @@
       "lastModified": "2026-06-11",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-12T00:26:50.400Z"
+    },
+    {
+      "id": "mqbf2kbxq232nhw7m4c",
+      "name": "Daniel Mchane",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100000566330225",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-14",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T21:06:32.685Z"
     }
   ],
-  "lastUpdated": "2026-06-12T21:01:44.933Z"
+  "lastUpdated": "2026-06-12T21:06:32.685Z"
 }
