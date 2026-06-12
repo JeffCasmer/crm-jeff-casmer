@@ -2235,7 +2235,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T23:45:04.811Z"
+    },
+    {
+      "id": "mqbkt27uo9nhiazx6xs",
+      "name": "Marty Gambill",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chiefredneck/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T23:47:07.002Z"
     }
   ],
-  "lastUpdated": "2026-06-12T23:45:04.811Z"
+  "lastUpdated": "2026-06-12T23:47:07.002Z"
 }
