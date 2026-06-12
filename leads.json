@@ -2271,7 +2271,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T23:49:31.930Z"
+    },
+    {
+      "id": "mqbl0hv62zvczqbymfx",
+      "name": "Tom Hall",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tom.hall.188478/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T23:52:53.874Z"
     }
   ],
-  "lastUpdated": "2026-06-12T23:49:31.930Z"
+  "lastUpdated": "2026-06-12T23:52:53.874Z"
 }
