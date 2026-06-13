@@ -2343,7 +2343,25 @@
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-13T11:58:20.467Z"
+    },
+    {
+      "id": "mqcb1vpw3r350h7es66",
+      "name": "Karl Knight",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/karl.knight.522/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-13T12:01:48.500Z"
     }
   ],
-  "lastUpdated": "2026-06-13T11:58:20.467Z"
+  "lastUpdated": "2026-06-13T12:01:48.500Z"
 }
