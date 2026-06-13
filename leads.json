@@ -2361,7 +2361,25 @@
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-13T12:01:48.500Z"
+    },
+    {
+      "id": "mqcb3y378k1ykfm16mj",
+      "name": "Stephen Wilson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stephen.wilson.524596/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-13T12:03:24.883Z"
     }
   ],
-  "lastUpdated": "2026-06-13T12:01:48.500Z"
+  "lastUpdated": "2026-06-13T12:03:24.883Z"
 }
