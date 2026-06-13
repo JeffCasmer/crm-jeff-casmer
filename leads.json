@@ -1505,14 +1505,14 @@
       "phone": "",
       "social": "https://www.facebook.com/travis.bruce.714",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-08",
-      "nextFollowUp": "2026-06-13",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-06-13",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T14:40:46.868Z"
     },
@@ -2471,5 +2471,5 @@
       "addedAt": "2026-06-13T12:15:17.705Z"
     }
   ],
-  "lastUpdated": "2026-06-13T13:01:09.413Z"
+  "lastUpdated": "2026-06-13T21:24:20.701Z"
 }
