@@ -2451,7 +2451,25 @@
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-13T12:11:48.754Z"
+    },
+    {
+      "id": "mqcbj83t45geac97rp5",
+      "name": "Luiz Rosa",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/luisroa1286",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": "2026-06-16",
+      "notes": "",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-13T12:15:17.705Z"
     }
   ],
-  "lastUpdated": "2026-06-13T12:11:48.754Z"
+  "lastUpdated": "2026-06-13T12:15:17.705Z"
 }
