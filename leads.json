@@ -1126,14 +1126,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jeramiah.botkin/",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-06-06",
-      "nextFollowUp": "2026-06-13",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-06-13",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-06T14:41:03.517Z"
     },
@@ -2471,5 +2471,5 @@
       "addedAt": "2026-06-13T12:15:17.705Z"
     }
   ],
-  "lastUpdated": "2026-06-13T21:39:41.788Z"
+  "lastUpdated": "2026-06-13T21:40:25.244Z"
 }
