@@ -2487,7 +2487,25 @@
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-14T00:21:01.642Z"
+    },
+    {
+      "id": "mqd4sdw3gdyt4q6yykv",
+      "name": "Ross Pellow",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ross.pellow/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": "2026-06-16",
+      "notes": "",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-14T01:54:13.971Z"
     }
   ],
-  "lastUpdated": "2026-06-14T00:21:01.642Z"
+  "lastUpdated": "2026-06-14T01:54:13.971Z"
 }
