@@ -2505,7 +2505,25 @@
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-14T01:54:13.971Z"
+    },
+    {
+      "id": "mqd4wzvwq1rb0zxnagp",
+      "name": "Chris Keep",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chris.keep.94",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-14T01:57:49.100Z"
     }
   ],
-  "lastUpdated": "2026-06-14T01:54:13.971Z"
+  "lastUpdated": "2026-06-14T01:57:49.100Z"
 }
