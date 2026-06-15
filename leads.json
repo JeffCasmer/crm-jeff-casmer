@@ -2171,14 +2171,14 @@
       "phone": "",
       "social": "https://www.facebook.com/louann.kristoff/",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-12",
-      "nextFollowUp": "2026-06-14",
+      "nextFollowUp": "2026-06-16",
       "notes": "",
-      "lastModified": "2026-06-12",
+      "lastModified": "2026-06-14",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T21:10:50.261Z"
     },
@@ -2633,5 +2633,5 @@
       "addedAt": "2026-06-15T01:11:37.844Z"
     }
   ],
-  "lastUpdated": "2026-06-15T01:11:37.844Z"
+  "lastUpdated": "2026-06-15T01:12:48.412Z"
 }
