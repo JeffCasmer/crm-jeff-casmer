@@ -2631,7 +2631,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:11:37.844Z"
+    },
+    {
+      "id": "mqeiupc3beouh7d3lq9",
+      "name": "Gregory Bukowki",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Grzegorz.Bukowski.seniorgrzes",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-16",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-15T01:15:42.915Z"
     }
   ],
-  "lastUpdated": "2026-06-15T01:12:48.412Z"
+  "lastUpdated": "2026-06-15T01:15:42.915Z"
 }
