@@ -2518,12 +2518,12 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-13",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-06-16",
       "notes": "",
-      "lastModified": "2026-06-13",
+      "lastModified": "2026-06-14",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-14T01:57:49.100Z"
     }
   ],
-  "lastUpdated": "2026-06-14T01:57:49.100Z"
+  "lastUpdated": "2026-06-15T00:29:02.178Z"
 }
