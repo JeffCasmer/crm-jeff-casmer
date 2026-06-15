@@ -2649,7 +2649,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:15:42.915Z"
+    },
+    {
+      "id": "mqejbrubjsymg3jnq3d",
+      "name": "Margaret Gonzales",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/margaret.gonzales.944/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-16",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-15T01:28:59.315Z"
     }
   ],
-  "lastUpdated": "2026-06-15T01:15:42.915Z"
+  "lastUpdated": "2026-06-15T01:28:59.315Z"
 }
