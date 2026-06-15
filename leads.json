@@ -2721,7 +2721,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:46:11.120Z"
+    },
+    {
+      "id": "mqejyjyxq4uhjkdgex",
+      "name": "Dominic Mwangi",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dominic.mwangi.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-15T01:46:42.201Z"
     }
   ],
-  "lastUpdated": "2026-06-15T01:46:11.120Z"
+  "lastUpdated": "2026-06-15T01:46:42.201Z"
 }
