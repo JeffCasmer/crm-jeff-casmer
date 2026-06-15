@@ -2595,7 +2595,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:07:13.756Z"
+    },
+    {
+      "id": "mqeinqvxy0wnb3lrqj",
+      "name": "Shaun Hendricks",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/shaun.hendricks.908/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-16",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-15T01:10:18.333Z"
     }
   ],
-  "lastUpdated": "2026-06-15T01:07:13.756Z"
+  "lastUpdated": "2026-06-15T01:10:18.333Z"
 }
