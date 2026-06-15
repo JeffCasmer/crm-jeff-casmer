@@ -2703,7 +2703,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:45:35.762Z"
+    },
+    {
+      "id": "mqejxvzk7kesh0k2k2b",
+      "name": "Bradley Lee",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bradley.lee.520",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-15T01:46:11.120Z"
     }
   ],
-  "lastUpdated": "2026-06-15T01:45:35.762Z"
+  "lastUpdated": "2026-06-15T01:46:11.120Z"
 }
