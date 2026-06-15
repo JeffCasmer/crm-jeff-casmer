@@ -2667,7 +2667,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:28:59.315Z"
+    },
+    {
+      "id": "mqejwgmh88rnlddro9p",
+      "name": "David Hull",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/david.hull.167527",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-15T01:45:04.554Z"
     }
   ],
-  "lastUpdated": "2026-06-15T01:28:59.315Z"
+  "lastUpdated": "2026-06-15T01:45:04.554Z"
 }
