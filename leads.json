@@ -2739,7 +2739,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:46:42.201Z"
+    },
+    {
+      "id": "mqejz2cxzmclxxh3g6",
+      "name": "Tyler Knight",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tyler.kight",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-15T01:47:06.033Z"
     }
   ],
-  "lastUpdated": "2026-06-15T01:46:42.201Z"
+  "lastUpdated": "2026-06-15T01:47:06.033Z"
 }
