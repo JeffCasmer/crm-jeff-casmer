@@ -2577,7 +2577,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:04:39.381Z"
+    },
+    {
+      "id": "mqeijsgs08myg3aj3nr6",
+      "name": "Saleha Bouzeghoub",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bouzeghoub/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-16",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-15T01:07:13.756Z"
     }
   ],
-  "lastUpdated": "2026-06-15T01:04:39.381Z"
+  "lastUpdated": "2026-06-15T01:07:13.756Z"
 }
