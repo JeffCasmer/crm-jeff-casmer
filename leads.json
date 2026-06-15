@@ -2757,7 +2757,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:47:06.033Z"
+    },
+    {
+      "id": "mqejzpbdyrn501u5ye",
+      "name": "Bradley Farley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/BrandonFarleyBroker",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-15T01:47:35.785Z"
     }
   ],
-  "lastUpdated": "2026-06-15T01:47:06.033Z"
+  "lastUpdated": "2026-06-15T01:47:35.785Z"
 }
