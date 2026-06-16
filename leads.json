@@ -2621,14 +2621,14 @@
       "phone": "",
       "social": "https://www.facebook.com/ken.tetteh",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-14",
-      "nextFollowUp": "2026-06-16",
+      "nextFollowUp": "2026-06-19",
       "notes": "",
-      "lastModified": "2026-06-14",
+      "lastModified": "2026-06-16",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:11:37.844Z"
     },
@@ -3047,5 +3047,5 @@
       "addedAt": "2026-06-16T01:06:37.992Z"
     }
   ],
-  "lastUpdated": "2026-06-16T23:42:32.843Z"
+  "lastUpdated": "2026-06-16T23:44:38.002Z"
 }
