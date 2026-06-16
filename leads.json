@@ -2901,7 +2901,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:02:29.144Z"
+    },
+    {
+      "id": "mqfxu5s0k9ew671yign",
+      "name": "Randolph Kirk",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/randolph.kirk.16",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T01:02:57.984Z"
     }
   ],
-  "lastUpdated": "2026-06-16T01:02:29.144Z"
+  "lastUpdated": "2026-06-16T01:02:57.984Z"
 }
