@@ -2955,7 +2955,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:03:52.975Z"
+    },
+    {
+      "id": "mqfxw1jk3dqbvn7qpmd",
+      "name": "Cherie Card",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61576895304306",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T01:04:25.808Z"
     }
   ],
-  "lastUpdated": "2026-06-16T01:03:52.975Z"
+  "lastUpdated": "2026-06-16T01:04:25.808Z"
 }
