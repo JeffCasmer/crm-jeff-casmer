@@ -3027,7 +3027,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:06:11.576Z"
+    },
+    {
+      "id": "mqfxyvjcjrldxaflaag",
+      "name": "Duncan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/duncan.tanako",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T01:06:37.992Z"
     }
   ],
-  "lastUpdated": "2026-06-16T01:06:11.576Z"
+  "lastUpdated": "2026-06-16T01:06:37.992Z"
 }
