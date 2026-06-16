@@ -2847,7 +2847,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:01:16.001Z"
+    },
+    {
+      "id": "mqfxsgvfi43g800gut",
+      "name": "Rusty Hart",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rusty.hart.39",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T01:01:39.051Z"
     }
   ],
-  "lastUpdated": "2026-06-16T01:01:16.001Z"
+  "lastUpdated": "2026-06-16T01:01:39.051Z"
 }
