@@ -2829,7 +2829,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:00:45.128Z"
+    },
+    {
+      "id": "mqfxrz35uy5ovzxq8zo",
+      "name": "J Michael",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jmichael.roswell",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T01:01:16.001Z"
     }
   ],
-  "lastUpdated": "2026-06-16T01:00:45.128Z"
+  "lastUpdated": "2026-06-16T01:01:16.001Z"
 }
