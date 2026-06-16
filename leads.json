@@ -2937,7 +2937,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:03:20.936Z"
+    },
+    {
+      "id": "mqfxvc7jdbfuj7i3v3e",
+      "name": "Kamila Stevenson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61576491453409",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T01:03:52.975Z"
     }
   ],
-  "lastUpdated": "2026-06-16T01:03:20.936Z"
+  "lastUpdated": "2026-06-16T01:03:52.975Z"
 }
