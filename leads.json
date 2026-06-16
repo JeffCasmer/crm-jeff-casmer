@@ -2775,7 +2775,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:47:35.785Z"
+    },
+    {
+      "id": "mqfxq8ko25i54no9lkd",
+      "name": "Bruno Bonilla",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/itsabruno",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T00:59:54.984Z"
     }
   ],
-  "lastUpdated": "2026-06-16T00:44:29.633Z"
+  "lastUpdated": "2026-06-16T00:59:54.984Z"
 }
