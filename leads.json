@@ -2919,7 +2919,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:02:57.984Z"
+    },
+    {
+      "id": "mqfxunhkknp225s9ea",
+      "name": "Michael Carter",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Michaelcarteraoffshore/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T01:03:20.936Z"
     }
   ],
-  "lastUpdated": "2026-06-16T01:02:57.984Z"
+  "lastUpdated": "2026-06-16T01:03:20.936Z"
 }
