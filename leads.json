@@ -3081,7 +3081,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-17T01:21:42.138Z"
+    },
+    {
+      "id": "mqhdyo76n1qknknfawh",
+      "name": "Ronald Livingston",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/R.D.Livingston.2025TheVine",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-18",
+      "notes": "",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-17T01:22:08.514Z"
     }
   ],
-  "lastUpdated": "2026-06-17T01:21:42.138Z"
+  "lastUpdated": "2026-06-17T01:22:08.514Z"
 }
