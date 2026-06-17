@@ -3099,7 +3099,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-17T01:22:08.514Z"
+    },
+    {
+      "id": "mqhdz67e8nikqo8iidw",
+      "name": "Amit Desai",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/amit.desai.754",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-18",
+      "notes": "",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-17T01:22:31.850Z"
     }
   ],
-  "lastUpdated": "2026-06-17T01:22:08.514Z"
+  "lastUpdated": "2026-06-17T01:22:31.850Z"
 }
