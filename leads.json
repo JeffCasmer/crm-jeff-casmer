@@ -3117,7 +3117,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-17T01:22:31.850Z"
+    },
+    {
+      "id": "mqhdzpl6g4anza73nci",
+      "name": "Neil Haskell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/neil.haskell",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-18",
+      "notes": "",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-17T01:22:56.970Z"
     }
   ],
-  "lastUpdated": "2026-06-17T01:22:31.850Z"
+  "lastUpdated": "2026-06-17T01:22:56.970Z"
 }
