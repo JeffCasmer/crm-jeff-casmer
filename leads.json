@@ -3045,7 +3045,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:06:37.992Z"
+    },
+    {
+      "id": "mqhdxlgqv1o8p1amcip",
+      "name": "George Iacovou",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/george.iacovou.35",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-18",
+      "notes": "",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-17T01:21:18.314Z"
     }
   ],
-  "lastUpdated": "2026-06-17T01:11:49.473Z"
+  "lastUpdated": "2026-06-17T01:21:18.315Z"
 }
