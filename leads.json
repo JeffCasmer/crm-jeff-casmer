@@ -3207,7 +3207,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-17T01:24:45.738Z"
+    },
+    {
+      "id": "mqhe2nuhxajn7np67dm",
+      "name": "Shawn Pehrson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/spehrson77",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-17T01:25:14.682Z"
     }
   ],
-  "lastUpdated": "2026-06-17T01:24:45.738Z"
+  "lastUpdated": "2026-06-17T01:25:14.682Z"
 }
