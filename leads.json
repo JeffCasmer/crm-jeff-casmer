@@ -3189,7 +3189,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-17T01:24:20.477Z"
+    },
+    {
+      "id": "mqhe21iixn5pu5fm21d",
+      "name": "Dave Knapper",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/david.knapper.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-18",
+      "notes": "",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-17T01:24:45.738Z"
     }
   ],
-  "lastUpdated": "2026-06-17T01:24:20.477Z"
+  "lastUpdated": "2026-06-17T01:24:45.738Z"
 }
