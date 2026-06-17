@@ -3351,7 +3351,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T19:05:19.424Z"
+    },
+    {
+      "id": "mqifyiuobsv58h80hwo",
+      "name": "Perry Schmitt",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/perry.schmitt",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T19:05:46.992Z"
     }
   ],
-  "lastUpdated": "2026-06-17T19:05:19.424Z"
+  "lastUpdated": "2026-06-17T19:05:46.992Z"
 }
