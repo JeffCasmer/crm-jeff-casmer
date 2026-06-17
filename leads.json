@@ -3405,7 +3405,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T19:06:49.175Z"
+    },
+    {
+      "id": "mqig2ilzv41lb6t9lyb",
+      "name": "Hank Taylor",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/hank.taylor.9822",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T19:08:53.303Z"
     }
   ],
-  "lastUpdated": "2026-06-17T19:06:49.175Z"
+  "lastUpdated": "2026-06-17T19:08:53.303Z"
 }
