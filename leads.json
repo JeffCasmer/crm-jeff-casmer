@@ -3171,7 +3171,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-17T01:23:51.961Z"
+    },
+    {
+      "id": "mqhe1i0tfw1pbbc038",
+      "name": "Kurt Keilbach",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kurt.keilbach",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-18",
+      "notes": "",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-17T01:24:20.477Z"
     }
   ],
-  "lastUpdated": "2026-06-17T01:23:51.961Z"
+  "lastUpdated": "2026-06-17T01:24:20.477Z"
 }
