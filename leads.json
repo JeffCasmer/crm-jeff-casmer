@@ -3261,7 +3261,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-17T01:26:15.081Z"
+    },
+    {
+      "id": "mqifv94e4v9qugtjt06",
+      "name": "John Jones",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/thisisjohnjones",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T19:03:14.414Z"
     }
   ],
-  "lastUpdated": "2026-06-17T01:26:23.681Z"
+  "lastUpdated": "2026-06-17T19:03:14.414Z"
 }
