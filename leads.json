@@ -3441,7 +3441,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-18T00:48:02.585Z"
+    },
+    {
+      "id": "mqis78m017yff4rd596",
+      "name": "Bruce Salvani",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bruce.salvani",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-20",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-18T00:48:29.017Z"
     }
   ],
-  "lastUpdated": "2026-06-18T00:48:02.585Z"
+  "lastUpdated": "2026-06-18T00:48:29.017Z"
 }
