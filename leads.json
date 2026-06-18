@@ -3459,7 +3459,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-18T00:48:29.017Z"
+    },
+    {
+      "id": "mqis7qyp9m30pg8dyfd",
+      "name": "Quincy Rodgers",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61570483965265",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-20",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-18T00:48:52.801Z"
     }
   ],
-  "lastUpdated": "2026-06-18T00:48:29.017Z"
+  "lastUpdated": "2026-06-18T00:48:52.801Z"
 }
