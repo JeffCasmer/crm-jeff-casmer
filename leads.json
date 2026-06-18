@@ -3495,7 +3495,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-18T00:49:20.113Z"
+    },
+    {
+      "id": "mqis8vpt16mc39i6rsf",
+      "name": "Isaac Corcia",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/izzzy0307",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-20",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-18T00:49:45.617Z"
     }
   ],
-  "lastUpdated": "2026-06-18T00:49:20.113Z"
+  "lastUpdated": "2026-06-18T00:49:45.617Z"
 }
