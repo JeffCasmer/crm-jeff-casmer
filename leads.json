@@ -3513,7 +3513,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-18T00:49:45.617Z"
+    },
+    {
+      "id": "mqis9mig1w7hnbsb2la",
+      "name": "Besnik Kameri",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/besnik.kameri",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-20",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-18T00:50:20.344Z"
     }
   ],
-  "lastUpdated": "2026-06-18T00:49:45.617Z"
+  "lastUpdated": "2026-06-18T00:50:20.344Z"
 }
