@@ -3477,7 +3477,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-18T00:48:52.801Z"
+    },
+    {
+      "id": "mqis8c1d8vpoq32zvi6",
+      "name": "Wayne Cooper",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/WayneCooperonline",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-20",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-18T00:49:20.113Z"
     }
   ],
-  "lastUpdated": "2026-06-18T00:48:52.801Z"
+  "lastUpdated": "2026-06-18T00:49:20.113Z"
 }
