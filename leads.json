@@ -3585,7 +3585,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T22:53:44.847Z"
+    },
+    {
+      "id": "mqlizxrzhz7wgxjmuqa",
+      "name": "Patrice David",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/patrice.davis.9237",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-19T22:54:10.367Z"
     }
   ],
-  "lastUpdated": "2026-06-19T22:53:44.847Z"
+  "lastUpdated": "2026-06-19T22:54:10.367Z"
 }
