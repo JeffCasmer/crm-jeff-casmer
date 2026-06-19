@@ -3603,7 +3603,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T22:54:10.367Z"
+    },
+    {
+      "id": "mqlj0m338rpjwhff943",
+      "name": "CB Naded",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kat.fox.96930",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-19T22:54:41.871Z"
     }
   ],
-  "lastUpdated": "2026-06-19T22:54:10.367Z"
+  "lastUpdated": "2026-06-19T22:54:41.871Z"
 }
