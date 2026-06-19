@@ -3549,7 +3549,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T22:52:36.277Z"
+    },
+    {
+      "id": "mqliyna7blutp7jy5g",
+      "name": "CJ Morley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cj.morley.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-19T22:53:10.111Z"
     }
   ],
-  "lastUpdated": "2026-06-19T22:52:36.278Z"
+  "lastUpdated": "2026-06-19T22:53:10.111Z"
 }
