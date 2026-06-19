@@ -3621,7 +3621,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T22:54:41.871Z"
+    },
+    {
+      "id": "mqlj1jinb945nl1f56o",
+      "name": "Todd Miller",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/todd.miller.904576",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-19T22:55:25.199Z"
     }
   ],
-  "lastUpdated": "2026-06-19T22:54:55.799Z"
+  "lastUpdated": "2026-06-19T22:55:25.199Z"
 }
