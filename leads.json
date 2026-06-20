@@ -3693,7 +3693,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T00:30:08.740Z"
+    },
+    {
+      "id": "mqlmfxgj60hw1imraad",
+      "name": "Ron Hulbeert",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Partner.co1998",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-20T00:30:35.299Z"
     }
   ],
-  "lastUpdated": "2026-06-20T00:30:08.740Z"
+  "lastUpdated": "2026-06-20T00:30:35.299Z"
 }
