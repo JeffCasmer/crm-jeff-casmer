@@ -3747,7 +3747,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T00:32:11.651Z"
+    },
+    {
+      "id": "mqoeg3ma5wjs9lamcdh",
+      "name": "Bernard Hayes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100094233283191",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-21",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-21",
+      "dateAdded": "2026-06-21",
+      "addedAt": "2026-06-21T23:10:04.883Z"
     }
   ],
-  "lastUpdated": "2026-06-21T22:55:01.929Z"
+  "lastUpdated": "2026-06-21T23:10:04.883Z"
 }
