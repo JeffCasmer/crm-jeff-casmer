@@ -3819,7 +3819,25 @@
       "lastModified": "2026-06-21",
       "dateAdded": "2026-06-21",
       "addedAt": "2026-06-21T23:13:11.338Z"
+    },
+    {
+      "id": "mqoekp0qvnskd22o5gj",
+      "name": "Robert Anderson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/robert.anderson.183328",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-21",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-21",
+      "dateAdded": "2026-06-21",
+      "addedAt": "2026-06-21T23:13:39.242Z"
     }
   ],
-  "lastUpdated": "2026-06-21T23:13:11.338Z"
+  "lastUpdated": "2026-06-21T23:13:39.242Z"
 }
