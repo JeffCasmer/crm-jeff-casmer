@@ -3783,7 +3783,25 @@
       "lastModified": "2026-06-21",
       "dateAdded": "2026-06-21",
       "addedAt": "2026-06-21T23:11:53.915Z"
+    },
+    {
+      "id": "mqoej44k0fgiy1f0mx0m",
+      "name": "Pedro Robert",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/pedro.robert.hk",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-21",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-21",
+      "dateAdded": "2026-06-21",
+      "addedAt": "2026-06-21T23:12:25.508Z"
     }
   ],
-  "lastUpdated": "2026-06-21T23:11:53.915Z"
+  "lastUpdated": "2026-06-21T23:12:25.508Z"
 }
