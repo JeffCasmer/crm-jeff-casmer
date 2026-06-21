@@ -3873,7 +3873,25 @@
       "lastModified": "2026-06-21",
       "dateAdded": "2026-06-21",
       "addedAt": "2026-06-21T23:15:34.394Z"
+    },
+    {
+      "id": "mqoenw3e6bxvxbiv6pr",
+      "name": "Lloyd Brown",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/pepserose",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-21",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-21",
+      "dateAdded": "2026-06-21",
+      "addedAt": "2026-06-21T23:16:08.378Z"
     }
   ],
-  "lastUpdated": "2026-06-21T23:15:34.394Z"
+  "lastUpdated": "2026-06-21T23:16:08.378Z"
 }
