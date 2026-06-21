@@ -3927,7 +3927,25 @@
       "lastModified": "2026-06-21",
       "dateAdded": "2026-06-21",
       "addedAt": "2026-06-21T23:17:10.026Z"
+    },
+    {
+      "id": "mqoepqvvlnpwebkyu2",
+      "name": "Spencer Brown",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/spencer.brown.33865",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-21",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-21",
+      "dateAdded": "2026-06-21",
+      "addedAt": "2026-06-21T23:17:34.939Z"
     }
   ],
-  "lastUpdated": "2026-06-21T23:17:10.026Z"
+  "lastUpdated": "2026-06-21T23:17:34.939Z"
 }
