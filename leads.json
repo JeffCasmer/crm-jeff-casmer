@@ -3855,7 +3855,25 @@
       "lastModified": "2026-06-21",
       "dateAdded": "2026-06-21",
       "addedAt": "2026-06-21T23:15:01.410Z"
+    },
+    {
+      "id": "mqoen5ve71n4p8v18f4",
+      "name": "Jason Joyner",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/JasonandTiffanybiz",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-21",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-21",
+      "dateAdded": "2026-06-21",
+      "addedAt": "2026-06-21T23:15:34.394Z"
     }
   ],
-  "lastUpdated": "2026-06-21T23:15:01.410Z"
+  "lastUpdated": "2026-06-21T23:15:34.394Z"
 }
