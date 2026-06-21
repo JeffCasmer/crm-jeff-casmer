@@ -3801,7 +3801,25 @@
       "lastModified": "2026-06-21",
       "dateAdded": "2026-06-21",
       "addedAt": "2026-06-21T23:12:25.508Z"
+    },
+    {
+      "id": "mqoek3hmmq2rpl6twkr",
+      "name": "Luciano Bavcar",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/luciano.bavcar",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-21",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-21",
+      "dateAdded": "2026-06-21",
+      "addedAt": "2026-06-21T23:13:11.338Z"
     }
   ],
-  "lastUpdated": "2026-06-21T23:12:25.508Z"
+  "lastUpdated": "2026-06-21T23:13:11.338Z"
 }
