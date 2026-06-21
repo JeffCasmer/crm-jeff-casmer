@@ -3765,7 +3765,25 @@
       "lastModified": "2026-06-21",
       "dateAdded": "2026-06-21",
       "addedAt": "2026-06-21T23:10:04.883Z"
+    },
+    {
+      "id": "mqoeifqzx2t4wk53w5g",
+      "name": "Kris Browder",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kris.browder.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-21",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-21",
+      "dateAdded": "2026-06-21",
+      "addedAt": "2026-06-21T23:11:53.915Z"
     }
   ],
-  "lastUpdated": "2026-06-21T23:10:04.883Z"
+  "lastUpdated": "2026-06-21T23:11:53.915Z"
 }
