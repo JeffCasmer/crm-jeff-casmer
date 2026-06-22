@@ -4053,7 +4053,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T23:52:11.660Z"
+    },
+    {
+      "id": "mqpveph1958hbebxx0r",
+      "name": "Greg Farrell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100085535080968",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-06-24",
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T23:52:39.541Z"
     }
   ],
-  "lastUpdated": "2026-06-22T23:52:11.661Z"
+  "lastUpdated": "2026-06-22T23:52:39.541Z"
 }
