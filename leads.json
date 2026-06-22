@@ -3981,7 +3981,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T23:50:24.875Z"
+    },
+    {
+      "id": "mqpvcgrw0x10mxgzsd9",
+      "name": "Joseph Anthiny",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/josephanthonyfa",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-06-24",
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T23:50:54.956Z"
     }
   ],
-  "lastUpdated": "2026-06-22T23:50:24.875Z"
+  "lastUpdated": "2026-06-22T23:50:54.956Z"
 }
