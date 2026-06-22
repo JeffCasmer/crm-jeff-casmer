@@ -3963,7 +3963,25 @@
       "lastModified": "2026-06-21",
       "dateAdded": "2026-06-21",
       "addedAt": "2026-06-21T23:18:09.283Z"
+    },
+    {
+      "id": "mqpvbtkbzwcxl8g6ns",
+      "name": "Mike Taylor",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mike.taylor.891393",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-06-24",
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T23:50:24.875Z"
     }
   ],
-  "lastUpdated": "2026-06-22T17:44:33.179Z"
+  "lastUpdated": "2026-06-22T23:50:24.875Z"
 }
