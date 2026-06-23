@@ -4287,7 +4287,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T22:53:19.852Z"
+    },
+    {
+      "id": "mqr8r4oc2ltjw1q0xno",
+      "name": "Sheril Boyd",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/yusif.abubakar.1800",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-06-25",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T22:54:00.300Z"
     }
   ],
-  "lastUpdated": "2026-06-23T22:53:19.852Z"
+  "lastUpdated": "2026-06-23T22:54:00.300Z"
 }
