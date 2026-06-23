@@ -4251,7 +4251,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T22:34:39.136Z"
+    },
+    {
+      "id": "mqr82w1bsfujzbx9j6m",
+      "name": "Sam Bruggs",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sambriggs65",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-06-25",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T22:35:09.359Z"
     }
   ],
-  "lastUpdated": "2026-06-23T22:34:39.136Z"
+  "lastUpdated": "2026-06-23T22:35:09.359Z"
 }
