@@ -4269,7 +4269,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T22:35:09.359Z"
+    },
+    {
+      "id": "mqr8q9gs3zyqg5u4h3x",
+      "name": "Jesus Burgoin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jesusburgooin",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-06-25",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T22:53:19.852Z"
     }
   ],
-  "lastUpdated": "2026-06-23T22:35:09.359Z"
+  "lastUpdated": "2026-06-23T22:53:19.852Z"
 }
