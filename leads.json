@@ -4197,7 +4197,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T22:31:35.206Z"
+    },
+    {
+      "id": "mqr7zvf2ni42sjb4jo",
+      "name": "Mark Beatty",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mtbeatty",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-06-25",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T22:32:48.590Z"
     }
   ],
-  "lastUpdated": "2026-06-23T22:31:35.207Z"
+  "lastUpdated": "2026-06-23T22:32:48.590Z"
 }
