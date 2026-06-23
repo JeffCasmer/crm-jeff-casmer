@@ -4323,7 +4323,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T22:54:29.892Z"
+    },
+    {
+      "id": "mqr8siycib61dm1g9s",
+      "name": "Kimberly Johnson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kimberly.moss.792",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-06-25",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T22:55:05.460Z"
     }
   ],
-  "lastUpdated": "2026-06-23T22:54:29.892Z"
+  "lastUpdated": "2026-06-23T22:55:05.460Z"
 }
