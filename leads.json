@@ -4575,7 +4575,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T19:26:36.285Z"
+    },
+    {
+      "id": "mqsgstuzz30492t9j",
+      "name": "Paul Hickey",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/paul.hickey.714",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T19:27:02.699Z"
     }
   ],
-  "lastUpdated": "2026-06-24T19:26:36.285Z"
+  "lastUpdated": "2026-06-24T19:27:02.699Z"
 }
