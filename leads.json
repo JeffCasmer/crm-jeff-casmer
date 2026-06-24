@@ -4503,7 +4503,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T19:17:04.702Z"
+    },
+    {
+      "id": "mqsgqegsuw5wqwlkhrq",
+      "name": "Curtis Young",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/peculiarcurt27",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T19:25:09.436Z"
     }
   ],
-  "lastUpdated": "2026-06-24T19:17:04.702Z"
+  "lastUpdated": "2026-06-24T19:25:09.436Z"
 }
