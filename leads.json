@@ -4413,7 +4413,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T19:14:35.781Z"
+    },
+    {
+      "id": "mqsgdi0u0f7vtserw0wr",
+      "name": "Chad Ramsey",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chad.ramsay.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T19:15:07.518Z"
     }
   ],
-  "lastUpdated": "2026-06-24T19:14:35.781Z"
+  "lastUpdated": "2026-06-24T19:15:07.518Z"
 }
