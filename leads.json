@@ -4341,7 +4341,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T22:55:05.460Z"
+    },
+    {
+      "id": "mqsg9vj9gwt2bk1rm2b",
+      "name": "Joe Schroeder",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/schroederjoe",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T19:12:18.405Z"
     }
   ],
-  "lastUpdated": "2026-06-24T18:13:33.564Z"
+  "lastUpdated": "2026-06-24T19:12:18.405Z"
 }
