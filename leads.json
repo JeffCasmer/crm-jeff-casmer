@@ -4485,7 +4485,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T19:16:35.470Z"
+    },
+    {
+      "id": "mqsgg0fyy7o99uvcp5h",
+      "name": "Nick Trine",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nick.trine.792",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T19:17:04.702Z"
     }
   ],
-  "lastUpdated": "2026-06-24T19:16:35.470Z"
+  "lastUpdated": "2026-06-24T19:17:04.702Z"
 }
