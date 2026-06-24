@@ -4395,7 +4395,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T19:13:42.118Z"
+    },
+    {
+      "id": "mqsgctj9qxkn4pfs49",
+      "name": "Jacob Watts",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jacob.wattstrades",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T19:14:35.781Z"
     }
   ],
-  "lastUpdated": "2026-06-24T19:13:42.118Z"
+  "lastUpdated": "2026-06-24T19:14:35.781Z"
 }
