@@ -4377,7 +4377,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T19:12:40.949Z"
+    },
+    {
+      "id": "mqsgbo4mburdbvb8vct",
+      "name": "Aaron Scott",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/aaron.aone.scott.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T19:13:42.118Z"
     }
   ],
-  "lastUpdated": "2026-06-24T19:12:48.958Z"
+  "lastUpdated": "2026-06-24T19:13:42.118Z"
 }
