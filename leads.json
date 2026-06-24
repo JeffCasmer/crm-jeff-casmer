@@ -4431,7 +4431,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T19:15:07.518Z"
+    },
+    {
+      "id": "mqsge752i188y02p5g",
+      "name": "Don Lucas",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100082095127799",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T19:15:40.070Z"
     }
   ],
-  "lastUpdated": "2026-06-24T19:15:07.518Z"
+  "lastUpdated": "2026-06-24T19:15:40.070Z"
 }
