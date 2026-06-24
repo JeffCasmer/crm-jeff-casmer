@@ -4359,7 +4359,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T19:12:18.405Z"
+    },
+    {
+      "id": "mqsgacxhenh1pcv892f",
+      "name": "Marshall Cloete",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/marshall.cloete.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T19:12:40.949Z"
     }
   ],
-  "lastUpdated": "2026-06-24T19:12:18.405Z"
+  "lastUpdated": "2026-06-24T19:12:40.949Z"
 }
