@@ -4539,7 +4539,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T19:25:39.901Z"
+    },
+    {
+      "id": "mqsgrmz8gareo0wv9yp",
+      "name": "Chris Kearns",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chris.kearns.902",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T19:26:07.124Z"
     }
   ],
-  "lastUpdated": "2026-06-24T19:25:39.901Z"
+  "lastUpdated": "2026-06-24T19:26:07.124Z"
 }
