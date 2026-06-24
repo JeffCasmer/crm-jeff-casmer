@@ -4521,7 +4521,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T19:25:09.436Z"
+    },
+    {
+      "id": "mqsgr1z1a4nvm2xc3y6",
+      "name": "Jessica Katlego",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/inam.lobi.311",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T19:25:39.901Z"
     }
   ],
-  "lastUpdated": "2026-06-24T19:25:09.436Z"
+  "lastUpdated": "2026-06-24T19:25:39.901Z"
 }
