@@ -4593,7 +4593,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T19:27:02.699Z"
+    },
+    {
+      "id": "mqu9afirqt13xc0moc9",
+      "name": "Mavis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61580423982166",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-06-27",
+      "notes": "",
+      "lastModified": "2026-06-25",
+      "dateAdded": "2026-06-25",
+      "addedAt": "2026-06-26T01:32:19.347Z"
     }
   ],
-  "lastUpdated": "2026-06-26T01:21:19.354Z"
+  "lastUpdated": "2026-06-26T01:32:19.347Z"
 }
