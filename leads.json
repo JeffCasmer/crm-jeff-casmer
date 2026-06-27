@@ -4899,7 +4899,25 @@
       "lastModified": "2026-06-26",
       "dateAdded": "2026-06-26",
       "addedAt": "2026-06-27T01:35:03.668Z"
+    },
+    {
+      "id": "mqvp2qecjcafjw2zjpi",
+      "name": "Norman Collins",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/norman.collins.635157",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-26",
+      "nextFollowUp": "2026-06-28",
+      "notes": "",
+      "lastModified": "2026-06-26",
+      "dateAdded": "2026-06-26",
+      "addedAt": "2026-06-27T01:42:00.228Z"
     }
   ],
-  "lastUpdated": "2026-06-27T01:37:32.149Z"
+  "lastUpdated": "2026-06-27T01:42:00.228Z"
 }
