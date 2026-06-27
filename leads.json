@@ -4881,7 +4881,25 @@
       "lastModified": "2026-06-26",
       "dateAdded": "2026-06-26",
       "addedAt": "2026-06-27T01:34:36.772Z"
+    },
+    {
+      "id": "mqvotsz8rg9jsn6a3y",
+      "name": "Chris Cunningham",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chris.cunningham.0710",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-26",
+      "nextFollowUp": "2026-06-28",
+      "notes": "",
+      "lastModified": "2026-06-26",
+      "dateAdded": "2026-06-26",
+      "addedAt": "2026-06-27T01:35:03.668Z"
     }
   ],
-  "lastUpdated": "2026-06-27T01:34:36.772Z"
+  "lastUpdated": "2026-06-27T01:35:03.668Z"
 }
