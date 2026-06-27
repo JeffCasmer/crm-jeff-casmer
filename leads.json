@@ -5061,7 +5061,25 @@
       "lastModified": "2026-06-27",
       "dateAdded": "2026-06-27",
       "addedAt": "2026-06-27T19:09:37.864Z"
+    },
+    {
+      "id": "mqwqiy6wu8qsdj7wy7",
+      "name": "Andreas Arvidsson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/andreas.arvidsson.927",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-27",
+      "nextFollowUp": "2026-06-29",
+      "notes": "",
+      "lastModified": "2026-06-27",
+      "dateAdded": "2026-06-27",
+      "addedAt": "2026-06-27T19:10:22.616Z"
     }
   ],
-  "lastUpdated": "2026-06-27T19:09:37.864Z"
+  "lastUpdated": "2026-06-27T19:10:22.616Z"
 }
