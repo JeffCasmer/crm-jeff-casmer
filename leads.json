@@ -5115,7 +5115,25 @@
       "lastModified": "2026-06-27",
       "dateAdded": "2026-06-27",
       "addedAt": "2026-06-27T19:36:24.903Z"
+    },
+    {
+      "id": "mqwrhmltt490ir156",
+      "name": "Dragan Loki",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/PHENOMENALLAKI",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-27",
+      "nextFollowUp": "2026-06-29",
+      "notes": "",
+      "lastModified": "2026-06-27",
+      "dateAdded": "2026-06-27",
+      "addedAt": "2026-06-27T19:37:20.561Z"
     }
   ],
-  "lastUpdated": "2026-06-27T19:36:24.903Z"
+  "lastUpdated": "2026-06-27T19:37:20.561Z"
 }
