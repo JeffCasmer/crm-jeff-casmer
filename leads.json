@@ -5133,7 +5133,25 @@
       "lastModified": "2026-06-27",
       "dateAdded": "2026-06-27",
       "addedAt": "2026-06-27T19:37:20.561Z"
+    },
+    {
+      "id": "mqwric6f7aol8at98i8",
+      "name": "Randy Hoffman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/randy.hoffman.507",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-27",
+      "nextFollowUp": "2026-06-29",
+      "notes": "",
+      "lastModified": "2026-06-27",
+      "dateAdded": "2026-06-27",
+      "addedAt": "2026-06-27T19:37:53.703Z"
     }
   ],
-  "lastUpdated": "2026-06-27T19:37:20.561Z"
+  "lastUpdated": "2026-06-27T19:37:53.703Z"
 }
