@@ -4935,7 +4935,25 @@
       "lastModified": "2026-06-27",
       "dateAdded": "2026-06-27",
       "addedAt": "2026-06-27T19:05:32.944Z"
+    },
+    {
+      "id": "mqwqdc9d6p97sogjil",
+      "name": "Simon Haywood",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Simon.P.Haywood",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-27",
+      "nextFollowUp": "2026-06-29",
+      "notes": "",
+      "lastModified": "2026-06-27",
+      "dateAdded": "2026-06-27",
+      "addedAt": "2026-06-27T19:06:00.913Z"
     }
   ],
-  "lastUpdated": "2026-06-27T19:05:32.944Z"
+  "lastUpdated": "2026-06-27T19:06:00.913Z"
 }
