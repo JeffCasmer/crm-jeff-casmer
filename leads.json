@@ -4863,7 +4863,25 @@
       "lastModified": "2026-06-26",
       "dateAdded": "2026-06-26",
       "addedAt": "2026-06-27T01:33:56.020Z"
+    },
+    {
+      "id": "mqvot884w87j7qlimhj",
+      "name": "Clayton Wilson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/clayton.wilson.75054",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-26",
+      "nextFollowUp": "2026-06-28",
+      "notes": "",
+      "lastModified": "2026-06-26",
+      "dateAdded": "2026-06-26",
+      "addedAt": "2026-06-27T01:34:36.772Z"
     }
   ],
-  "lastUpdated": "2026-06-27T01:33:56.020Z"
+  "lastUpdated": "2026-06-27T01:34:36.772Z"
 }
