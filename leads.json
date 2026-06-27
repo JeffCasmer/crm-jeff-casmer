@@ -4773,7 +4773,25 @@
       "lastModified": "2026-06-26",
       "dateAdded": "2026-06-26",
       "addedAt": "2026-06-27T01:31:09.637Z"
+    },
+    {
+      "id": "mqvope8jh1kuysxxqeq",
+      "name": "Heidi Smith",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/onlinesuccesswithheidi",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-26",
+      "nextFollowUp": "2026-06-28",
+      "notes": "",
+      "lastModified": "2026-06-26",
+      "dateAdded": "2026-06-26",
+      "addedAt": "2026-06-27T01:31:37.939Z"
     }
   ],
-  "lastUpdated": "2026-06-27T01:31:09.637Z"
+  "lastUpdated": "2026-06-27T01:31:37.939Z"
 }
