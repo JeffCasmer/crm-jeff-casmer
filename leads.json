@@ -5097,7 +5097,25 @@
       "lastModified": "2026-06-27",
       "dateAdded": "2026-06-27",
       "addedAt": "2026-06-27T19:15:10.832Z"
+    },
+    {
+      "id": "mqwrgfnrxm2lksnmtt",
+      "name": "David Oldani",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/david.oldani.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-27",
+      "nextFollowUp": "2026-06-29",
+      "notes": "",
+      "lastModified": "2026-06-27",
+      "dateAdded": "2026-06-27",
+      "addedAt": "2026-06-27T19:36:24.903Z"
     }
   ],
-  "lastUpdated": "2026-06-27T19:15:10.832Z"
+  "lastUpdated": "2026-06-27T19:36:24.903Z"
 }
