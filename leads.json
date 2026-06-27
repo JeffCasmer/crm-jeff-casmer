@@ -5007,7 +5007,25 @@
       "lastModified": "2026-06-27",
       "dateAdded": "2026-06-27",
       "addedAt": "2026-06-27T19:07:57.529Z"
+    },
+    {
+      "id": "mqwqgoghjolkggujry",
+      "name": "Derek Lovett",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/derek.lovett.94",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-27",
+      "nextFollowUp": "2026-06-29",
+      "notes": "",
+      "lastModified": "2026-06-27",
+      "dateAdded": "2026-06-27",
+      "addedAt": "2026-06-27T19:08:36.689Z"
     }
   ],
-  "lastUpdated": "2026-06-27T19:07:57.529Z"
+  "lastUpdated": "2026-06-27T19:08:36.689Z"
 }
