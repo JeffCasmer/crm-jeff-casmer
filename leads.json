@@ -4737,7 +4737,25 @@
       "lastModified": "2026-06-26",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-26T01:35:41.730Z"
+    },
+    {
+      "id": "mqvooanrvs8ak6a9de",
+      "name": "Cindy Braden",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/braden.cindy",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-26",
+      "nextFollowUp": "2026-06-28",
+      "notes": "",
+      "lastModified": "2026-06-26",
+      "dateAdded": "2026-06-26",
+      "addedAt": "2026-06-27T01:30:46.647Z"
     }
   ],
-  "lastUpdated": "2026-06-26T19:12:24.138Z"
+  "lastUpdated": "2026-06-27T01:30:46.648Z"
 }
