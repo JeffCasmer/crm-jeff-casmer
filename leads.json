@@ -928,16 +928,17 @@
       "phone": "",
       "social": "https://www.facebook.com/danmdavidson/",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "videoSent": false,
-      "temperature": "Cold",
+      "temperature": "Hot",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-04",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-06-30",
       "notes": "",
-      "lastModified": "2026-06-12",
+      "lastModified": "2026-06-28",
       "dateAdded": "2026-06-04",
-      "addedAt": "2026-06-05T00:42:10.256Z"
+      "addedAt": "2026-06-05T00:42:10.256Z",
+      "customerSince": "2026-06-28"
     },
     {
       "id": "mq07c50xo5lyzq414ke",
@@ -5208,5 +5209,5 @@
       "addedAt": "2026-06-27T20:51:35.356Z"
     }
   ],
-  "lastUpdated": "2026-06-28T16:50:23.824Z"
+  "lastUpdated": "2026-06-28T18:33:35.588Z"
 }
