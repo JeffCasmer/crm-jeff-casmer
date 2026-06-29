@@ -5261,7 +5261,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T22:53:56.067Z"
+    },
+    {
+      "id": "mqztewhu375izo4oebx",
+      "name": "Ann Sylvester",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/aannesylvester",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-01",
+      "notes": "",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T22:54:31.170Z"
     }
   ],
-  "lastUpdated": "2026-06-29T22:53:56.067Z"
+  "lastUpdated": "2026-06-29T22:54:31.170Z"
 }
