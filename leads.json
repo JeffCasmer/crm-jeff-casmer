@@ -5351,7 +5351,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T22:56:35.642Z"
+    },
+    {
+      "id": "mqzti5p5r6mituj7oo",
+      "name": "Abdul Rahim",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Earnwithabdool",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-01",
+      "notes": "",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T22:57:03.065Z"
     }
   ],
-  "lastUpdated": "2026-06-29T22:56:35.642Z"
+  "lastUpdated": "2026-06-29T22:57:03.065Z"
 }
