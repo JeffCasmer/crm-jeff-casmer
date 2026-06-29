@@ -5387,7 +5387,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T22:57:26.698Z"
+    },
+    {
+      "id": "mqztja8qdmmr8fh9a1t",
+      "name": "Ranulfo Alvardo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ranulfo.alvarado.235199",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-01",
+      "notes": "",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T22:57:55.610Z"
     }
   ],
-  "lastUpdated": "2026-06-29T22:57:26.698Z"
+  "lastUpdated": "2026-06-29T22:57:55.610Z"
 }
