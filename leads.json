@@ -5315,7 +5315,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T22:55:32.842Z"
+    },
+    {
+      "id": "mqztgx1uhn2c5t735fn",
+      "name": "Charlie Havel",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/charlie.havel.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-01",
+      "notes": "",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T22:56:05.202Z"
     }
   ],
-  "lastUpdated": "2026-06-29T22:55:32.842Z"
+  "lastUpdated": "2026-06-29T22:56:05.202Z"
 }
