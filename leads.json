@@ -5207,7 +5207,25 @@
       "customerSince": "2026-06-27",
       "dateAdded": "2026-06-27",
       "addedAt": "2026-06-27T20:51:35.356Z"
+    },
+    {
+      "id": "mqztcq1ms1ttnnr6nk",
+      "name": "Jeff Hurford",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100014069200806",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-01",
+      "notes": "",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T22:52:49.498Z"
     }
   ],
-  "lastUpdated": "2026-06-29T18:08:45.634Z"
+  "lastUpdated": "2026-06-29T22:52:49.499Z"
 }
