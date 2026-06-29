@@ -5423,7 +5423,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T22:58:20.281Z"
+    },
+    {
+      "id": "mqztkpoxa95wqz6oakd",
+      "name": "Sailesh Narayan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sailesh.narayan.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-01",
+      "notes": "",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T22:59:02.289Z"
     }
   ],
-  "lastUpdated": "2026-06-29T22:58:20.281Z"
+  "lastUpdated": "2026-06-29T22:59:02.289Z"
 }
