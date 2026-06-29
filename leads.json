@@ -4566,14 +4566,14 @@
       "phone": "",
       "social": "https://www.facebook.com/gabriell.luc.2025",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-24",
       "nextFollowUp": "2026-06-29",
       "notes": "",
-      "lastModified": "2026-06-28",
+      "lastModified": "2026-06-29",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T19:26:36.285Z"
     },
@@ -5209,5 +5209,5 @@
       "addedAt": "2026-06-27T20:51:35.356Z"
     }
   ],
-  "lastUpdated": "2026-06-29T17:42:01.043Z"
+  "lastUpdated": "2026-06-29T17:42:47.067Z"
 }
