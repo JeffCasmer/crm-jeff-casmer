@@ -5549,7 +5549,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T21:59:16.196Z"
+    },
+    {
+      "id": "mr16wzo4j6rhawx8jmo",
+      "name": "Isabella Allen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/HenryBrown1855",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-02",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T22:00:16.276Z"
     }
   ],
-  "lastUpdated": "2026-06-30T21:59:16.196Z"
+  "lastUpdated": "2026-06-30T22:00:16.276Z"
 }
