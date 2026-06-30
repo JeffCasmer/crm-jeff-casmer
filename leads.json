@@ -5639,7 +5639,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T23:53:43.018Z"
+    },
+    {
+      "id": "mr1azrzelud447x3xx",
+      "name": "Bubba Starks",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bubba.starks.54",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-02",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T23:54:24.746Z"
     }
   ],
-  "lastUpdated": "2026-06-30T23:53:43.018Z"
+  "lastUpdated": "2026-06-30T23:54:24.746Z"
 }
