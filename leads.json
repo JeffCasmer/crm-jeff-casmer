@@ -5693,7 +5693,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T23:56:04.922Z"
+    },
+    {
+      "id": "mr1b2fjf200ttn900ym",
+      "name": "David Snyder",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100007520528071",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-02",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T23:56:28.587Z"
     }
   ],
-  "lastUpdated": "2026-06-30T23:56:04.922Z"
+  "lastUpdated": "2026-06-30T23:56:28.587Z"
 }
