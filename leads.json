@@ -5621,7 +5621,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T22:02:00.876Z"
+    },
+    {
+      "id": "mr1ayvsaj997sao9ekk",
+      "name": "Katherine Coope",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ibkalil.keita",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-02",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T23:53:43.018Z"
     }
   ],
-  "lastUpdated": "2026-06-30T22:02:00.876Z"
+  "lastUpdated": "2026-06-30T23:53:43.018Z"
 }
