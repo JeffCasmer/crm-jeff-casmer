@@ -5819,7 +5819,25 @@
       "lastModified": "2026-07-01",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-02T00:29:44.904Z"
+    },
+    {
+      "id": "mr2rpo47ha1k26rucdi",
+      "name": "Marlene Mills",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/marlene.mills.524",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-01",
+      "nextFollowUp": "2026-07-03",
+      "notes": "",
+      "lastModified": "2026-07-01",
+      "dateAdded": "2026-07-01",
+      "addedAt": "2026-07-02T00:30:12.824Z"
     }
   ],
-  "lastUpdated": "2026-07-02T00:29:44.904Z"
+  "lastUpdated": "2026-07-02T00:30:12.824Z"
 }
