@@ -6205,8 +6205,8 @@
       "phone": "",
       "social": "https://www.facebook.com/bostjan.purgaj1",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-02",
@@ -6217,5 +6217,5 @@
       "addedAt": "2026-07-02T21:33:20.688Z"
     }
   ],
-  "lastUpdated": "2026-07-02T21:33:20.688Z"
+  "lastUpdated": "2026-07-02T21:33:28.438Z"
 }
