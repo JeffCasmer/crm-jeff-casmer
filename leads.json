@@ -6089,7 +6089,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T16:58:54.816Z"
+    },
+    {
+      "id": "mr3r1tzkvxmbd61uf8",
+      "name": "Suraj Dhakal",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/suraj.dhakal.921",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-04",
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T16:59:26.864Z"
     }
   ],
-  "lastUpdated": "2026-07-02T16:58:54.816Z"
+  "lastUpdated": "2026-07-02T16:59:26.864Z"
 }
