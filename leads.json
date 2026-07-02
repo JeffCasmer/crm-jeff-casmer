@@ -5855,7 +5855,25 @@
       "lastModified": "2026-07-01",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-02T00:30:33.295Z"
+    },
+    {
+      "id": "mr2rqlzqqj9vgzlkdj",
+      "name": "Peter Lyssens",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/peter.lyssens",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-01",
+      "nextFollowUp": "2026-07-03",
+      "notes": "",
+      "lastModified": "2026-07-01",
+      "dateAdded": "2026-07-01",
+      "addedAt": "2026-07-02T00:30:56.726Z"
     }
   ],
-  "lastUpdated": "2026-07-02T00:30:33.295Z"
+  "lastUpdated": "2026-07-02T00:30:56.726Z"
 }
