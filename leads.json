@@ -6107,7 +6107,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T16:59:26.864Z"
+    },
+    {
+      "id": "mr3r2fefj4akdtoovlb",
+      "name": "Matthew Anderson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100089345514758",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-04",
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T16:59:54.615Z"
     }
   ],
-  "lastUpdated": "2026-07-02T16:59:26.864Z"
+  "lastUpdated": "2026-07-02T16:59:54.615Z"
 }
