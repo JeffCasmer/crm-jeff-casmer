@@ -5899,14 +5899,14 @@
       "phone": "",
       "social": "https://www.facebook.com/troylavrenz",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-01",
       "nextFollowUp": "2026-07-03",
       "notes": "",
-      "lastModified": "2026-07-01",
+      "lastModified": "2026-07-02",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-02T00:31:53.254Z"
     },
@@ -6199,5 +6199,5 @@
       "addedAt": "2026-07-02T17:02:17.455Z"
     }
   ],
-  "lastUpdated": "2026-07-02T17:02:17.455Z"
+  "lastUpdated": "2026-07-02T17:20:37.080Z"
 }
