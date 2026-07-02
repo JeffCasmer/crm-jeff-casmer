@@ -5729,7 +5729,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T23:56:56.755Z"
+    },
+    {
+      "id": "mr2rmh5jg0h1c2r4hl",
+      "name": "Patterik",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/patterik.santideja",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-01",
+      "nextFollowUp": "2026-07-03",
+      "notes": "",
+      "lastModified": "2026-07-01",
+      "dateAdded": "2026-07-01",
+      "addedAt": "2026-07-02T00:27:43.832Z"
     }
   ],
-  "lastUpdated": "2026-07-02T00:17:48.144Z"
+  "lastUpdated": "2026-07-02T00:27:43.832Z"
 }
