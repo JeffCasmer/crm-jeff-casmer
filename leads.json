@@ -5765,7 +5765,25 @@
       "lastModified": "2026-07-01",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-02T00:28:19.200Z"
+    },
+    {
+      "id": "mr2rnxyn2lzq7v0bu8v",
+      "name": "Wajid Khan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/wajidkhan16818",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-01",
+      "nextFollowUp": "2026-07-03",
+      "notes": "",
+      "lastModified": "2026-07-01",
+      "dateAdded": "2026-07-01",
+      "addedAt": "2026-07-02T00:28:52.271Z"
     }
   ],
-  "lastUpdated": "2026-07-02T00:28:19.200Z"
+  "lastUpdated": "2026-07-02T00:28:52.271Z"
 }
