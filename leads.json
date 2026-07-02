@@ -6305,7 +6305,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T21:41:34.119Z"
+    },
+    {
+      "id": "mr415bif3rdxvk9taxt",
+      "name": "Ernesto Bonilla",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100087284420851",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-05",
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T21:42:05.703Z"
     }
   ],
-  "lastUpdated": "2026-07-02T21:41:34.119Z"
+  "lastUpdated": "2026-07-02T21:42:05.703Z"
 }
