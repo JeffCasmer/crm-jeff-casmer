@@ -6323,7 +6323,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T21:42:05.703Z"
+    },
+    {
+      "id": "mr416a6nm7l3mz0kca",
+      "name": "Lisa",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lisavandermerwe79",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T21:42:50.639Z"
     }
   ],
-  "lastUpdated": "2026-07-02T21:42:05.703Z"
+  "lastUpdated": "2026-07-02T21:42:50.639Z"
 }
