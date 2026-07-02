@@ -6161,7 +6161,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T17:01:20.792Z"
+    },
+    {
+      "id": "mr3r4wl3h0ip2k8a6i7",
+      "name": "John Wilson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.wilson.278632",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-04",
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T17:01:50.199Z"
     }
   ],
-  "lastUpdated": "2026-07-02T17:01:20.792Z"
+  "lastUpdated": "2026-07-02T17:01:50.199Z"
 }
