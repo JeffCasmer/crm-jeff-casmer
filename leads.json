@@ -6017,7 +6017,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T16:56:41.407Z"
+    },
+    {
+      "id": "mr3qz36f8bwg3xq7dfy",
+      "name": "David Madsen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/DavidMadsen0",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-04",
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T16:57:18.807Z"
     }
   ],
-  "lastUpdated": "2026-07-02T16:56:41.407Z"
+  "lastUpdated": "2026-07-02T16:57:18.807Z"
 }
