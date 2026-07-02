@@ -5945,7 +5945,25 @@
       "lastModified": "2026-07-01",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-02T00:33:04.103Z"
+    },
+    {
+      "id": "mr2rttgn1nhzsrj8nw8i",
+      "name": "Emanuel Anthony",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/emmanuel.maurice.9883",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-01",
+      "nextFollowUp": "2026-07-03",
+      "notes": "",
+      "lastModified": "2026-07-01",
+      "dateAdded": "2026-07-01",
+      "addedAt": "2026-07-02T00:33:26.375Z"
     }
   ],
-  "lastUpdated": "2026-07-02T00:33:04.103Z"
+  "lastUpdated": "2026-07-02T00:33:26.375Z"
 }
