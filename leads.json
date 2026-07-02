@@ -5837,7 +5837,25 @@
       "lastModified": "2026-07-01",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-02T00:30:12.824Z"
+    },
+    {
+      "id": "mr2rq3wv73298ewdumc",
+      "name": "Nick Carter",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nick.carter.31542",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-01",
+      "nextFollowUp": "2026-07-03",
+      "notes": "",
+      "lastModified": "2026-07-01",
+      "dateAdded": "2026-07-01",
+      "addedAt": "2026-07-02T00:30:33.295Z"
     }
   ],
-  "lastUpdated": "2026-07-02T00:30:12.824Z"
+  "lastUpdated": "2026-07-02T00:30:33.295Z"
 }
