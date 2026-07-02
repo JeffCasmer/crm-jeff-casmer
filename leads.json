@@ -6125,7 +6125,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T16:59:54.615Z"
+    },
+    {
+      "id": "mr3r3apbach07osh5p",
+      "name": "Miguel Melo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/miguel.r.melo",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-04",
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T17:00:35.183Z"
     }
   ],
-  "lastUpdated": "2026-07-02T16:59:54.615Z"
+  "lastUpdated": "2026-07-02T17:00:35.183Z"
 }
