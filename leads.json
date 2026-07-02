@@ -6269,7 +6269,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T21:34:52.134Z"
+    },
+    {
+      "id": "mr40y6mf4zui7m2wjr",
+      "name": "William Moseley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/william.moseley.72682",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-05",
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T21:36:32.775Z"
     }
   ],
-  "lastUpdated": "2026-07-02T21:34:52.134Z"
+  "lastUpdated": "2026-07-02T21:36:32.775Z"
 }
