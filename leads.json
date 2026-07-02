@@ -6215,7 +6215,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T21:33:20.688Z"
+    },
+    {
+      "id": "mr40uv4vywqermvu5k",
+      "name": "Adie",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100052246462045",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-05",
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T21:33:57.919Z"
     }
   ],
-  "lastUpdated": "2026-07-02T21:33:28.438Z"
+  "lastUpdated": "2026-07-02T21:33:57.919Z"
 }
