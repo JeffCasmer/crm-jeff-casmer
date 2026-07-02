@@ -6071,7 +6071,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T16:58:16.744Z"
+    },
+    {
+      "id": "mr3r159chzu7jkll6e9",
+      "name": "Basim",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/basim.albawe.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-04",
+      "notes": "",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T16:58:54.816Z"
     }
   ],
-  "lastUpdated": "2026-07-02T16:58:16.744Z"
+  "lastUpdated": "2026-07-02T16:58:54.816Z"
 }
