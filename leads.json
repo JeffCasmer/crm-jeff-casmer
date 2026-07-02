@@ -5873,7 +5873,25 @@
       "lastModified": "2026-07-01",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-02T00:30:56.726Z"
+    },
+    {
+      "id": "mr2rr6cfj4pj2pudtpp",
+      "name": "Mike Smurda",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mike.smurda.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-01",
+      "nextFollowUp": "2026-07-03",
+      "notes": "",
+      "lastModified": "2026-07-01",
+      "dateAdded": "2026-07-01",
+      "addedAt": "2026-07-02T00:31:23.103Z"
     }
   ],
-  "lastUpdated": "2026-07-02T00:30:56.726Z"
+  "lastUpdated": "2026-07-02T00:31:23.103Z"
 }
