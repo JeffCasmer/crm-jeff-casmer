@@ -5845,14 +5845,14 @@
       "phone": "",
       "social": "https://www.facebook.com/nick.carter.31542",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-01",
       "nextFollowUp": "2026-07-03",
       "notes": "",
-      "lastModified": "2026-07-01",
+      "lastModified": "2026-07-03",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-02T00:30:33.295Z"
     },
@@ -6343,5 +6343,5 @@
       "addedAt": "2026-07-02T21:42:50.639Z"
     }
   ],
-  "lastUpdated": "2026-07-03T23:43:29.762Z"
+  "lastUpdated": "2026-07-03T23:44:01.105Z"
 }
