@@ -6467,7 +6467,25 @@
       "lastModified": "2026-07-04",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-04T23:45:47.621Z"
+    },
+    {
+      "id": "mr70gpdh1cc46dj0gwj",
+      "name": "Margaret Marcellino",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/margaret.marcelino.14",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-04",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-07-04",
+      "dateAdded": "2026-07-04",
+      "addedAt": "2026-07-04T23:46:15.797Z"
     }
   ],
-  "lastUpdated": "2026-07-04T23:45:47.621Z"
+  "lastUpdated": "2026-07-04T23:46:15.797Z"
 }
