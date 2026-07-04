@@ -6485,7 +6485,25 @@
       "lastModified": "2026-07-04",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-04T23:46:15.797Z"
+    },
+    {
+      "id": "mr70hjx45epkapwdowa",
+      "name": "Evelyn Carias",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bezi.queen.5686",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-04",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-07-04",
+      "dateAdded": "2026-07-04",
+      "addedAt": "2026-07-04T23:46:55.384Z"
     }
   ],
-  "lastUpdated": "2026-07-04T23:46:15.797Z"
+  "lastUpdated": "2026-07-04T23:46:55.384Z"
 }
