@@ -6377,7 +6377,25 @@
       "lastModified": "2026-07-03",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-04T00:39:24.309Z"
+    },
+    {
+      "id": "mr5mxrkdtimybfwj1td",
+      "name": "Susan Fouriesa",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/susanfouriesa",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-05",
+      "notes": "",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-04T00:39:50.989Z"
     }
   ],
-  "lastUpdated": "2026-07-04T00:39:24.309Z"
+  "lastUpdated": "2026-07-04T00:39:50.989Z"
 }
