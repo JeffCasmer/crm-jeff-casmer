@@ -6061,14 +6061,14 @@
       "phone": "",
       "social": "https://www.facebook.com/mark.kato.777",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-07-04",
+      "nextFollowUp": "2026-07-06",
       "notes": "",
-      "lastModified": "2026-07-02",
+      "lastModified": "2026-07-04",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T16:58:16.744Z"
     },
@@ -6451,5 +6451,5 @@
       "addedAt": "2026-07-04T00:40:57.798Z"
     }
   ],
-  "lastUpdated": "2026-07-04T23:00:04.982Z"
+  "lastUpdated": "2026-07-04T23:02:46.156Z"
 }
