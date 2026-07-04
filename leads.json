@@ -6359,7 +6359,25 @@
       "lastModified": "2026-07-03",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-04T00:38:57.278Z"
+    },
+    {
+      "id": "mr5mx6z9w474gzfawhj",
+      "name": "Zvonko",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100009217584995",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-05",
+      "notes": "",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-04T00:39:24.309Z"
     }
   ],
-  "lastUpdated": "2026-07-04T00:38:57.278Z"
+  "lastUpdated": "2026-07-04T00:39:24.309Z"
 }
