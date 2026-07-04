@@ -6449,7 +6449,25 @@
       "lastModified": "2026-07-03",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-04T00:40:57.798Z"
+    },
+    {
+      "id": "mr70g3mtrne3tgz7lop",
+      "name": "Sam Deane",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/samdeane123",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-04",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-07-04",
+      "dateAdded": "2026-07-04",
+      "addedAt": "2026-07-04T23:45:47.621Z"
     }
   ],
-  "lastUpdated": "2026-07-04T23:32:56.653Z"
+  "lastUpdated": "2026-07-04T23:45:47.621Z"
 }
