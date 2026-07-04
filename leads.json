@@ -6503,7 +6503,25 @@
       "lastModified": "2026-07-04",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-04T23:46:55.384Z"
+    },
+    {
+      "id": "mr70i7g5pzg1efdrh2m",
+      "name": "Willian Jerry",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/willian.jerry.56",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-04",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-07-04",
+      "dateAdded": "2026-07-04",
+      "addedAt": "2026-07-04T23:47:25.877Z"
     }
   ],
-  "lastUpdated": "2026-07-04T23:46:55.384Z"
+  "lastUpdated": "2026-07-04T23:47:25.877Z"
 }
