@@ -6575,7 +6575,25 @@
       "lastModified": "2026-07-04",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-04T23:48:36.710Z"
+    },
+    {
+      "id": "mr70kf4l2tala6ol8ay",
+      "name": "Giedrius",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100011662236198",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-04",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-07-04",
+      "dateAdded": "2026-07-04",
+      "addedAt": "2026-07-04T23:49:09.141Z"
     }
   ],
-  "lastUpdated": "2026-07-04T23:48:36.710Z"
+  "lastUpdated": "2026-07-04T23:49:09.141Z"
 }
