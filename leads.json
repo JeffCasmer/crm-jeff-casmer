@@ -6557,7 +6557,25 @@
       "lastModified": "2026-07-04",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-04T23:48:12.342Z"
+    },
+    {
+      "id": "mr70jq3qccsgu7xoxzn",
+      "name": "Damodhar Reddy",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/damodhar.reddy.18",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-04",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-07-04",
+      "dateAdded": "2026-07-04",
+      "addedAt": "2026-07-04T23:48:36.710Z"
     }
   ],
-  "lastUpdated": "2026-07-04T23:48:12.342Z"
+  "lastUpdated": "2026-07-04T23:48:36.710Z"
 }
