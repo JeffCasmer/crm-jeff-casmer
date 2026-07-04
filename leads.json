@@ -6539,7 +6539,25 @@
       "lastModified": "2026-07-04",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-04T23:47:48.822Z"
+    },
+    {
+      "id": "mr70j7at4t57v7lg13a",
+      "name": "Joshua Rivera",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/JoshuaRivera1111",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-04",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-07-04",
+      "dateAdded": "2026-07-04",
+      "addedAt": "2026-07-04T23:48:12.342Z"
     }
   ],
-  "lastUpdated": "2026-07-04T23:47:48.822Z"
+  "lastUpdated": "2026-07-04T23:48:12.342Z"
 }
