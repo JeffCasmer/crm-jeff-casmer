@@ -6593,7 +6593,25 @@
       "lastModified": "2026-07-04",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-04T23:49:09.141Z"
+    },
+    {
+      "id": "mr8357acsaavx967aap",
+      "name": "Ben",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dw.host.10",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-05",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-07-05",
+      "dateAdded": "2026-07-05",
+      "addedAt": "2026-07-05T17:49:04.165Z"
     }
   ],
-  "lastUpdated": "2026-07-04T23:49:09.141Z"
+  "lastUpdated": "2026-07-05T17:49:04.165Z"
 }
