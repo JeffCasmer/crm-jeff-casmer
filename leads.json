@@ -6773,7 +6773,25 @@
       "lastModified": "2026-07-05",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T17:53:21.010Z"
+    },
+    {
+      "id": "mr83b9v6eofmpfhrvxd",
+      "name": "Greg Worthington",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/greg.worthington.98",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-05",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-07-05",
+      "dateAdded": "2026-07-05",
+      "addedAt": "2026-07-05T17:53:47.442Z"
     }
   ],
-  "lastUpdated": "2026-07-05T17:53:21.010Z"
+  "lastUpdated": "2026-07-05T17:53:47.442Z"
 }
