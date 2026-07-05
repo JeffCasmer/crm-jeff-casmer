@@ -6665,7 +6665,25 @@
       "lastModified": "2026-07-05",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T17:50:44.002Z"
+    },
+    {
+      "id": "mr837v8ixrdrtaexqsh",
+      "name": "Carey Johnson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/carey.johnson.18400",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-05",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-07-05",
+      "dateAdded": "2026-07-05",
+      "addedAt": "2026-07-05T17:51:08.514Z"
     }
   ],
-  "lastUpdated": "2026-07-05T17:50:44.002Z"
+  "lastUpdated": "2026-07-05T17:51:08.514Z"
 }
