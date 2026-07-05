@@ -6719,7 +6719,25 @@
       "lastModified": "2026-07-05",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T17:52:05.146Z"
+    },
+    {
+      "id": "mr839lp66l6c57vut6s",
+      "name": "Earl Inniss",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/earlrinniss",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-05",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-07-05",
+      "dateAdded": "2026-07-05",
+      "addedAt": "2026-07-05T17:52:29.466Z"
     }
   ],
-  "lastUpdated": "2026-07-05T17:52:05.146Z"
+  "lastUpdated": "2026-07-05T17:52:29.466Z"
 }
