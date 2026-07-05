@@ -6737,7 +6737,25 @@
       "lastModified": "2026-07-05",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T17:52:29.466Z"
+    },
+    {
+      "id": "mr83a6ki62l0k99izdm",
+      "name": "Ainsley Stewart",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ainsleypjstewart",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-05",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-07-05",
+      "dateAdded": "2026-07-05",
+      "addedAt": "2026-07-05T17:52:56.514Z"
     }
   ],
-  "lastUpdated": "2026-07-05T17:52:29.466Z"
+  "lastUpdated": "2026-07-05T17:52:56.514Z"
 }
