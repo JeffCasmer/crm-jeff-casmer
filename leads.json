@@ -6611,7 +6611,25 @@
       "lastModified": "2026-07-05",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T17:49:04.165Z"
+    },
+    {
+      "id": "mr8360b66xyo8l10grj",
+      "name": "Zachary Pyne",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/zachary.pyne.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-05",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-07-05",
+      "dateAdded": "2026-07-05",
+      "addedAt": "2026-07-05T17:49:41.778Z"
     }
   ],
-  "lastUpdated": "2026-07-05T17:49:04.165Z"
+  "lastUpdated": "2026-07-05T17:49:41.778Z"
 }
