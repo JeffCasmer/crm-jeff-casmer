@@ -6755,7 +6755,25 @@
       "lastModified": "2026-07-05",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T17:52:56.514Z"
+    },
+    {
+      "id": "mr83apgy9z0jn7p4d5",
+      "name": "Jessica Pearson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jessica.pearson.902",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-05",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-07-05",
+      "dateAdded": "2026-07-05",
+      "addedAt": "2026-07-05T17:53:21.010Z"
     }
   ],
-  "lastUpdated": "2026-07-05T17:52:56.514Z"
+  "lastUpdated": "2026-07-05T17:53:21.010Z"
 }
