@@ -6827,7 +6827,25 @@
       "lastModified": "2026-07-06",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-07T01:32:07.752Z"
+    },
+    {
+      "id": "mr9z5jo882yywmwwid4",
+      "name": "Lulu Tata",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lucy274",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-06",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-07-06",
+      "dateAdded": "2026-07-06",
+      "addedAt": "2026-07-07T01:32:54.104Z"
     }
   ],
-  "lastUpdated": "2026-07-07T01:32:07.752Z"
+  "lastUpdated": "2026-07-07T01:32:54.104Z"
 }
