@@ -6809,7 +6809,25 @@
       "lastModified": "2026-07-06",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T17:54:13.393Z"
+    },
+    {
+      "id": "mr9z4jwoq1crpv4vcj",
+      "name": "Claudio Boyett",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rayboyett",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-06",
+      "nextFollowUp": "2026-07-08",
+      "notes": "",
+      "lastModified": "2026-07-06",
+      "dateAdded": "2026-07-06",
+      "addedAt": "2026-07-07T01:32:07.752Z"
     }
   ],
-  "lastUpdated": "2026-07-07T01:25:28.799Z"
+  "lastUpdated": "2026-07-07T01:32:07.752Z"
 }
