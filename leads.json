@@ -1403,9 +1403,9 @@
       "temperature": "Warm",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-06-07",
-      "nextFollowUp": "2026-07-07",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-19",
+      "lastModified": "2026-07-07",
       "dateAdded": "2026-06-07",
       "addedAt": "2026-06-08T00:37:16.013Z"
     },
@@ -6865,5 +6865,5 @@
       "addedAt": "2026-07-07T01:34:31.400Z"
     }
   ],
-  "lastUpdated": "2026-07-08T01:04:28.210Z"
+  "lastUpdated": "2026-07-08T01:05:07.465Z"
 }
