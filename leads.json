@@ -6881,7 +6881,25 @@
       "lastModified": "2026-07-08",
       "dateAdded": "2026-07-08",
       "addedAt": "2026-07-08T16:17:05.498Z"
+    },
+    {
+      "id": "mrca73ftv7crg97qnmm",
+      "name": "Ted Verstreater",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ted.verstreater.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-08",
+      "nextFollowUp": "2026-07-10",
+      "notes": "",
+      "lastModified": "2026-07-08",
+      "dateAdded": "2026-07-08",
+      "addedAt": "2026-07-08T16:17:34.505Z"
     }
   ],
-  "lastUpdated": "2026-07-08T16:17:05.499Z"
+  "lastUpdated": "2026-07-08T16:17:34.505Z"
 }
