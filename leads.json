@@ -6917,7 +6917,25 @@
       "lastModified": "2026-07-08",
       "dateAdded": "2026-07-08",
       "addedAt": "2026-07-08T16:18:00.745Z"
+    },
+    {
+      "id": "mrca88n69ex9voe0547",
+      "name": "Paul Austin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/paul.austin.921",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-08",
+      "nextFollowUp": "2026-07-10",
+      "notes": "",
+      "lastModified": "2026-07-08",
+      "dateAdded": "2026-07-08",
+      "addedAt": "2026-07-08T16:18:27.906Z"
     }
   ],
-  "lastUpdated": "2026-07-08T16:18:00.745Z"
+  "lastUpdated": "2026-07-08T16:18:27.906Z"
 }
