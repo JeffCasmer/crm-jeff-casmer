@@ -7097,7 +7097,25 @@
       "lastModified": "2026-07-09",
       "dateAdded": "2026-07-09",
       "addedAt": "2026-07-09T19:41:00.062Z"
+    },
+    {
+      "id": "mrdwxajtl89w2uuejzk",
+      "name": "Julie Fletcher",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/julie.fletcher.39501",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": "2026-07-11",
+      "notes": "",
+      "lastModified": "2026-07-09",
+      "dateAdded": "2026-07-09",
+      "addedAt": "2026-07-09T19:41:34.505Z"
     }
   ],
-  "lastUpdated": "2026-07-09T19:41:00.062Z"
+  "lastUpdated": "2026-07-09T19:41:34.505Z"
 }
