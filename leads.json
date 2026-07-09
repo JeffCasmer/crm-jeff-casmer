@@ -7007,7 +7007,25 @@
       "lastModified": "2026-07-09",
       "dateAdded": "2026-07-09",
       "addedAt": "2026-07-09T19:37:46.529Z"
+    },
+    {
+      "id": "mrdwt11kad0e969a1dn",
+      "name": "Craig Casler",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/craig.casler.18",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": "2026-07-11",
+      "notes": "",
+      "lastModified": "2026-07-09",
+      "dateAdded": "2026-07-09",
+      "addedAt": "2026-07-09T19:38:15.560Z"
     }
   ],
-  "lastUpdated": "2026-07-09T19:37:46.529Z"
+  "lastUpdated": "2026-07-09T19:38:15.560Z"
 }
