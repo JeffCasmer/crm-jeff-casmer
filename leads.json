@@ -7115,7 +7115,25 @@
       "lastModified": "2026-07-09",
       "dateAdded": "2026-07-09",
       "addedAt": "2026-07-09T19:41:34.505Z"
+    },
+    {
+      "id": "mrdwxx2onxp9h8unv2",
+      "name": "Nina Cox",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nina.cox.50115",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": "2026-07-11",
+      "notes": "",
+      "lastModified": "2026-07-09",
+      "dateAdded": "2026-07-09",
+      "addedAt": "2026-07-09T19:42:03.696Z"
     }
   ],
-  "lastUpdated": "2026-07-09T19:41:34.505Z"
+  "lastUpdated": "2026-07-09T19:42:03.696Z"
 }
