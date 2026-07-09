@@ -7043,7 +7043,25 @@
       "lastModified": "2026-07-09",
       "dateAdded": "2026-07-09",
       "addedAt": "2026-07-09T19:38:40.024Z"
+    },
+    {
+      "id": "mrdwv9sh7cqa633dm2a",
+      "name": "Jan Shaw",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jan.m.shaw",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": "2026-07-11",
+      "notes": "",
+      "lastModified": "2026-07-09",
+      "dateAdded": "2026-07-09",
+      "addedAt": "2026-07-09T19:40:00.209Z"
     }
   ],
-  "lastUpdated": "2026-07-09T19:38:40.024Z"
+  "lastUpdated": "2026-07-09T19:40:00.209Z"
 }
