@@ -6989,7 +6989,25 @@
       "lastModified": "2026-07-08",
       "dateAdded": "2026-07-08",
       "addedAt": "2026-07-08T16:19:53.696Z"
+    },
+    {
+      "id": "mrdwsen52gja729sry6",
+      "name": "Wayne Crowe",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/wayne.crowe.9212",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": "2026-07-11",
+      "notes": "",
+      "lastModified": "2026-07-09",
+      "dateAdded": "2026-07-09",
+      "addedAt": "2026-07-09T19:37:46.529Z"
     }
   ],
-  "lastUpdated": "2026-07-09T18:49:34.709Z"
+  "lastUpdated": "2026-07-09T19:37:46.529Z"
 }
