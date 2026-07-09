@@ -7025,7 +7025,25 @@
       "lastModified": "2026-07-09",
       "dateAdded": "2026-07-09",
       "addedAt": "2026-07-09T19:38:15.560Z"
+    },
+    {
+      "id": "mrdwtjx4fqukb75u6ql",
+      "name": "Betony Gardner",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/betony.garner.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": "2026-07-11",
+      "notes": "",
+      "lastModified": "2026-07-09",
+      "dateAdded": "2026-07-09",
+      "addedAt": "2026-07-09T19:38:40.024Z"
     }
   ],
-  "lastUpdated": "2026-07-09T19:38:15.560Z"
+  "lastUpdated": "2026-07-09T19:38:40.024Z"
 }
