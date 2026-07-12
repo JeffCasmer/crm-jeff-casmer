@@ -7151,7 +7151,26 @@
       "lastModified": "2026-07-12",
       "dateAdded": "2026-07-12",
       "addedAt": "2026-07-12T13:57:06.196Z"
+    },
+    {
+      "id": "mrhuz6aifwa3o3n3ym4",
+      "name": "Neil North",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/neil.north.1",
+      "source": "Facebook",
+      "status": "Customer",
+      "videoSent": false,
+      "temperature": "Hot",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-12",
+      "nextFollowUp": "2026-07-13",
+      "notes": "",
+      "lastModified": "2026-07-12",
+      "customerSince": "2026-07-12",
+      "dateAdded": "2026-07-12",
+      "addedAt": "2026-07-12T13:58:07.770Z"
     }
   ],
-  "lastUpdated": "2026-07-12T13:57:06.196Z"
+  "lastUpdated": "2026-07-12T13:58:07.770Z"
 }
