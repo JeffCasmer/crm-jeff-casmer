@@ -7133,7 +7133,25 @@
       "lastModified": "2026-07-10",
       "dateAdded": "2026-07-09",
       "addedAt": "2026-07-09T19:42:03.696Z"
+    },
+    {
+      "id": "mrhuxus4r4ky8scd7v9",
+      "name": "Enock Banda",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/enock.banda3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-12",
+      "nextFollowUp": "2026-07-14",
+      "notes": "",
+      "lastModified": "2026-07-12",
+      "dateAdded": "2026-07-12",
+      "addedAt": "2026-07-12T13:57:06.196Z"
     }
   ],
-  "lastUpdated": "2026-07-12T13:55:46.251Z"
+  "lastUpdated": "2026-07-12T13:57:06.196Z"
 }
