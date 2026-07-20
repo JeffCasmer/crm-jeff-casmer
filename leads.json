@@ -6854,16 +6854,17 @@
       "phone": "",
       "social": "https://www.facebook.com/pharaohq.golden",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-06",
-      "nextFollowUp": "2026-07-20",
+      "nextFollowUp": "2026-07-21",
       "notes": "",
-      "lastModified": "2026-07-18",
+      "lastModified": "2026-07-19",
       "dateAdded": "2026-07-06",
-      "addedAt": "2026-07-07T01:34:31.400Z"
+      "addedAt": "2026-07-07T01:34:31.400Z",
+      "customerSince": "2026-07-19"
     },
     {
       "id": "mrca6h22m4cemktjiu9",
@@ -7173,5 +7174,5 @@
       "addedAt": "2026-07-12T13:58:07.770Z"
     }
   ],
-  "lastUpdated": "2026-07-20T01:38:01.642Z"
+  "lastUpdated": "2026-07-20T01:38:38.346Z"
 }
