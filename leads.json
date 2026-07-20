@@ -6835,14 +6835,14 @@
       "phone": "",
       "social": "https://www.facebook.com/lucy274",
       "source": "Facebook",
-      "status": "Customer",
+      "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-06",
       "nextFollowUp": "2026-07-19",
       "notes": "",
-      "lastModified": "2026-07-18",
+      "lastModified": "2026-07-19",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-07T01:32:54.104Z",
       "customerSince": "2026-07-18"
@@ -7173,5 +7173,5 @@
       "addedAt": "2026-07-12T13:58:07.770Z"
     }
   ],
-  "lastUpdated": "2026-07-20T01:37:40.338Z"
+  "lastUpdated": "2026-07-20T01:38:01.642Z"
 }
