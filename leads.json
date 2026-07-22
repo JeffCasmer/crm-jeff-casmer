@@ -7226,7 +7226,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-22T01:24:31.483Z"
+    },
+    {
+      "id": "mrvf6mwzbzlxteqguui",
+      "name": "RJ Meyer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/theRJ.Meyer",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-23",
+      "notes": "",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-22T01:44:48.515Z"
     }
   ],
-  "lastUpdated": "2026-07-22T01:24:31.483Z"
+  "lastUpdated": "2026-07-22T01:44:48.515Z"
 }
