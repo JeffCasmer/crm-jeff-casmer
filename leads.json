@@ -7190,7 +7190,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-22T01:23:25.221Z"
+    },
+    {
+      "id": "mrveg1pgxg0kmqo4iy",
+      "name": "Paul Ashton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/paul.ashton.469757",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-23",
+      "notes": "",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-22T01:24:07.972Z"
     }
   ],
-  "lastUpdated": "2026-07-22T01:23:25.221Z"
+  "lastUpdated": "2026-07-22T01:24:07.972Z"
 }
