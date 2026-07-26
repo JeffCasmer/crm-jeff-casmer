@@ -7479,7 +7479,25 @@
       "lastModified": "2026-07-26",
       "dateAdded": "2026-07-26",
       "addedAt": "2026-07-26T13:07:44.611Z"
+    },
+    {
+      "id": "ms1tcwwbeg9snoqikbe",
+      "name": "Megan Brunner",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/megan.brunner.399",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-26",
+      "nextFollowUp": "2026-07-28",
+      "notes": "",
+      "lastModified": "2026-07-26",
+      "dateAdded": "2026-07-26",
+      "addedAt": "2026-07-26T13:08:13.067Z"
     }
   ],
-  "lastUpdated": "2026-07-26T13:07:44.611Z"
+  "lastUpdated": "2026-07-26T13:08:13.067Z"
 }
