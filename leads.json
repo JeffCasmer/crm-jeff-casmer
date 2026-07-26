@@ -7389,7 +7389,25 @@
       "lastModified": "2026-07-25",
       "dateAdded": "2026-07-25",
       "addedAt": "2026-07-25T13:24:24.318Z"
+    },
+    {
+      "id": "ms1t9sp1bf1nmfv46c7",
+      "name": "Dani",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/daniel.hornick.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-26",
+      "nextFollowUp": "2026-07-28",
+      "notes": "",
+      "lastModified": "2026-07-26",
+      "dateAdded": "2026-07-26",
+      "addedAt": "2026-07-26T13:05:47.653Z"
     }
   ],
-  "lastUpdated": "2026-07-26T12:38:26.273Z"
+  "lastUpdated": "2026-07-26T13:05:47.653Z"
 }
