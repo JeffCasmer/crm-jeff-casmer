@@ -7533,7 +7533,25 @@
       "lastModified": "2026-07-26",
       "dateAdded": "2026-07-26",
       "addedAt": "2026-07-26T13:08:59.931Z"
+    },
+    {
+      "id": "ms1tef830ynepc1wqxc",
+      "name": "Jai Wilson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jai.wilson.653789",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-26",
+      "nextFollowUp": "2026-07-28",
+      "notes": "",
+      "lastModified": "2026-07-26",
+      "dateAdded": "2026-07-26",
+      "addedAt": "2026-07-26T13:09:23.475Z"
     }
   ],
-  "lastUpdated": "2026-07-26T13:08:59.931Z"
+  "lastUpdated": "2026-07-26T13:09:23.475Z"
 }
