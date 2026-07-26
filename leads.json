@@ -7443,7 +7443,25 @@
       "lastModified": "2026-07-26",
       "dateAdded": "2026-07-26",
       "addedAt": "2026-07-26T13:06:49.324Z"
+    },
+    {
+      "id": "ms1tbqnvjh0kr3t99c",
+      "name": "Ashley Bet",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100009490796816",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-26",
+      "nextFollowUp": "2026-07-28",
+      "notes": "",
+      "lastModified": "2026-07-26",
+      "dateAdded": "2026-07-26",
+      "addedAt": "2026-07-26T13:07:18.331Z"
     }
   ],
-  "lastUpdated": "2026-07-26T13:06:49.324Z"
+  "lastUpdated": "2026-07-26T13:07:18.331Z"
 }
