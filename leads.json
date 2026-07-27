@@ -7569,7 +7569,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T17:34:01.729Z"
+    },
+    {
+      "id": "ms3v6lwzhxfgb9ypkb",
+      "name": "Dre Cole",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dre.cole.90260",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-07-29",
+      "notes": "",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T23:34:50.483Z"
     }
   ],
-  "lastUpdated": "2026-07-27T17:34:01.729Z"
+  "lastUpdated": "2026-07-27T23:34:50.483Z"
 }
