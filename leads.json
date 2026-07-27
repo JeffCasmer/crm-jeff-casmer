@@ -7577,8 +7577,8 @@
       "phone": "",
       "social": "https://www.facebook.com/dre.cole.90260",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-27",
@@ -7607,5 +7607,5 @@
       "addedAt": "2026-07-27T23:35:29.811Z"
     }
   ],
-  "lastUpdated": "2026-07-27T23:35:29.811Z"
+  "lastUpdated": "2026-07-27T23:36:51.419Z"
 }
