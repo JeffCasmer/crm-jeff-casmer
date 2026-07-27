@@ -7605,7 +7605,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T23:35:29.811Z"
+    },
+    {
+      "id": "ms3va0grouiac942st",
+      "name": "CJ Culliao",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cjlculliao",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-07-29",
+      "notes": "",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T23:37:29.307Z"
     }
   ],
-  "lastUpdated": "2026-07-27T23:36:51.419Z"
+  "lastUpdated": "2026-07-27T23:37:29.307Z"
 }
