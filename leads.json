@@ -7677,7 +7677,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T23:39:20.594Z"
+    },
+    {
+      "id": "ms3vcyei99dirayuwmh",
+      "name": "Katherine Naidoo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/katherine.naidoo.90",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-07-29",
+      "notes": "",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T23:39:46.602Z"
     }
   ],
-  "lastUpdated": "2026-07-27T23:39:20.594Z"
+  "lastUpdated": "2026-07-27T23:39:46.602Z"
 }
