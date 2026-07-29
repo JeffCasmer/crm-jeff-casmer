@@ -7768,7 +7768,25 @@
       "lastModified": "2026-07-28",
       "dateAdded": "2026-07-28",
       "addedAt": "2026-07-29T00:26:15.728Z"
+    },
+    {
+      "id": "ms5ch7g05lmod072us2",
+      "name": "Ivan Valencia",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ivancito091503",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": "2026-07-30",
+      "notes": "",
+      "lastModified": "2026-07-28",
+      "dateAdded": "2026-07-28",
+      "addedAt": "2026-07-29T00:26:44.592Z"
     }
   ],
-  "lastUpdated": "2026-07-29T00:26:15.728Z"
+  "lastUpdated": "2026-07-29T00:26:44.592Z"
 }
