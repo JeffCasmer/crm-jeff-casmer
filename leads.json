@@ -7732,7 +7732,25 @@
       "lastModified": "2026-07-28",
       "dateAdded": "2026-07-28",
       "addedAt": "2026-07-29T00:25:21.672Z"
+    },
+    {
+      "id": "ms5cfzc0g1q8ydm5ota",
+      "name": "Titus Wolverton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/titus.wolverton",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": "2026-07-30",
+      "notes": "",
+      "lastModified": "2026-07-28",
+      "dateAdded": "2026-07-28",
+      "addedAt": "2026-07-29T00:25:47.424Z"
     }
   ],
-  "lastUpdated": "2026-07-29T00:25:21.672Z"
+  "lastUpdated": "2026-07-29T00:25:47.424Z"
 }
