@@ -8218,7 +8218,25 @@
       "lastModified": "2026-07-30",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T23:19:12.736Z"
+    },
+    {
+      "id": "ms84yka0qthosy1ukv",
+      "name": "SARA HADGU",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sara.hadgu.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-08-01",
+      "notes": "",
+      "lastModified": "2026-07-30",
+      "dateAdded": "2026-07-30",
+      "addedAt": "2026-07-30T23:19:35.976Z"
     }
   ],
-  "lastUpdated": "2026-07-30T23:19:12.736Z"
+  "lastUpdated": "2026-07-30T23:19:35.976Z"
 }
