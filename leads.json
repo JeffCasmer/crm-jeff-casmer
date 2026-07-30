@@ -8146,7 +8146,25 @@
       "lastModified": "2026-07-30",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T23:17:32.720Z"
+    },
+    {
+      "id": "ms84wlnd4yj0sgugh8o",
+      "name": "David Winters",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/david.winters22",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-08-01",
+      "notes": "",
+      "lastModified": "2026-07-30",
+      "dateAdded": "2026-07-30",
+      "addedAt": "2026-07-30T23:18:04.441Z"
     }
   ],
-  "lastUpdated": "2026-07-30T23:17:32.720Z"
+  "lastUpdated": "2026-07-30T23:18:04.441Z"
 }
