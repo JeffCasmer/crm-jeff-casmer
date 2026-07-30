@@ -8038,7 +8038,25 @@
       "lastModified": "2026-07-29",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-30T01:15:57.512Z"
+    },
+    {
+      "id": "ms84svjrata6c3846ls",
+      "name": "Nathaniel Bushiri",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nbushiri",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-08-01",
+      "notes": "",
+      "lastModified": "2026-07-30",
+      "dateAdded": "2026-07-30",
+      "addedAt": "2026-07-30T23:15:10.647Z"
     }
   ],
-  "lastUpdated": "2026-07-30T18:36:38.235Z"
+  "lastUpdated": "2026-07-30T23:15:10.647Z"
 }
