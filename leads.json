@@ -8164,7 +8164,25 @@
       "lastModified": "2026-07-30",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T23:18:04.441Z"
+    },
+    {
+      "id": "ms84x1ywua5gbqgprc8",
+      "name": "Eric Elliot",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/eric.elliott.9822",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-08-01",
+      "notes": "",
+      "lastModified": "2026-07-30",
+      "dateAdded": "2026-07-30",
+      "addedAt": "2026-07-30T23:18:25.592Z"
     }
   ],
-  "lastUpdated": "2026-07-30T23:18:04.441Z"
+  "lastUpdated": "2026-07-30T23:18:25.592Z"
 }
