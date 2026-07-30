@@ -7840,7 +7840,25 @@
       "lastModified": "2026-07-29",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-30T00:35:29.128Z"
+    },
+    {
+      "id": "ms6s8wxk1wvrfrk63eh",
+      "name": "Kip Padgelek",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kip.padgelek",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-29",
+      "nextFollowUp": "2026-07-31",
+      "notes": "",
+      "lastModified": "2026-07-29",
+      "dateAdded": "2026-07-29",
+      "addedAt": "2026-07-30T00:35:57.752Z"
     }
   ],
-  "lastUpdated": "2026-07-30T00:35:29.128Z"
+  "lastUpdated": "2026-07-30T00:35:57.752Z"
 }
