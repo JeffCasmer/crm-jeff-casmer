@@ -8074,7 +8074,25 @@
       "lastModified": "2026-07-30",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T23:15:40.745Z"
+    },
+    {
+      "id": "ms84u43kj3ce8anhjae",
+      "name": "Rolando Piloto",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rolando.piloto",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-08-01",
+      "notes": "",
+      "lastModified": "2026-07-30",
+      "dateAdded": "2026-07-30",
+      "addedAt": "2026-07-30T23:16:08.385Z"
     }
   ],
-  "lastUpdated": "2026-07-30T23:15:40.745Z"
+  "lastUpdated": "2026-07-30T23:16:08.385Z"
 }
