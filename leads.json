@@ -7894,7 +7894,25 @@
       "lastModified": "2026-07-29",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-30T01:11:51.832Z"
+    },
+    {
+      "id": "ms6tjvd47m0fclzlkbh",
+      "name": "Andrea Mrotek",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/andrea.mrotek.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-29",
+      "nextFollowUp": "2026-07-31",
+      "notes": "",
+      "lastModified": "2026-07-29",
+      "dateAdded": "2026-07-29",
+      "addedAt": "2026-07-30T01:12:28.552Z"
     }
   ],
-  "lastUpdated": "2026-07-30T01:11:51.832Z"
+  "lastUpdated": "2026-07-30T01:12:28.552Z"
 }
