@@ -7902,8 +7902,8 @@
       "phone": "",
       "social": "https://www.facebook.com/andrea.mrotek.5",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-29",
@@ -7986,5 +7986,5 @@
       "addedAt": "2026-07-30T01:14:19.288Z"
     }
   ],
-  "lastUpdated": "2026-07-30T01:14:19.288Z"
+  "lastUpdated": "2026-07-30T01:14:26.649Z"
 }
