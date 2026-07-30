@@ -8092,7 +8092,25 @@
       "lastModified": "2026-07-30",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T23:16:08.385Z"
+    },
+    {
+      "id": "ms84ul69a70hmz4xwc4",
+      "name": "Justin Bigbie",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/justin.bigbie",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-08-01",
+      "notes": "",
+      "lastModified": "2026-07-30",
+      "dateAdded": "2026-07-30",
+      "addedAt": "2026-07-30T23:16:30.513Z"
     }
   ],
-  "lastUpdated": "2026-07-30T23:16:08.385Z"
+  "lastUpdated": "2026-07-30T23:16:30.513Z"
 }
