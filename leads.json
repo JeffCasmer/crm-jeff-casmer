@@ -8128,7 +8128,25 @@
       "lastModified": "2026-07-30",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T23:17:02.600Z"
+    },
+    {
+      "id": "ms84vx68r5nmwq8iny",
+      "name": "Javier Castellanos",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/javier.castellanos.923",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-08-01",
+      "notes": "",
+      "lastModified": "2026-07-30",
+      "dateAdded": "2026-07-30",
+      "addedAt": "2026-07-30T23:17:32.720Z"
     }
   ],
-  "lastUpdated": "2026-07-30T23:17:02.601Z"
+  "lastUpdated": "2026-07-30T23:17:32.720Z"
 }
