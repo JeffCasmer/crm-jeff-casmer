@@ -7804,7 +7804,25 @@
       "lastModified": "2026-07-28",
       "dateAdded": "2026-07-28",
       "addedAt": "2026-07-29T00:27:14.743Z"
+    },
+    {
+      "id": "ms6s7q9ckfd0xtpxx0g",
+      "name": "Jeff Alvarez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61590199512363",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-29",
+      "nextFollowUp": "2026-07-31",
+      "notes": "",
+      "lastModified": "2026-07-29",
+      "dateAdded": "2026-07-29",
+      "addedAt": "2026-07-30T00:35:02.448Z"
     }
   ],
-  "lastUpdated": "2026-07-30T00:28:46.631Z"
+  "lastUpdated": "2026-07-30T00:35:02.448Z"
 }
