@@ -8272,7 +8272,25 @@
       "lastModified": "2026-07-30",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T23:20:23.312Z"
+    },
+    {
+      "id": "ms933cv90qtx7mmopatg",
+      "name": "Jennifer Folks",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jennifer.folks.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-31",
+      "nextFollowUp": "2026-08-02",
+      "notes": "",
+      "lastModified": "2026-07-31",
+      "dateAdded": "2026-07-31",
+      "addedAt": "2026-07-31T15:15:06.597Z"
     }
   ],
-  "lastUpdated": "2026-07-30T23:26:10.655Z"
+  "lastUpdated": "2026-07-31T15:15:06.598Z"
 }
