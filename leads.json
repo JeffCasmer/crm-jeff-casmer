@@ -8326,7 +8326,25 @@
       "lastModified": "2026-07-31",
       "dateAdded": "2026-07-31",
       "addedAt": "2026-07-31T15:15:46.295Z"
+    },
+    {
+      "id": "ms934sz34y1nnibwhji",
+      "name": "Zack Hayes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/zack.hayes.923",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-31",
+      "nextFollowUp": "2026-08-02",
+      "notes": "",
+      "lastModified": "2026-07-31",
+      "dateAdded": "2026-07-31",
+      "addedAt": "2026-07-31T15:16:14.127Z"
     }
   ],
-  "lastUpdated": "2026-07-31T15:15:46.295Z"
+  "lastUpdated": "2026-07-31T15:16:14.127Z"
 }
