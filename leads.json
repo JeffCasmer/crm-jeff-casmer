@@ -8398,7 +8398,25 @@
       "lastModified": "2026-08-02",
       "dateAdded": "2026-08-02",
       "addedAt": "2026-08-02T12:57:47.249Z"
+    },
+    {
+      "id": "msbt37aguk1c4lpac8",
+      "name": "William Curtis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/william.curtis.545",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-02",
+      "nextFollowUp": "2026-08-04",
+      "notes": "",
+      "lastModified": "2026-08-02",
+      "dateAdded": "2026-08-02",
+      "addedAt": "2026-08-02T12:58:21.736Z"
     }
   ],
-  "lastUpdated": "2026-08-02T12:57:47.249Z"
+  "lastUpdated": "2026-08-02T12:58:21.736Z"
 }
