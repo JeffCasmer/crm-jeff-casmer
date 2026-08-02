@@ -8380,7 +8380,25 @@
       "lastModified": "2026-08-02",
       "dateAdded": "2026-08-02",
       "addedAt": "2026-08-02T12:32:01.589Z"
+    },
+    {
+      "id": "msbt2gohzces1sznyv",
+      "name": "Zane Carter",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/zane.carter.395",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-02",
+      "nextFollowUp": "2026-08-04",
+      "notes": "",
+      "lastModified": "2026-08-02",
+      "dateAdded": "2026-08-02",
+      "addedAt": "2026-08-02T12:57:47.249Z"
     }
   ],
-  "lastUpdated": "2026-08-02T12:48:46.818Z"
+  "lastUpdated": "2026-08-02T12:57:47.249Z"
 }
