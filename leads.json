@@ -8524,7 +8524,25 @@
       "lastModified": "2026-08-02",
       "dateAdded": "2026-08-02",
       "addedAt": "2026-08-02T13:01:22.584Z"
+    },
+    {
+      "id": "msbt7t34rrxgfblkwm9",
+      "name": "Damian Clarke",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/d1clarkie",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-02",
+      "nextFollowUp": "2026-08-04",
+      "notes": "",
+      "lastModified": "2026-08-02",
+      "dateAdded": "2026-08-02",
+      "addedAt": "2026-08-02T13:01:56.608Z"
     }
   ],
-  "lastUpdated": "2026-08-02T13:01:22.584Z"
+  "lastUpdated": "2026-08-02T13:01:56.608Z"
 }
