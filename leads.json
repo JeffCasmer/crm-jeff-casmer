@@ -8362,7 +8362,25 @@
       "lastModified": "2026-07-31",
       "dateAdded": "2026-07-31",
       "addedAt": "2026-07-31T15:16:39.854Z"
+    },
+    {
+      "id": "msbs5c1htkey5cnor1q",
+      "name": "David Durbin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/david.durbin.743474",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-02",
+      "nextFollowUp": "2026-08-04",
+      "notes": "",
+      "lastModified": "2026-08-02",
+      "dateAdded": "2026-08-02",
+      "addedAt": "2026-08-02T12:32:01.589Z"
     }
   ],
-  "lastUpdated": "2026-08-01T23:02:36.396Z"
+  "lastUpdated": "2026-08-02T12:32:01.589Z"
 }
