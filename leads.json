@@ -8434,7 +8434,25 @@
       "lastModified": "2026-08-02",
       "dateAdded": "2026-08-02",
       "addedAt": "2026-08-02T12:58:48.856Z"
+    },
+    {
+      "id": "msbt4h47s7comjewwyi",
+      "name": "Daniel Rayner",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/daniel.rayner.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-02",
+      "nextFollowUp": "2026-08-04",
+      "notes": "",
+      "lastModified": "2026-08-02",
+      "dateAdded": "2026-08-02",
+      "addedAt": "2026-08-02T12:59:21.127Z"
     }
   ],
-  "lastUpdated": "2026-08-02T12:58:48.856Z"
+  "lastUpdated": "2026-08-02T12:59:21.127Z"
 }
