@@ -8416,7 +8416,25 @@
       "lastModified": "2026-08-02",
       "dateAdded": "2026-08-02",
       "addedAt": "2026-08-02T12:58:21.736Z"
+    },
+    {
+      "id": "msbt3s7siw0t04d7q5e",
+      "name": "Bobby Benvenuti",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bobby.benvenuti.39",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-02",
+      "nextFollowUp": "2026-08-04",
+      "notes": "",
+      "lastModified": "2026-08-02",
+      "dateAdded": "2026-08-02",
+      "addedAt": "2026-08-02T12:58:48.856Z"
     }
   ],
-  "lastUpdated": "2026-08-02T12:58:21.736Z"
+  "lastUpdated": "2026-08-02T12:58:48.856Z"
 }
