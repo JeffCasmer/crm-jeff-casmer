@@ -8488,7 +8488,25 @@
       "lastModified": "2026-08-02",
       "dateAdded": "2026-08-02",
       "addedAt": "2026-08-02T13:00:25.376Z"
+    },
+    {
+      "id": "msbt6cqfktuxw1ddkih",
+      "name": "Joan Onos",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/joan.onos",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-02",
+      "nextFollowUp": "2026-08-04",
+      "notes": "",
+      "lastModified": "2026-08-02",
+      "dateAdded": "2026-08-02",
+      "addedAt": "2026-08-02T13:00:48.759Z"
     }
   ],
-  "lastUpdated": "2026-08-02T13:00:25.376Z"
+  "lastUpdated": "2026-08-02T13:00:48.759Z"
 }
