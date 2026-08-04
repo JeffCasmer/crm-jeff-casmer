@@ -8632,7 +8632,25 @@
       "lastModified": "2026-08-04",
       "dateAdded": "2026-08-04",
       "addedAt": "2026-08-04T11:57:22.515Z"
+    },
+    {
+      "id": "mselt6w3le0ol6dbp9d",
+      "name": "Lorie Harrison",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lorie.c.harrison",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-04",
+      "nextFollowUp": "2026-08-06",
+      "notes": "",
+      "lastModified": "2026-08-04",
+      "dateAdded": "2026-08-04",
+      "addedAt": "2026-08-04T11:57:55.875Z"
     }
   ],
-  "lastUpdated": "2026-08-04T11:57:22.515Z"
+  "lastUpdated": "2026-08-04T11:57:55.875Z"
 }
