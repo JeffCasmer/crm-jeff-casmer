@@ -8614,7 +8614,25 @@
       "lastModified": "2026-08-04",
       "dateAdded": "2026-08-04",
       "addedAt": "2026-08-04T11:56:55.250Z"
+    },
+    {
+      "id": "mselsh5fti1o1pd4pbl",
+      "name": "Jan Silver",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jan.silver.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-04",
+      "nextFollowUp": "2026-08-06",
+      "notes": "",
+      "lastModified": "2026-08-04",
+      "dateAdded": "2026-08-04",
+      "addedAt": "2026-08-04T11:57:22.515Z"
     }
   ],
-  "lastUpdated": "2026-08-04T11:56:55.250Z"
+  "lastUpdated": "2026-08-04T11:57:22.515Z"
 }
