@@ -8668,7 +8668,25 @@
       "lastModified": "2026-08-04",
       "dateAdded": "2026-08-04",
       "addedAt": "2026-08-04T11:58:30.523Z"
+    },
+    {
+      "id": "mselum5uzn2apcgvy09",
+      "name": "Tran Kiet",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kiet.t.tran.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-04",
+      "nextFollowUp": "2026-08-06",
+      "notes": "",
+      "lastModified": "2026-08-04",
+      "dateAdded": "2026-08-04",
+      "addedAt": "2026-08-04T11:59:02.322Z"
     }
   ],
-  "lastUpdated": "2026-08-04T11:58:30.523Z"
+  "lastUpdated": "2026-08-04T11:59:02.322Z"
 }
