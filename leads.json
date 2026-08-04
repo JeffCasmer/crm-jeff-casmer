@@ -8596,7 +8596,25 @@
       "lastModified": "2026-08-03",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T20:05:59.935Z"
+    },
+    {
+      "id": "mselrw42fwe1u01ga6",
+      "name": "Megan Leblanc",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/xMissMeganx",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-04",
+      "nextFollowUp": "2026-08-06",
+      "notes": "",
+      "lastModified": "2026-08-04",
+      "dateAdded": "2026-08-04",
+      "addedAt": "2026-08-04T11:56:55.250Z"
     }
   ],
-  "lastUpdated": "2026-08-03T22:16:44.342Z"
+  "lastUpdated": "2026-08-04T11:56:55.250Z"
 }
