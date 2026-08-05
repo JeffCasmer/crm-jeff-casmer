@@ -8902,7 +8902,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T23:06:24.387Z"
+    },
+    {
+      "id": "msgp5dmib2i6alnu7p5",
+      "name": "Patrick Patalas",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/patrick.patalas",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-08-07",
+      "notes": "",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T23:06:55.674Z"
     }
   ],
-  "lastUpdated": "2026-08-05T23:06:24.387Z"
+  "lastUpdated": "2026-08-05T23:06:55.674Z"
 }
