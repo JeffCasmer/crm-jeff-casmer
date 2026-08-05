@@ -8884,7 +8884,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T23:05:53.978Z"
+    },
+    {
+      "id": "msgp4phfnw0rt3l5xq",
+      "name": "Avante G",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/avante.groseclose",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-08-07",
+      "notes": "",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T23:06:24.387Z"
     }
   ],
-  "lastUpdated": "2026-08-05T23:05:53.978Z"
+  "lastUpdated": "2026-08-05T23:06:24.387Z"
 }
