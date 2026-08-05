@@ -8704,7 +8704,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T17:23:40.459Z"
+    },
+    {
+      "id": "msgcy24r3dzd2bcuiuh",
+      "name": "Shawn Sierra",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/theshawnsierra/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-08-07",
+      "notes": "",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T17:25:18.795Z"
     }
   ],
-  "lastUpdated": "2026-08-05T17:23:40.459Z"
+  "lastUpdated": "2026-08-05T17:25:18.795Z"
 }
