@@ -8848,7 +8848,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T23:04:59.691Z"
+    },
+    {
+      "id": "msgp3grn0qlcial3b47",
+      "name": "Robert Clara",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61555879755688",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-08-07",
+      "notes": "",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T23:05:26.435Z"
     }
   ],
-  "lastUpdated": "2026-08-05T23:04:59.691Z"
+  "lastUpdated": "2026-08-05T23:05:26.435Z"
 }
