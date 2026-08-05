@@ -8758,7 +8758,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T23:02:15.514Z"
+    },
+    {
+      "id": "msgp09ffni39f48au2",
+      "name": "Lekira Lance",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Lekiralance1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-08-07",
+      "notes": "",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T23:02:56.955Z"
     }
   ],
-  "lastUpdated": "2026-08-05T23:02:15.514Z"
+  "lastUpdated": "2026-08-05T23:02:56.955Z"
 }
