@@ -8776,7 +8776,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T23:02:56.955Z"
+    },
+    {
+      "id": "msgp0v8z8lt4ex7by8j",
+      "name": "Gareth Phillips",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gareth.phillips.948",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-08-07",
+      "notes": "",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T23:03:25.235Z"
     }
   ],
-  "lastUpdated": "2026-08-05T23:02:56.955Z"
+  "lastUpdated": "2026-08-05T23:03:25.235Z"
 }
