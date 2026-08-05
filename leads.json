@@ -8830,7 +8830,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T23:04:22.988Z"
+    },
+    {
+      "id": "msgp2w4rd8canq43epb",
+      "name": "Dillon Fredenburg",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dillon.fredenburg",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-08-07",
+      "notes": "",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T23:04:59.691Z"
     }
   ],
-  "lastUpdated": "2026-08-05T23:04:22.988Z"
+  "lastUpdated": "2026-08-05T23:04:59.691Z"
 }
