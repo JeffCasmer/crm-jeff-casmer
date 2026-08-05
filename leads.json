@@ -8974,7 +8974,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T23:09:15.291Z"
+    },
+    {
+      "id": "msgp8yyze211z0f98md",
+      "name": "Jamie Gilbert",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jamiejgilbert",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-08-07",
+      "notes": "",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T23:09:43.307Z"
     }
   ],
-  "lastUpdated": "2026-08-05T23:09:15.291Z"
+  "lastUpdated": "2026-08-05T23:09:43.307Z"
 }
