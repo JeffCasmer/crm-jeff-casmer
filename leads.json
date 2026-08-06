@@ -9208,7 +9208,25 @@
       "lastModified": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T23:03:16.517Z"
+    },
+    {
+      "id": "msi4j0bp8yn3c8xuova",
+      "name": "Joy Favor",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nancy.kimani",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-06",
+      "nextFollowUp": "2026-08-08",
+      "notes": "",
+      "lastModified": "2026-08-06",
+      "dateAdded": "2026-08-06",
+      "addedAt": "2026-08-06T23:05:12.037Z"
     }
   ],
-  "lastUpdated": "2026-08-06T23:03:16.517Z"
+  "lastUpdated": "2026-08-06T23:05:12.037Z"
 }
