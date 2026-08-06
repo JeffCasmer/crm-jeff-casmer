@@ -9046,7 +9046,25 @@
       "lastModified": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T22:45:49.670Z"
+    },
+    {
+      "id": "msi3uzb247hi1qy9r0j",
+      "name": "Julia Jurokki",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/julia.jurokki",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-06",
+      "nextFollowUp": "2026-08-08",
+      "notes": "",
+      "lastModified": "2026-08-06",
+      "dateAdded": "2026-08-06",
+      "addedAt": "2026-08-06T22:46:30.974Z"
     }
   ],
-  "lastUpdated": "2026-08-06T22:45:49.670Z"
+  "lastUpdated": "2026-08-06T22:46:30.974Z"
 }
