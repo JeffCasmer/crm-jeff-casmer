@@ -9100,7 +9100,25 @@
       "lastModified": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T22:48:47.718Z"
+    },
+    {
+      "id": "msi49ljqxgltpryr2ae",
+      "name": "Scotty Whyte",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nitefire27",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-06",
+      "nextFollowUp": "2026-08-08",
+      "notes": "",
+      "lastModified": "2026-08-06",
+      "dateAdded": "2026-08-06",
+      "addedAt": "2026-08-06T22:57:52.982Z"
     }
   ],
-  "lastUpdated": "2026-08-06T22:48:47.718Z"
+  "lastUpdated": "2026-08-06T22:57:52.982Z"
 }
