@@ -9190,7 +9190,25 @@
       "lastModified": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T23:02:04.429Z"
+    },
+    {
+      "id": "msi4gj6tqlm6ojuvycq",
+      "name": "Will Racette",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/will.racette.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-06",
+      "nextFollowUp": "2026-08-08",
+      "notes": "",
+      "lastModified": "2026-08-06",
+      "dateAdded": "2026-08-06",
+      "addedAt": "2026-08-06T23:03:16.517Z"
     }
   ],
-  "lastUpdated": "2026-08-06T23:02:04.429Z"
+  "lastUpdated": "2026-08-06T23:03:16.517Z"
 }
