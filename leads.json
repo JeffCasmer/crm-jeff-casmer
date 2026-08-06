@@ -9082,7 +9082,25 @@
       "lastModified": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T22:48:13.630Z"
+    },
+    {
+      "id": "msi3xwtimlh48yvbhh",
+      "name": "Cristian Rivera",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cristian.rivera.959038",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-06",
+      "nextFollowUp": "2026-08-08",
+      "notes": "",
+      "lastModified": "2026-08-06",
+      "dateAdded": "2026-08-06",
+      "addedAt": "2026-08-06T22:48:47.718Z"
     }
   ],
-  "lastUpdated": "2026-08-06T22:48:13.630Z"
+  "lastUpdated": "2026-08-06T22:48:47.718Z"
 }
