@@ -9064,7 +9064,25 @@
       "lastModified": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T22:46:30.974Z"
+    },
+    {
+      "id": "msi3x6imo8qlb7irewl",
+      "name": "Folomanu",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/folomanu.panapa",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-06",
+      "nextFollowUp": "2026-08-08",
+      "notes": "",
+      "lastModified": "2026-08-06",
+      "dateAdded": "2026-08-06",
+      "addedAt": "2026-08-06T22:48:13.630Z"
     }
   ],
-  "lastUpdated": "2026-08-06T22:46:30.974Z"
+  "lastUpdated": "2026-08-06T22:48:13.630Z"
 }
