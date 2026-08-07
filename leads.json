@@ -9406,7 +9406,25 @@
       "lastModified": "2026-08-07",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-07T18:38:29.597Z"
+    },
+    {
+      "id": "msjagjjxehr9qxnpmy",
+      "name": "Charlie Simpson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/charlie.r.simpson",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-07",
+      "nextFollowUp": "2026-08-09",
+      "notes": "",
+      "lastModified": "2026-08-07",
+      "dateAdded": "2026-08-07",
+      "addedAt": "2026-08-07T18:39:00.861Z"
     }
   ],
-  "lastUpdated": "2026-08-07T18:38:29.597Z"
+  "lastUpdated": "2026-08-07T18:39:00.861Z"
 }
