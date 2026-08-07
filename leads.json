@@ -9262,7 +9262,25 @@
       "lastModified": "2026-08-07",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-07T18:34:29.758Z"
+    },
+    {
+      "id": "msjabaz1s9z1xg9rwyr",
+      "name": "John Wiersma",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.wiersma.14",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-07",
+      "nextFollowUp": "2026-08-09",
+      "notes": "",
+      "lastModified": "2026-08-07",
+      "dateAdded": "2026-08-07",
+      "addedAt": "2026-08-07T18:34:56.461Z"
     }
   ],
-  "lastUpdated": "2026-08-07T18:34:29.758Z"
+  "lastUpdated": "2026-08-07T18:34:56.461Z"
 }
