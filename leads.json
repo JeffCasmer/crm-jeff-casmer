@@ -9388,7 +9388,25 @@
       "lastModified": "2026-08-07",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-07T18:37:50.460Z"
+    },
+    {
+      "id": "msjafvfh7iqux1aiwe2",
+      "name": "Christian Sloan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/clsloan33",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-07",
+      "nextFollowUp": "2026-08-09",
+      "notes": "",
+      "lastModified": "2026-08-07",
+      "dateAdded": "2026-08-07",
+      "addedAt": "2026-08-07T18:38:29.597Z"
     }
   ],
-  "lastUpdated": "2026-08-07T18:37:50.460Z"
+  "lastUpdated": "2026-08-07T18:38:29.597Z"
 }
