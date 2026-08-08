@@ -9478,7 +9478,25 @@
       "lastModified": "2026-08-08",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-08T00:32:17.671Z"
+    },
+    {
+      "id": "mskrkzyjll7a1xn8yys",
+      "name": "Dennis Ferguson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jennylyn.mercado.737001",
+      "source": "Facebook",
+      "status": "Not Interested",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-08",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-08",
+      "dateAdded": "2026-08-08",
+      "addedAt": "2026-08-08T19:26:08.396Z"
     }
   ],
-  "lastUpdated": "2026-08-08T17:38:26.057Z"
+  "lastUpdated": "2026-08-08T19:26:08.396Z"
 }
