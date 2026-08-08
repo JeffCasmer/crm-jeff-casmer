@@ -9514,7 +9514,25 @@
       "lastModified": "2026-08-08",
       "dateAdded": "2026-08-08",
       "addedAt": "2026-08-08T19:26:34.244Z"
+    },
+    {
+      "id": "mskrmlykb24zq6mqui",
+      "name": "Shazaman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100092658647165",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-08",
+      "nextFollowUp": "2026-08-10",
+      "notes": "",
+      "lastModified": "2026-08-08",
+      "dateAdded": "2026-08-08",
+      "addedAt": "2026-08-08T19:27:23.564Z"
     }
   ],
-  "lastUpdated": "2026-08-08T19:26:34.244Z"
+  "lastUpdated": "2026-08-08T19:27:23.564Z"
 }
