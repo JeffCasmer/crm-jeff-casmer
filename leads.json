@@ -9568,7 +9568,25 @@
       "lastModified": "2026-08-09",
       "dateAdded": "2026-08-09",
       "addedAt": "2026-08-09T21:37:46.314Z"
+    },
+    {
+      "id": "msnsua1lf502d8akno6",
+      "name": "Kari Mac",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/karimac25",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-10",
+      "nextFollowUp": "2026-08-12",
+      "notes": "",
+      "lastModified": "2026-08-10",
+      "dateAdded": "2026-08-10",
+      "addedAt": "2026-08-10T22:24:39.513Z"
     }
   ],
-  "lastUpdated": "2026-08-10T22:19:05.673Z"
+  "lastUpdated": "2026-08-10T22:24:39.513Z"
 }
