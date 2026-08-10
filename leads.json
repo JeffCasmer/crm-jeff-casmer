@@ -9604,7 +9604,25 @@
       "lastModified": "2026-08-10",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T22:27:04.050Z"
+    },
+    {
+      "id": "msnsyu1dymknw2qupw8",
+      "name": "Istiaque",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/istiaqueranju",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-10",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-10",
+      "dateAdded": "2026-08-10",
+      "addedAt": "2026-08-10T22:28:12.049Z"
     }
   ],
-  "lastUpdated": "2026-08-10T22:27:04.051Z"
+  "lastUpdated": "2026-08-10T22:28:12.049Z"
 }
