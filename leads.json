@@ -9730,7 +9730,25 @@
       "lastModified": "2026-08-11",
       "dateAdded": "2026-08-11",
       "addedAt": "2026-08-11T22:15:51.960Z"
+    },
+    {
+      "id": "msp7zn287nj1n46hhpu",
+      "name": "Donovan Gordon",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/donovan.gordon",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-11",
+      "nextFollowUp": "2026-08-13",
+      "notes": "",
+      "lastModified": "2026-08-11",
+      "dateAdded": "2026-08-11",
+      "addedAt": "2026-08-11T22:16:30.081Z"
     }
   ],
-  "lastUpdated": "2026-08-11T22:15:51.960Z"
+  "lastUpdated": "2026-08-11T22:16:30.081Z"
 }
