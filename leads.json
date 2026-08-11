@@ -9712,7 +9712,25 @@
       "lastModified": "2026-08-11",
       "dateAdded": "2026-08-11",
       "addedAt": "2026-08-11T21:48:39.817Z"
+    },
+    {
+      "id": "msp7ytncfhnrecyr6k",
+      "name": "Jonathan Freeman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jonathanqfreeman",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-11",
+      "nextFollowUp": "2026-08-13",
+      "notes": "",
+      "lastModified": "2026-08-11",
+      "dateAdded": "2026-08-11",
+      "addedAt": "2026-08-11T22:15:51.960Z"
     }
   ],
-  "lastUpdated": "2026-08-11T21:48:39.817Z"
+  "lastUpdated": "2026-08-11T22:15:51.960Z"
 }
