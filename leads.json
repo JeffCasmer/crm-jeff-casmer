@@ -10001,7 +10001,25 @@
       "lastModified": "2026-08-13",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T22:52:53.870Z"
+    },
+    {
+      "id": "mss473ricmfxqujy56b",
+      "name": "Sircharles",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61582345621988",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-13",
+      "nextFollowUp": "2026-08-15",
+      "notes": "",
+      "lastModified": "2026-08-13",
+      "dateAdded": "2026-08-13",
+      "addedAt": "2026-08-13T22:53:38.382Z"
     }
   ],
-  "lastUpdated": "2026-08-13T22:52:53.870Z"
+  "lastUpdated": "2026-08-13T22:53:38.382Z"
 }
