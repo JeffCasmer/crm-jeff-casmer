@@ -10055,7 +10055,25 @@
       "lastModified": "2026-08-15",
       "dateAdded": "2026-08-15",
       "addedAt": "2026-08-15T21:55:19.422Z"
+    },
+    {
+      "id": "msux0d1pz0rkle2j45l",
+      "name": "Kenneth Zeigler",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kenneth.zeiger",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-15",
+      "nextFollowUp": "2026-08-17",
+      "notes": "",
+      "lastModified": "2026-08-15",
+      "dateAdded": "2026-08-15",
+      "addedAt": "2026-08-15T21:55:45.037Z"
     }
   ],
-  "lastUpdated": "2026-08-15T21:55:19.422Z"
+  "lastUpdated": "2026-08-15T21:55:45.037Z"
 }
