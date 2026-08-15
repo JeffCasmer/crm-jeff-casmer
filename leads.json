@@ -10073,7 +10073,25 @@
       "lastModified": "2026-08-15",
       "dateAdded": "2026-08-15",
       "addedAt": "2026-08-15T21:55:45.037Z"
+    },
+    {
+      "id": "msux0v916c7tzxk9mc7",
+      "name": "Steve Dockery",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/steve.dockery.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-15",
+      "nextFollowUp": "2026-08-17",
+      "notes": "",
+      "lastModified": "2026-08-15",
+      "dateAdded": "2026-08-15",
+      "addedAt": "2026-08-15T21:56:08.629Z"
     }
   ],
-  "lastUpdated": "2026-08-15T21:55:45.037Z"
+  "lastUpdated": "2026-08-15T21:56:08.629Z"
 }
