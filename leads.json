@@ -10127,7 +10127,25 @@
       "lastModified": "2026-08-15",
       "dateAdded": "2026-08-15",
       "addedAt": "2026-08-15T22:56:42.042Z"
+    },
+    {
+      "id": "msw8opvove10kb46jcd",
+      "name": "David Thall",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/david.thall.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-16",
+      "nextFollowUp": "2026-08-18",
+      "notes": "",
+      "lastModified": "2026-08-16",
+      "dateAdded": "2026-08-16",
+      "addedAt": "2026-08-16T20:10:23.365Z"
     }
   ],
-  "lastUpdated": "2026-08-16T12:28:39.338Z"
+  "lastUpdated": "2026-08-16T20:10:23.365Z"
 }
