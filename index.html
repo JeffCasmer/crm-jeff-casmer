@@ -1071,7 +1071,85 @@
     // Rate limiting protection
     let lastSaveTime = 0;
     let saveInProgress = false;
-    async function saveLeadsToGitHub() {
+    function encodeLeadsForGitHub(nextLeads) {
+      return btoa(JSON.stringify({ leads: nextLeads, lastUpdated: new Date().toISOString() }, null, 2));
+    }
+
+    async function fetchLatestLeadsFromGitHub() {
+      const response = await fetch(
+        `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${LEADS_FILE}`,
+        {
+          headers: {
+            'Authorization': `token ${GITHUB_TOKEN}`,
+            'Accept': 'application/vnd.github.v3+json'
+          }
+        }
+      );
+
+      if (!response.ok) {
+        throw new Error(`Could not refresh leads before retry: ${response.status}`);
+      }
+
+      const data = await response.json();
+      const content = JSON.parse(atob(data.content));
+      return { leads: content.leads || [], sha: data.sha };
+    }
+
+    async function putLeadsToGitHub(nextLeads, nextSha) {
+      return fetch(
+        `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${LEADS_FILE}`,
+        {
+          method: 'PUT',
+          headers: {
+            'Authorization': `token ${GITHUB_TOKEN}`,
+            'Accept': 'application/vnd.github.v3+json',
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({
+            message: 'Update leads',
+            content: encodeLeadsForGitHub(nextLeads),
+            sha: nextSha || undefined
+          })
+        }
+      );
+    }
+
+    function mergeLeadChange(latestLeads, options) {
+      if (options.deletedLeadId) {
+        return latestLeads.filter(lead => lead.id !== options.deletedLeadId);
+      }
+
+      if (!options.changedLead) {
+        return leads;
+      }
+
+      const idx = latestLeads.findIndex(lead => lead.id === options.changedLead.id);
+      if (idx === -1) {
+        return [...latestLeads, options.changedLead];
+      }
+
+      const merged = [...latestLeads];
+      merged[idx] = { ...latestLeads[idx], ...options.changedLead };
+      return merged;
+    }
+
+    async function retrySaveAfterConflict(options) {
+      const latest = await fetchLatestLeadsFromGitHub();
+      const mergedLeads = mergeLeadChange(latest.leads, options);
+      const retryResponse = await putLeadsToGitHub(mergedLeads, latest.sha);
+
+      if (!retryResponse.ok) {
+        console.error('Retry save failed:', await retryResponse.text());
+        return false;
+      }
+
+      const retryData = await retryResponse.json();
+      leads = mergedLeads;
+      sha = retryData.content.sha;
+      return true;
+    }
+
+    async function saveLeadsToGitHub(options = {}) {
       // Prevent concurrent saves
       if (saveInProgress) {
         console.log("Save already in progress, skipping...");
@@ -1088,23 +1166,7 @@
       saveInProgress = true;
       lastSaveTime = now;
       try {
-        const content = btoa(JSON.stringify({ leads, lastUpdated: new Date().toISOString() }, null, 2));
-        const response = await fetch(
-          `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${LEADS_FILE}`,
-          {
-            method: 'PUT',
-            headers: {
-              'Authorization': `token ${GITHUB_TOKEN}`,
-              'Accept': 'application/vnd.github.v3+json',
-              'Content-Type': 'application/json'
-            },
-            body: JSON.stringify({
-              message: 'Update leads',
-              content,
-              sha: sha || undefined
-            })
-          }
-        );
+        const response = await putLeadsToGitHub(leads, sha);
 
         if (response.ok) {
           saveInProgress = false;
@@ -1112,6 +1174,14 @@
           sha = data.content.sha;
           return true;
         }
+
+        if (response.status === 409 || response.status === 422) {
+          console.warn('Save conflict detected, refreshing leads and retrying once...');
+          const saved = await retrySaveAfterConflict(options);
+          saveInProgress = false;
+          return saved;
+        }
+
         console.error('Save failed:', await response.text());
         saveInProgress = false;
         return false;
@@ -1563,6 +1633,8 @@
         lastModified: now
       };
 
+      let savedLead;
+
       if (editingId) {
         const idx = leads.findIndex(l => l.id === editingId);
         const oldLead = leads[idx];
@@ -1585,21 +1657,23 @@
         leadData.dateAdded = oldLead.dateAdded;
         leadData.addedAt = oldLead.addedAt;
         
-        leads[idx] = { ...oldLead, ...leadData };
+        savedLead = { ...oldLead, ...leadData };
+        leads[idx] = savedLead;
       } else {
         // For new leads, check if initial status is Customer/IBO
         if (newStatus === 'Customer' || newStatus === 'IBO') {
           leadData.customerSince = now;
         }
         
-        leads.push({
+        savedLead = {
           ...leadData,
           dateAdded: now,
           addedAt: new Date().toISOString()
-        });
+        };
+        leads.push(savedLead);
       }
 
-      if (await saveLeadsToGitHub()) {
+      if (await saveLeadsToGitHub({ changedLead: savedLead })) {
         // Sync to team dashboard after successful save
         await syncToTeamDashboard();
         closeModal();
@@ -1615,7 +1689,7 @@
       
       if (confirm(`Are you sure you want to delete ${lead.name}?`)) {
         leads = leads.filter(l => l.id !== id);
-        if (await saveLeadsToGitHub()) {
+        if (await saveLeadsToGitHub({ deletedLeadId: id })) {
           await syncToTeamDashboard();
           renderView();
         } else {
