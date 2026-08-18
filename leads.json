@@ -10253,7 +10253,25 @@
       "lastModified": "2026-08-17",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-18T01:33:50.882Z"
+    },
+    {
+      "id": "msxzp0wa5qq1g7squhq",
+      "name": "Mikhail",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mikhael.voloshen.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-17",
+      "nextFollowUp": "2026-08-19",
+      "notes": "",
+      "lastModified": "2026-08-17",
+      "dateAdded": "2026-08-17",
+      "addedAt": "2026-08-18T01:34:13.450Z"
     }
   ],
-  "lastUpdated": "2026-08-18T01:33:50.882Z"
+  "lastUpdated": "2026-08-18T01:34:13.450Z"
 }
