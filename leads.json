@@ -10271,7 +10271,25 @@
       "lastModified": "2026-08-17",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-18T01:34:13.450Z"
+    },
+    {
+      "id": "msxzpjcb3p5n86ktep4",
+      "name": "Gerald Walker",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gerald.walker.online",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-17",
+      "nextFollowUp": "2026-08-19",
+      "notes": "",
+      "lastModified": "2026-08-17",
+      "dateAdded": "2026-08-17",
+      "addedAt": "2026-08-18T01:34:37.355Z"
     }
   ],
-  "lastUpdated": "2026-08-18T01:34:13.450Z"
+  "lastUpdated": "2026-08-18T01:34:37.355Z"
 }
