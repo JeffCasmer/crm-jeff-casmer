@@ -7250,16 +7250,16 @@
       "name": "Sanka",
       "email": "",
       "phone": "",
-      "social": "",
+      "social": "https://www.facebook.com/sanka.siriwardena.7",
       "source": "Facebook",
       "status": "Customer",
       "videoSent": false,
       "temperature": "Hot",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-22",
-      "nextFollowUp": "2026-08-18",
+      "nextFollowUp": "2026-08-21",
       "notes": "",
-      "lastModified": "2026-08-17",
+      "lastModified": "2026-08-18",
       "customerSince": "2026-07-22",
       "dateAdded": "2026-07-22",
       "addedAt": "2026-07-22T17:59:16.861Z"
@@ -10309,5 +10309,5 @@
       "addedAt": "2026-08-18T01:34:58.235Z"
     }
   ],
-  "lastUpdated": "2026-08-18T22:05:59.408Z"
+  "lastUpdated": "2026-08-18T22:06:48.977Z"
 }
