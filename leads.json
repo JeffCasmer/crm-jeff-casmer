@@ -10289,7 +10289,25 @@
       "lastModified": "2026-08-17",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-18T01:34:37.355Z"
+    },
+    {
+      "id": "msxzpzgbluplef04cl",
+      "name": "Victor",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/victor.dziuba.33",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-17",
+      "nextFollowUp": "2026-08-19",
+      "notes": "",
+      "lastModified": "2026-08-17",
+      "dateAdded": "2026-08-17",
+      "addedAt": "2026-08-18T01:34:58.235Z"
     }
   ],
-  "lastUpdated": "2026-08-18T01:34:37.355Z"
+  "lastUpdated": "2026-08-18T01:34:58.235Z"
 }
