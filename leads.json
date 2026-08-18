@@ -10217,7 +10217,25 @@
       "lastModified": "2026-08-16",
       "dateAdded": "2026-08-16",
       "addedAt": "2026-08-16T20:46:04.129Z"
+    },
+    {
+      "id": "msxzo2wkbvbcprsvpho",
+      "name": "Angel Acevedo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/angel.acevedo.246641",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-17",
+      "nextFollowUp": "2026-08-19",
+      "notes": "",
+      "lastModified": "2026-08-17",
+      "dateAdded": "2026-08-17",
+      "addedAt": "2026-08-18T01:33:29.396Z"
     }
   ],
-  "lastUpdated": "2026-08-18T01:10:38.793Z"
+  "lastUpdated": "2026-08-18T01:33:29.396Z"
 }
