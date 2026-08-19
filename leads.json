@@ -10495,9 +10495,9 @@
       "phone": "",
       "social": "https://www.facebook.com/todd.talley.79",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-19",
       "nextFollowUp": "2026-08-21",
@@ -10597,5 +10597,5 @@
       "addedAt": "2026-08-19T23:40:59.016Z"
     }
   ],
-  "lastUpdated": "2026-08-19T23:43:39.303Z"
+  "lastUpdated": "2026-08-19T23:50:43.856Z"
 }
