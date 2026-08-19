@@ -10577,7 +10577,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T23:40:33.520Z"
+    },
+    {
+      "id": "mt0qj3m00npgq2z0w2l",
+      "name": "Mladen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100011064331946",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": "2026-08-21",
+      "notes": "",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T23:40:59.016Z"
     }
   ],
-  "lastUpdated": "2026-08-19T23:40:33.520Z"
+  "lastUpdated": "2026-08-19T23:40:59.016Z"
 }
