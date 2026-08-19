@@ -10433,7 +10433,25 @@
       "lastModified": "2026-08-18",
       "dateAdded": "2026-08-18",
       "addedAt": "2026-08-19T00:25:28.036Z"
+    },
+    {
+      "id": "mszcp27o9fhhks4ya6k",
+      "name": "Robert Principato",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/robert.principato",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-18",
+      "nextFollowUp": "2026-08-20",
+      "notes": "",
+      "lastModified": "2026-08-18",
+      "dateAdded": "2026-08-18",
+      "addedAt": "2026-08-19T00:25:56.340Z"
     }
   ],
-  "lastUpdated": "2026-08-19T00:25:28.036Z"
+  "lastUpdated": "2026-08-19T00:25:56.340Z"
 }
