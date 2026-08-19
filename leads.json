@@ -10505,7 +10505,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T23:18:51.840Z"
+    },
+    {
+      "id": "mt0qgygwdlltgehkqs",
+      "name": "James",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/james.mawili",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": "2026-08-21",
+      "notes": "",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T23:39:19.040Z"
     }
   ],
-  "lastUpdated": "2026-08-19T23:18:51.840Z"
+  "lastUpdated": "2026-08-19T23:39:19.040Z"
 }
