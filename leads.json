@@ -10487,7 +10487,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T23:18:29.551Z"
+    },
+    {
+      "id": "mt0pqnk0mmwfxjg8awj",
+      "name": "Todd Talley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/todd.talley.79",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": "2026-08-21",
+      "notes": "",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T23:18:51.840Z"
     }
   ],
-  "lastUpdated": "2026-08-19T23:18:29.551Z"
+  "lastUpdated": "2026-08-19T23:18:51.840Z"
 }
