@@ -10523,7 +10523,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T23:39:19.040Z"
+    },
+    {
+      "id": "mt0qhjnknzr7vhz26yl",
+      "name": "Darren Reynolds",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/darren.reynolds.75",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": "2026-08-21",
+      "notes": "",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T23:39:46.496Z"
     }
   ],
-  "lastUpdated": "2026-08-19T23:39:19.040Z"
+  "lastUpdated": "2026-08-19T23:39:46.496Z"
 }
