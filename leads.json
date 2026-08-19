@@ -10469,7 +10469,25 @@
       "lastModified": "2026-08-18",
       "dateAdded": "2026-08-18",
       "addedAt": "2026-08-19T00:26:20.931Z"
+    },
+    {
+      "id": "mt0pq6cvbxg8z51puwk",
+      "name": "Josh Manning",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/josh.manning.378537",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": "2026-08-21",
+      "notes": "",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T23:18:29.551Z"
     }
   ],
-  "lastUpdated": "2026-08-19T00:26:20.931Z"
+  "lastUpdated": "2026-08-19T23:18:29.551Z"
 }
