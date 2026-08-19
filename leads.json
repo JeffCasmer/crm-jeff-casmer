@@ -10379,7 +10379,25 @@
       "lastModified": "2026-08-18",
       "dateAdded": "2026-08-18",
       "addedAt": "2026-08-19T00:24:15.292Z"
+    },
+    {
+      "id": "mszcng2kkqw3de5iv4",
+      "name": "Evan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/evan.makesmeeverythingiam",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-18",
+      "nextFollowUp": "2026-08-20",
+      "notes": "",
+      "lastModified": "2026-08-18",
+      "dateAdded": "2026-08-18",
+      "addedAt": "2026-08-19T00:24:40.988Z"
     }
   ],
-  "lastUpdated": "2026-08-19T00:24:15.292Z"
+  "lastUpdated": "2026-08-19T00:24:40.988Z"
 }
