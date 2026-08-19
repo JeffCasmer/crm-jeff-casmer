@@ -9780,9 +9780,9 @@
       "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-11",
-      "nextFollowUp": "2026-08-19",
+      "nextFollowUp": "2026-08-21",
       "notes": "",
-      "lastModified": "2026-08-18",
+      "lastModified": "2026-08-19",
       "dateAdded": "2026-08-11",
       "addedAt": "2026-08-11T22:17:30.696Z"
     },
@@ -10597,5 +10597,5 @@
       "addedAt": "2026-08-19T23:40:59.016Z"
     }
   ],
-  "lastUpdated": "2026-08-19T23:42:13.031Z"
+  "lastUpdated": "2026-08-19T23:42:23.182Z"
 }
