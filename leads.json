@@ -10649,7 +10649,25 @@
       "lastModified": "2026-08-20",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-21T01:02:11.690Z"
+    },
+    {
+      "id": "mt28vwxcc7j2fb6fpup",
+      "name": "Kristoffer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kbryn94",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-20",
+      "nextFollowUp": "2026-08-22",
+      "notes": "",
+      "lastModified": "2026-08-20",
+      "dateAdded": "2026-08-20",
+      "addedAt": "2026-08-21T01:02:36.144Z"
     }
   ],
-  "lastUpdated": "2026-08-21T01:02:11.690Z"
+  "lastUpdated": "2026-08-21T01:02:36.144Z"
 }
