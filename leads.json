@@ -7257,9 +7257,9 @@
       "temperature": "Hot",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-22",
-      "nextFollowUp": "2026-08-21",
+      "nextFollowUp": "2026-08-23",
       "notes": "",
-      "lastModified": "2026-08-18",
+      "lastModified": "2026-08-21",
       "customerSince": "2026-07-22",
       "dateAdded": "2026-07-22",
       "addedAt": "2026-07-22T17:59:16.861Z"
@@ -10759,5 +10759,5 @@
       "addedAt": "2026-08-21T01:04:18.600Z"
     }
   ],
-  "lastUpdated": "2026-08-21T01:04:18.600Z"
+  "lastUpdated": "2026-08-21T23:00:18.530Z"
 }
