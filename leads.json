@@ -10703,7 +10703,25 @@
       "lastModified": "2026-08-20",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-21T01:03:17.008Z"
+    },
+    {
+      "id": "mt28x8nklte15kea7ji",
+      "name": "Jay",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jay.georghiades",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-20",
+      "nextFollowUp": "2026-08-22",
+      "notes": "",
+      "lastModified": "2026-08-20",
+      "dateAdded": "2026-08-20",
+      "addedAt": "2026-08-21T01:03:38.000Z"
     }
   ],
-  "lastUpdated": "2026-08-21T01:03:17.008Z"
+  "lastUpdated": "2026-08-21T01:03:38.000Z"
 }
