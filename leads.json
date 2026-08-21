@@ -10595,7 +10595,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T23:40:59.016Z"
+    },
+    {
+      "id": "mt28ufbm1ks0lzpwdkgi",
+      "name": "Luke",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/luke.lejeune.1447",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-20",
+      "nextFollowUp": "2026-08-22",
+      "notes": "",
+      "lastModified": "2026-08-20",
+      "dateAdded": "2026-08-20",
+      "addedAt": "2026-08-21T01:01:26.674Z"
     }
   ],
-  "lastUpdated": "2026-08-21T00:05:14.068Z"
+  "lastUpdated": "2026-08-21T01:01:26.674Z"
 }
