@@ -10667,7 +10667,25 @@
       "lastModified": "2026-08-20",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-21T01:02:36.144Z"
+    },
+    {
+      "id": "mt28wck099v9yr2lf7b",
+      "name": "Zoe",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/zoeskellerndixon",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-20",
+      "nextFollowUp": "2026-08-22",
+      "notes": "",
+      "lastModified": "2026-08-20",
+      "dateAdded": "2026-08-20",
+      "addedAt": "2026-08-21T01:02:56.400Z"
     }
   ],
-  "lastUpdated": "2026-08-21T01:02:36.144Z"
+  "lastUpdated": "2026-08-21T01:02:56.400Z"
 }
