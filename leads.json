@@ -8694,16 +8694,17 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100004269788857",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-05",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-08-25",
       "notes": "",
-      "lastModified": "2026-08-18",
+      "lastModified": "2026-08-23",
       "dateAdded": "2026-08-05",
-      "addedAt": "2026-08-05T17:23:40.459Z"
+      "addedAt": "2026-08-05T17:23:40.459Z",
+      "customerSince": "2026-08-23"
     },
     {
       "id": "msgcy24r3dzd2bcuiuh",
@@ -10759,5 +10760,5 @@
       "addedAt": "2026-08-21T01:04:18.600Z"
     }
   ],
-  "lastUpdated": "2026-08-21T23:00:18.530Z"
+  "lastUpdated": "2026-08-23T23:41:21.973Z"
 }
