@@ -10758,7 +10758,26 @@
       "lastModified": "2026-08-23",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-21T01:04:18.600Z"
+    },
+    {
+      "id": "mt7fk36s31etxwefs6",
+      "name": "Aaron Clapson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/aaron.clapson",
+      "source": "Facebook",
+      "status": "Customer",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": "2026-08-26",
+      "notes": "",
+      "lastModified": "2026-08-24",
+      "customerSince": "2026-08-24",
+      "dateAdded": "2026-08-24",
+      "addedAt": "2026-08-24T16:08:12.580Z"
     }
   ],
-  "lastUpdated": "2026-08-24T00:45:39.666Z"
+  "lastUpdated": "2026-08-24T16:08:12.581Z"
 }
