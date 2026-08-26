@@ -10849,7 +10849,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-26T00:08:37.958Z"
+    },
+    {
+      "id": "mt9c6gmd9b09frkilaj",
+      "name": "David Gonzales",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=1643621725",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": "2026-08-27",
+      "notes": "",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-26T00:09:10.309Z"
     }
   ],
-  "lastUpdated": "2026-08-26T00:08:37.958Z"
+  "lastUpdated": "2026-08-26T00:09:10.309Z"
 }
