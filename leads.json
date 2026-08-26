@@ -10777,7 +10777,25 @@
       "customerSince": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-24T16:08:12.580Z"
+    },
+    {
+      "id": "mt9c2umu9vcxg8810c9",
+      "name": "Sergio",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sergerednumber1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": "2026-08-27",
+      "notes": "",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-26T00:06:21.846Z"
     }
   ],
-  "lastUpdated": "2026-08-25T17:20:01.033Z"
+  "lastUpdated": "2026-08-26T00:06:21.847Z"
 }
