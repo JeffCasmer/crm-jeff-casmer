@@ -11119,7 +11119,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T23:57:03.198Z"
+    },
+    {
+      "id": "mtar7cjqs9887c937t",
+      "name": "Sedric",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sedric.segundo",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-08-28",
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T23:57:32.102Z"
     }
   ],
-  "lastUpdated": "2026-08-26T23:57:03.198Z"
+  "lastUpdated": "2026-08-26T23:57:32.102Z"
 }
