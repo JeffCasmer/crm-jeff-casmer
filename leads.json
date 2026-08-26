@@ -10795,7 +10795,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-26T00:06:21.846Z"
+    },
+    {
+      "id": "mt9c3dydhzlgsbi00z8",
+      "name": "Richard",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100068917651476",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": "2026-08-27",
+      "notes": "",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-26T00:06:46.885Z"
     }
   ],
-  "lastUpdated": "2026-08-26T00:06:21.847Z"
+  "lastUpdated": "2026-08-26T00:06:46.885Z"
 }
