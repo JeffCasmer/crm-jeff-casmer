@@ -11155,7 +11155,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T23:58:00.190Z"
+    },
+    {
+      "id": "mtar8g0u3bl2os00ylw",
+      "name": "Greg",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/greg.stampley.39",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-08-28",
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T23:58:23.262Z"
     }
   ],
-  "lastUpdated": "2026-08-26T23:58:00.190Z"
+  "lastUpdated": "2026-08-26T23:58:23.262Z"
 }
