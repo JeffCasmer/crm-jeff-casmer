@@ -11209,7 +11209,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T23:59:09.765Z"
+    },
+    {
+      "id": "mtara0ke4s0zcmiwt7s",
+      "name": "Priscilla",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/priscilla.nel1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-08-28",
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T23:59:36.542Z"
     }
   ],
-  "lastUpdated": "2026-08-26T23:59:09.766Z"
+  "lastUpdated": "2026-08-26T23:59:36.542Z"
 }
