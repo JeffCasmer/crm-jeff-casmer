@@ -11173,7 +11173,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T23:58:23.262Z"
+    },
+    {
+      "id": "mtar8vado4l7vd9odj",
+      "name": "AJ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100092008324827",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-08-28",
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T23:58:43.045Z"
     }
   ],
-  "lastUpdated": "2026-08-26T23:58:23.262Z"
+  "lastUpdated": "2026-08-26T23:58:43.045Z"
 }
