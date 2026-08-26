@@ -10885,7 +10885,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-26T00:09:41.774Z"
+    },
+    {
+      "id": "mt9c7ob2qjengnbnc2",
+      "name": "Lyle",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rideofsanbernardinomountains",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": "2026-08-27",
+      "notes": "",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-26T00:10:06.926Z"
     }
   ],
-  "lastUpdated": "2026-08-26T00:09:41.774Z"
+  "lastUpdated": "2026-08-26T00:10:06.926Z"
 }
