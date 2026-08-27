@@ -11245,7 +11245,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T23:59:56.574Z"
+    },
+    {
+      "id": "mtaravqlktspmhl07cc",
+      "name": "Rudick",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rudick.t.viljoen",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-08-28",
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-27T00:00:16.941Z"
     }
   ],
-  "lastUpdated": "2026-08-26T23:59:56.574Z"
+  "lastUpdated": "2026-08-27T00:00:16.941Z"
 }
