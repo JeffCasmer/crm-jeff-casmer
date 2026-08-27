@@ -11281,7 +11281,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-27T00:00:39.534Z"
+    },
+    {
+      "id": "mtarbs661cn4arkr6pk",
+      "name": "Valerie",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/valerie.s.davis.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-08-28",
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-27T00:00:58.974Z"
     }
   ],
-  "lastUpdated": "2026-08-27T00:00:39.534Z"
+  "lastUpdated": "2026-08-27T00:00:58.974Z"
 }
