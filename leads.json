@@ -11356,7 +11356,25 @@
       "lastModified": "2026-08-28",
       "dateAdded": "2026-08-28",
       "addedAt": "2026-08-29T01:26:04.545Z"
+    },
+    {
+      "id": "mtdp9k5ciorazfpbxb",
+      "name": "Eric Lowe",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/eric.lowe.5036",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-28",
+      "nextFollowUp": "2026-08-30",
+      "notes": "",
+      "lastModified": "2026-08-28",
+      "dateAdded": "2026-08-28",
+      "addedAt": "2026-08-29T01:26:34.560Z"
     }
   ],
-  "lastUpdated": "2026-08-29T01:26:04.545Z"
+  "lastUpdated": "2026-08-29T01:26:34.560Z"
 }
