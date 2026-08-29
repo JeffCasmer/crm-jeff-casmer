@@ -11320,7 +11320,25 @@
       "dateAdded": "2026-08-28",
       "addedAt": "2026-08-28T09:53:36.825Z",
       "customerSince": "2026-08-28"
+    },
+    {
+      "id": "mtdp8h48x1q5wwq9uke",
+      "name": "Brian Patterson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/BrianPatterson83",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-28",
+      "nextFollowUp": "2026-08-30",
+      "notes": "",
+      "lastModified": "2026-08-28",
+      "dateAdded": "2026-08-28",
+      "addedAt": "2026-08-29T01:25:43.976Z"
     }
   ],
-  "lastUpdated": "2026-08-29T01:21:53.383Z"
+  "lastUpdated": "2026-08-29T01:25:43.976Z"
 }
