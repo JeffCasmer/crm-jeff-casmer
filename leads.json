@@ -11374,7 +11374,25 @@
       "lastModified": "2026-08-28",
       "dateAdded": "2026-08-28",
       "addedAt": "2026-08-29T01:26:34.560Z"
+    },
+    {
+      "id": "mtdpd6ug6qxb4t6vg",
+      "name": "Jayson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jaysonmendoza2678",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-28",
+      "nextFollowUp": "2026-08-30",
+      "notes": "",
+      "lastModified": "2026-08-28",
+      "dateAdded": "2026-08-28",
+      "addedAt": "2026-08-29T01:29:23.944Z"
     }
   ],
-  "lastUpdated": "2026-08-29T01:26:34.560Z"
+  "lastUpdated": "2026-08-29T01:29:23.944Z"
 }
