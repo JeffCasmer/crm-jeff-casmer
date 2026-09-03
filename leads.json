@@ -11483,7 +11483,25 @@
       "lastModified": "2026-09-02",
       "dateAdded": "2026-09-02",
       "addedAt": "2026-09-03T01:22:06.065Z"
+    },
+    {
+      "id": "mtkucm5swssgqxcffws",
+      "name": "Steve H",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/middletown2112/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-02",
+      "nextFollowUp": "2026-09-04",
+      "notes": "",
+      "lastModified": "2026-09-02",
+      "dateAdded": "2026-09-02",
+      "addedAt": "2026-09-03T01:23:18.448Z"
     }
   ],
-  "lastUpdated": "2026-09-03T01:22:06.065Z"
+  "lastUpdated": "2026-09-03T01:23:18.448Z"
 }
