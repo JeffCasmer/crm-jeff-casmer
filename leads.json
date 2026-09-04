@@ -11681,7 +11681,25 @@
       "lastModified": "2026-09-03",
       "dateAdded": "2026-09-03",
       "addedAt": "2026-09-04T01:03:21.972Z"
+    },
+    {
+      "id": "mtm93b2jalh5fh3wvrq",
+      "name": "Jose",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/joserodgt",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-03",
+      "nextFollowUp": "2026-09-05",
+      "notes": "",
+      "lastModified": "2026-09-03",
+      "dateAdded": "2026-09-03",
+      "addedAt": "2026-09-04T01:03:44.587Z"
     }
   ],
-  "lastUpdated": "2026-09-04T01:03:21.972Z"
+  "lastUpdated": "2026-09-04T01:03:44.587Z"
 }
