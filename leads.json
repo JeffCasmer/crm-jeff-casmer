@@ -11555,7 +11555,25 @@
       "lastModified": "2026-09-03",
       "dateAdded": "2026-09-03",
       "addedAt": "2026-09-04T01:00:51.963Z"
+    },
+    {
+      "id": "mtm904l8q27h554zo8c",
+      "name": "Eddie",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100002082542664",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-03",
+      "nextFollowUp": "2026-09-05",
+      "notes": "",
+      "lastModified": "2026-09-03",
+      "dateAdded": "2026-09-03",
+      "addedAt": "2026-09-04T01:01:16.220Z"
     }
   ],
-  "lastUpdated": "2026-09-04T01:00:51.963Z"
+  "lastUpdated": "2026-09-04T01:01:16.220Z"
 }
