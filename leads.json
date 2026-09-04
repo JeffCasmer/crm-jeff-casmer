@@ -11663,7 +11663,25 @@
       "lastModified": "2026-09-03",
       "dateAdded": "2026-09-03",
       "addedAt": "2026-09-04T01:03:01.347Z"
+    },
+    {
+      "id": "mtm92tmctkxvdso21k",
+      "name": "Roderick",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100003386439344",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-03",
+      "nextFollowUp": "2026-09-05",
+      "notes": "",
+      "lastModified": "2026-09-03",
+      "dateAdded": "2026-09-03",
+      "addedAt": "2026-09-04T01:03:21.972Z"
     }
   ],
-  "lastUpdated": "2026-09-04T01:03:01.347Z"
+  "lastUpdated": "2026-09-04T01:03:21.972Z"
 }
