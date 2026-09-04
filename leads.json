@@ -11645,7 +11645,25 @@
       "lastModified": "2026-09-03",
       "dateAdded": "2026-09-03",
       "addedAt": "2026-09-04T01:02:38.747Z"
+    },
+    {
+      "id": "mtm92dpfpuspzgur1b",
+      "name": "Dave",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/DaveZigila",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-03",
+      "nextFollowUp": "2026-09-05",
+      "notes": "",
+      "lastModified": "2026-09-03",
+      "dateAdded": "2026-09-03",
+      "addedAt": "2026-09-04T01:03:01.347Z"
     }
   ],
-  "lastUpdated": "2026-09-04T01:02:38.747Z"
+  "lastUpdated": "2026-09-04T01:03:01.347Z"
 }
