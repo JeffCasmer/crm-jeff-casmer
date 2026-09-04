@@ -11573,7 +11573,25 @@
       "lastModified": "2026-09-03",
       "dateAdded": "2026-09-03",
       "addedAt": "2026-09-04T01:01:16.220Z"
+    },
+    {
+      "id": "mtm90iur47xpv2wlkm2",
+      "name": "James",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/james.gillliam2761",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-03",
+      "nextFollowUp": "2026-09-05",
+      "notes": "",
+      "lastModified": "2026-09-03",
+      "dateAdded": "2026-09-03",
+      "addedAt": "2026-09-04T01:01:34.707Z"
     }
   ],
-  "lastUpdated": "2026-09-04T01:01:16.220Z"
+  "lastUpdated": "2026-09-04T01:01:34.707Z"
 }
