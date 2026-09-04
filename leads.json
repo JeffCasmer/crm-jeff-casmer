@@ -11609,7 +11609,25 @@
       "lastModified": "2026-09-03",
       "dateAdded": "2026-09-03",
       "addedAt": "2026-09-04T01:01:55.635Z"
+    },
+    {
+      "id": "mtm91fnnfsekikur47l",
+      "name": "Jim",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jim.howe.5011",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-03",
+      "nextFollowUp": "2026-09-05",
+      "notes": "",
+      "lastModified": "2026-09-03",
+      "dateAdded": "2026-09-03",
+      "addedAt": "2026-09-04T01:02:17.219Z"
     }
   ],
-  "lastUpdated": "2026-09-04T01:01:55.635Z"
+  "lastUpdated": "2026-09-04T01:02:17.219Z"
 }
