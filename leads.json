@@ -11898,7 +11898,25 @@
       "lastModified": "2026-09-07",
       "dateAdded": "2026-09-07",
       "addedAt": "2026-09-08T00:58:30.529Z"
+    },
+    {
+      "id": "mtryoibtvxsg6egrqo",
+      "name": "Pablo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/pablo.garcia.388558",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-09-09",
+      "notes": "",
+      "lastModified": "2026-09-07",
+      "dateAdded": "2026-09-07",
+      "addedAt": "2026-09-08T00:58:55.049Z"
     }
   ],
-  "lastUpdated": "2026-09-08T00:58:30.529Z"
+  "lastUpdated": "2026-09-08T00:58:55.049Z"
 }
