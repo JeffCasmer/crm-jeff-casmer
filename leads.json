@@ -11718,7 +11718,25 @@
       "lastModified": "2026-09-07",
       "dateAdded": "2026-09-07",
       "addedAt": "2026-09-07T20:20:09.607Z"
+    },
+    {
+      "id": "mtry1s973r2cv8p6573",
+      "name": "Ars",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ars.fahrer",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-09-09",
+      "notes": "",
+      "lastModified": "2026-09-07",
+      "dateAdded": "2026-09-07",
+      "addedAt": "2026-09-08T00:41:14.828Z"
     }
   ],
-  "lastUpdated": "2026-09-07T20:20:09.607Z"
+  "lastUpdated": "2026-09-08T00:41:14.828Z"
 }
