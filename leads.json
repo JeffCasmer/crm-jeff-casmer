@@ -11808,7 +11808,25 @@
       "lastModified": "2026-09-07",
       "dateAdded": "2026-09-07",
       "addedAt": "2026-09-08T00:42:57.963Z"
+    },
+    {
+      "id": "mtry4h3vx863f55041",
+      "name": "Daniel",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100026223245366",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-09-09",
+      "notes": "",
+      "lastModified": "2026-09-07",
+      "dateAdded": "2026-09-07",
+      "addedAt": "2026-09-08T00:43:20.347Z"
     }
   ],
-  "lastUpdated": "2026-09-08T00:42:57.963Z"
+  "lastUpdated": "2026-09-08T00:43:20.347Z"
 }
