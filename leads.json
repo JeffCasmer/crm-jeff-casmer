@@ -11916,7 +11916,25 @@
       "lastModified": "2026-09-07",
       "dateAdded": "2026-09-07",
       "addedAt": "2026-09-08T00:58:55.049Z"
+    },
+    {
+      "id": "mtryp301schm8xwn57",
+      "name": "Dean",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100006714379391",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-09-09",
+      "notes": "",
+      "lastModified": "2026-09-07",
+      "dateAdded": "2026-09-07",
+      "addedAt": "2026-09-08T00:59:21.841Z"
     }
   ],
-  "lastUpdated": "2026-09-08T00:58:55.049Z"
+  "lastUpdated": "2026-09-08T00:59:21.841Z"
 }
