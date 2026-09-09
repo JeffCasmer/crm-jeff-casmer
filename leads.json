@@ -12115,7 +12115,25 @@
       "lastModified": "2026-09-09",
       "dateAdded": "2026-09-09",
       "addedAt": "2026-09-09T23:44:30.413Z"
+    },
+    {
+      "id": "mtuqwysu92me02b4cz",
+      "name": "Nina",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nina.cammann",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-09",
+      "nextFollowUp": "2026-09-11",
+      "notes": "",
+      "lastModified": "2026-09-09",
+      "dateAdded": "2026-09-09",
+      "addedAt": "2026-09-09T23:44:51.246Z"
     }
   ],
-  "lastUpdated": "2026-09-09T23:44:30.413Z"
+  "lastUpdated": "2026-09-09T23:44:51.246Z"
 }
