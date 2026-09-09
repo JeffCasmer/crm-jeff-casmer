@@ -12007,7 +12007,25 @@
       "lastModified": "2026-09-09",
       "dateAdded": "2026-09-09",
       "addedAt": "2026-09-09T23:42:10.789Z"
+    },
+    {
+      "id": "mtuqu1i616i9kwonu5c",
+      "name": "Geoffrey",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/geoffreylsmith",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-09",
+      "nextFollowUp": "2026-09-11",
+      "notes": "",
+      "lastModified": "2026-09-09",
+      "dateAdded": "2026-09-09",
+      "addedAt": "2026-09-09T23:42:34.782Z"
     }
   ],
-  "lastUpdated": "2026-09-09T23:42:10.789Z"
+  "lastUpdated": "2026-09-09T23:42:34.782Z"
 }
