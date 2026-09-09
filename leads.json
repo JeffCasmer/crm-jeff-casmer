@@ -11935,7 +11935,25 @@
       "lastModified": "2026-09-07",
       "dateAdded": "2026-09-07",
       "addedAt": "2026-09-08T00:59:21.841Z"
+    },
+    {
+      "id": "mtuqru595g35627pnna",
+      "name": "Bobby",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bobby.stuart",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-09",
+      "nextFollowUp": "2026-09-11",
+      "notes": "",
+      "lastModified": "2026-09-09",
+      "dateAdded": "2026-09-09",
+      "addedAt": "2026-09-09T23:40:51.933Z"
     }
   ],
-  "lastUpdated": "2026-09-09T01:36:21.266Z"
+  "lastUpdated": "2026-09-09T23:40:51.933Z"
 }
