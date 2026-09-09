@@ -11953,7 +11953,25 @@
       "lastModified": "2026-09-09",
       "dateAdded": "2026-09-09",
       "addedAt": "2026-09-09T23:40:51.933Z"
+    },
+    {
+      "id": "mtuqser10keug6cxw3ec",
+      "name": "Sean",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sean.oneill.18",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-09",
+      "nextFollowUp": "2026-09-11",
+      "notes": "",
+      "lastModified": "2026-09-09",
+      "dateAdded": "2026-09-09",
+      "addedAt": "2026-09-09T23:41:18.637Z"
     }
   ],
-  "lastUpdated": "2026-09-09T23:40:51.933Z"
+  "lastUpdated": "2026-09-09T23:41:18.637Z"
 }
