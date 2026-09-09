@@ -6927,16 +6927,17 @@
       "phone": "",
       "social": "https://www.facebook.com/paul.austin.921",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-08",
       "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-18",
+      "lastModified": "2026-09-08",
       "dateAdded": "2026-07-08",
-      "addedAt": "2026-07-08T16:18:27.906Z"
+      "addedAt": "2026-07-08T16:18:27.906Z",
+      "customerSince": "2026-09-08"
     },
     {
       "id": "mrca8tgxuehj75afp7o",
@@ -11936,5 +11937,5 @@
       "addedAt": "2026-09-08T00:59:21.841Z"
     }
   ],
-  "lastUpdated": "2026-09-09T01:35:56.106Z"
+  "lastUpdated": "2026-09-09T01:36:21.266Z"
 }
