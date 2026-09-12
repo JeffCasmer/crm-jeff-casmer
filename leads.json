@@ -12403,7 +12403,25 @@
       "lastModified": "2026-09-12",
       "dateAdded": "2026-09-12",
       "addedAt": "2026-09-12T23:16:58.846Z"
+    },
+    {
+      "id": "mtz098frjwz67bplop",
+      "name": "Bruce",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bruce.woeller",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-12",
+      "nextFollowUp": "2026-09-14",
+      "notes": "",
+      "lastModified": "2026-09-12",
+      "dateAdded": "2026-09-12",
+      "addedAt": "2026-09-12T23:17:24.855Z"
     }
   ],
-  "lastUpdated": "2026-09-12T23:16:58.846Z"
+  "lastUpdated": "2026-09-12T23:17:24.855Z"
 }
