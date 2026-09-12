@@ -12277,7 +12277,25 @@
       "lastModified": "2026-09-09",
       "dateAdded": "2026-09-09",
       "addedAt": "2026-09-09T23:50:14.709Z"
+    },
+    {
+      "id": "mtz04h4n8aczrkylii5",
+      "name": "Michael",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/michael.glover.355",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-12",
+      "nextFollowUp": "2026-09-14",
+      "notes": "",
+      "lastModified": "2026-09-12",
+      "dateAdded": "2026-09-12",
+      "addedAt": "2026-09-12T23:13:42.839Z"
     }
   ],
-  "lastUpdated": "2026-09-12T23:01:38.455Z"
+  "lastUpdated": "2026-09-12T23:13:42.839Z"
 }
