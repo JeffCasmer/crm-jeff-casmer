@@ -12475,7 +12475,25 @@
       "lastModified": "2026-09-12",
       "dateAdded": "2026-09-12",
       "addedAt": "2026-09-12T23:18:32.687Z"
+    },
+    {
+      "id": "mtz0b4b3qw2pz2t5gx9",
+      "name": "Tyler",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tyler.hawkes",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-12",
+      "nextFollowUp": "2026-09-14",
+      "notes": "",
+      "lastModified": "2026-09-12",
+      "dateAdded": "2026-09-12",
+      "addedAt": "2026-09-12T23:18:52.815Z"
     }
   ],
-  "lastUpdated": "2026-09-12T23:18:32.687Z"
+  "lastUpdated": "2026-09-12T23:18:52.815Z"
 }
