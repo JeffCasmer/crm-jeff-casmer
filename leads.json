@@ -12367,7 +12367,25 @@
       "lastModified": "2026-09-12",
       "dateAdded": "2026-09-12",
       "addedAt": "2026-09-12T23:16:08.655Z"
+    },
+    {
+      "id": "mtz087vbf7apq6hjh99",
+      "name": "Dimitrina",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dimitrina.alipieva.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-12",
+      "nextFollowUp": "2026-09-14",
+      "notes": "",
+      "lastModified": "2026-09-12",
+      "dateAdded": "2026-09-12",
+      "addedAt": "2026-09-12T23:16:37.463Z"
     }
   ],
-  "lastUpdated": "2026-09-12T23:16:08.655Z"
+  "lastUpdated": "2026-09-12T23:16:37.463Z"
 }
