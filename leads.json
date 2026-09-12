@@ -12421,7 +12421,25 @@
       "lastModified": "2026-09-12",
       "dateAdded": "2026-09-12",
       "addedAt": "2026-09-12T23:17:24.855Z"
+    },
+    {
+      "id": "mtz09pxru7xa60i76p",
+      "name": "Simona",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/simona.nitulescu.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-12",
+      "nextFollowUp": "2026-09-14",
+      "notes": "",
+      "lastModified": "2026-09-12",
+      "dateAdded": "2026-09-12",
+      "addedAt": "2026-09-12T23:17:47.535Z"
     }
   ],
-  "lastUpdated": "2026-09-12T23:17:24.855Z"
+  "lastUpdated": "2026-09-12T23:17:47.535Z"
 }
