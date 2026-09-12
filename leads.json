@@ -12511,7 +12511,25 @@
       "lastModified": "2026-09-12",
       "dateAdded": "2026-09-12",
       "addedAt": "2026-09-12T23:19:11.766Z"
+    },
+    {
+      "id": "mtz0c759pefflidcphe",
+      "name": "Dennis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/leiterjrdennis",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-12",
+      "nextFollowUp": "2026-09-14",
+      "notes": "",
+      "lastModified": "2026-09-12",
+      "dateAdded": "2026-09-12",
+      "addedAt": "2026-09-12T23:19:43.149Z"
     }
   ],
-  "lastUpdated": "2026-09-12T23:19:11.766Z"
+  "lastUpdated": "2026-09-12T23:19:43.149Z"
 }
