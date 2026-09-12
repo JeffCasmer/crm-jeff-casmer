@@ -12385,7 +12385,25 @@
       "lastModified": "2026-09-12",
       "dateAdded": "2026-09-12",
       "addedAt": "2026-09-12T23:16:37.463Z"
+    },
+    {
+      "id": "mtz08odabt9vk3ptk",
+      "name": "Larry",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/larry.triplett.547",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-12",
+      "nextFollowUp": "2026-09-14",
+      "notes": "",
+      "lastModified": "2026-09-12",
+      "dateAdded": "2026-09-12",
+      "addedAt": "2026-09-12T23:16:58.846Z"
     }
   ],
-  "lastUpdated": "2026-09-12T23:16:37.463Z"
+  "lastUpdated": "2026-09-12T23:16:58.846Z"
 }
