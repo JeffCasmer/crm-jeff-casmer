@@ -12817,7 +12817,25 @@
       "lastModified": "2026-09-15",
       "dateAdded": "2026-09-15",
       "addedAt": "2026-09-15T23:03:53.304Z"
+    },
+    {
+      "id": "mu3a3vdczcwpr7eidqo",
+      "name": "Dominique",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dominique.lewis.395",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-15",
+      "nextFollowUp": "2026-09-17",
+      "notes": "",
+      "lastModified": "2026-09-15",
+      "dateAdded": "2026-09-15",
+      "addedAt": "2026-09-15T23:04:15.504Z"
     }
   ],
-  "lastUpdated": "2026-09-15T23:03:53.304Z"
+  "lastUpdated": "2026-09-15T23:04:15.504Z"
 }
