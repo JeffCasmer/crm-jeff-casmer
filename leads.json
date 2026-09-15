@@ -12637,7 +12637,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-15T00:10:48.502Z"
+    },
+    {
+      "id": "mu1x21ynljptigatb28",
+      "name": "Johnny",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jeffery.stone.16",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-16",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-15T00:11:09.551Z"
     }
   ],
-  "lastUpdated": "2026-09-15T00:10:48.502Z"
+  "lastUpdated": "2026-09-15T00:11:09.551Z"
 }
