@@ -12673,7 +12673,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-15T00:11:32.710Z"
+    },
+    {
+      "id": "mu1x2zlyovprvqe5ad",
+      "name": "David",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/david.naessens.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-16",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-15T00:11:53.158Z"
     }
   ],
-  "lastUpdated": "2026-09-15T00:11:32.710Z"
+  "lastUpdated": "2026-09-15T00:11:53.158Z"
 }
