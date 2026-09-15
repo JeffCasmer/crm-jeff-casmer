@@ -12799,7 +12799,25 @@
       "lastModified": "2026-09-15",
       "dateAdded": "2026-09-15",
       "addedAt": "2026-09-15T23:03:34.176Z"
+    },
+    {
+      "id": "mu3a3e8opqfcbmoyaxe",
+      "name": "Ali",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100089068843033",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-15",
+      "nextFollowUp": "2026-09-17",
+      "notes": "",
+      "lastModified": "2026-09-15",
+      "dateAdded": "2026-09-15",
+      "addedAt": "2026-09-15T23:03:53.304Z"
     }
   ],
-  "lastUpdated": "2026-09-15T23:03:34.176Z"
+  "lastUpdated": "2026-09-15T23:03:53.304Z"
 }
