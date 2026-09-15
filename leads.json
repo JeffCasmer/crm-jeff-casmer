@@ -12745,7 +12745,25 @@
       "lastModified": "2026-09-15",
       "dateAdded": "2026-09-15",
       "addedAt": "2026-09-15T23:02:12.336Z"
+    },
+    {
+      "id": "mu3a1qk80eoeubr1e92u",
+      "name": "John",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.morphet.73",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-15",
+      "nextFollowUp": "2026-09-17",
+      "notes": "",
+      "lastModified": "2026-09-15",
+      "dateAdded": "2026-09-15",
+      "addedAt": "2026-09-15T23:02:35.960Z"
     }
   ],
-  "lastUpdated": "2026-09-15T23:02:12.336Z"
+  "lastUpdated": "2026-09-15T23:02:35.960Z"
 }
