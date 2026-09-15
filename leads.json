@@ -12691,7 +12691,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-15T00:11:53.158Z"
+    },
+    {
+      "id": "mu1x3eemiaybmumk31l",
+      "name": "Steve",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/steve.poteet.73",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-16",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-15T00:12:12.334Z"
     }
   ],
-  "lastUpdated": "2026-09-15T00:11:53.158Z"
+  "lastUpdated": "2026-09-15T00:12:12.334Z"
 }
