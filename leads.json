@@ -12709,7 +12709,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-15T00:12:12.334Z"
+    },
+    {
+      "id": "mu3a0jrwr3mzdxm0t0g",
+      "name": "Joseph",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ardel.joseph.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-15",
+      "nextFollowUp": "2026-09-17",
+      "notes": "",
+      "lastModified": "2026-09-15",
+      "dateAdded": "2026-09-15",
+      "addedAt": "2026-09-15T23:01:40.508Z"
     }
   ],
-  "lastUpdated": "2026-09-15T18:30:15.171Z"
+  "lastUpdated": "2026-09-15T23:01:40.509Z"
 }
