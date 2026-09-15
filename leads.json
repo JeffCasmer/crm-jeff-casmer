@@ -12601,7 +12601,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-15T00:10:05.614Z"
+    },
+    {
+      "id": "mu1x14om7nlqjjoacj2",
+      "name": "Erika",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/MS.DOBBINS2011",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-16",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-15T00:10:26.422Z"
     }
   ],
-  "lastUpdated": "2026-09-15T00:10:05.614Z"
+  "lastUpdated": "2026-09-15T00:10:26.422Z"
 }
