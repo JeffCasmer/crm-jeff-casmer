@@ -12763,7 +12763,25 @@
       "lastModified": "2026-09-15",
       "dateAdded": "2026-09-15",
       "addedAt": "2026-09-15T23:02:35.960Z"
+    },
+    {
+      "id": "mu3a2f75zy1r08ipej",
+      "name": "John",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.shidagis",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-15",
+      "nextFollowUp": "2026-09-17",
+      "notes": "",
+      "lastModified": "2026-09-15",
+      "dateAdded": "2026-09-15",
+      "addedAt": "2026-09-15T23:03:07.889Z"
     }
   ],
-  "lastUpdated": "2026-09-15T23:02:35.960Z"
+  "lastUpdated": "2026-09-15T23:03:07.889Z"
 }
