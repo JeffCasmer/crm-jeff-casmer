@@ -12871,7 +12871,25 @@
       "lastModified": "2026-09-19",
       "dateAdded": "2026-09-19",
       "addedAt": "2026-09-19T23:04:12.949Z"
+    },
+    {
+      "id": "mu8zvry3vy1peawxylr",
+      "name": "Robert",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/robert.falconer.568",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-19",
+      "nextFollowUp": "2026-09-21",
+      "notes": "",
+      "lastModified": "2026-09-19",
+      "dateAdded": "2026-09-19",
+      "addedAt": "2026-09-19T23:04:38.715Z"
     }
   ],
-  "lastUpdated": "2026-09-19T23:04:12.950Z"
+  "lastUpdated": "2026-09-19T23:04:38.715Z"
 }
