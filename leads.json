@@ -12943,7 +12943,25 @@
       "lastModified": "2026-09-19",
       "dateAdded": "2026-09-19",
       "addedAt": "2026-09-19T23:07:22.026Z"
+    },
+    {
+      "id": "mu8zzt6i2y1v642kbg3",
+      "name": "Michael",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=1197347385",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-19",
+      "nextFollowUp": "2026-09-21",
+      "notes": "",
+      "lastModified": "2026-09-19",
+      "dateAdded": "2026-09-19",
+      "addedAt": "2026-09-19T23:07:46.938Z"
     }
   ],
-  "lastUpdated": "2026-09-19T23:07:22.026Z"
+  "lastUpdated": "2026-09-19T23:07:46.938Z"
 }
