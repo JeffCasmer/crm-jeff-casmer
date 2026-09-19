@@ -12997,7 +12997,25 @@
       "lastModified": "2026-09-19",
       "dateAdded": "2026-09-19",
       "addedAt": "2026-09-19T23:12:31.266Z"
+    },
+    {
+      "id": "mu906t1mf65ojb1fln",
+      "name": "Robert",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/robert.wilson.lamb",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-19",
+      "nextFollowUp": "2026-09-21",
+      "notes": "",
+      "lastModified": "2026-09-19",
+      "dateAdded": "2026-09-19",
+      "addedAt": "2026-09-19T23:13:13.354Z"
     }
   ],
-  "lastUpdated": "2026-09-19T23:12:31.266Z"
+  "lastUpdated": "2026-09-19T23:13:13.354Z"
 }
