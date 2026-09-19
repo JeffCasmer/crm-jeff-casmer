@@ -13051,7 +13051,25 @@
       "lastModified": "2026-09-19",
       "dateAdded": "2026-09-19",
       "addedAt": "2026-09-19T23:14:43.897Z"
+    },
+    {
+      "id": "mu9098o9w4tvwn3zli",
+      "name": "Steve",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/steve.kennard.1610",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-19",
+      "nextFollowUp": "2026-09-21",
+      "notes": "",
+      "lastModified": "2026-09-19",
+      "dateAdded": "2026-09-19",
+      "addedAt": "2026-09-19T23:15:06.921Z"
     }
   ],
-  "lastUpdated": "2026-09-19T23:14:43.898Z"
+  "lastUpdated": "2026-09-19T23:15:06.921Z"
 }
