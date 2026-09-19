@@ -13087,7 +13087,25 @@
       "lastModified": "2026-09-19",
       "dateAdded": "2026-09-19",
       "addedAt": "2026-09-19T23:15:31.634Z"
+    },
+    {
+      "id": "mu90bwlt0c51f5oopgcf",
+      "name": "Cole",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cole.patterson.39",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-19",
+      "nextFollowUp": "2026-09-21",
+      "notes": "",
+      "lastModified": "2026-09-19",
+      "dateAdded": "2026-09-19",
+      "addedAt": "2026-09-19T23:17:11.249Z"
     }
   ],
-  "lastUpdated": "2026-09-19T23:15:31.634Z"
+  "lastUpdated": "2026-09-19T23:17:11.249Z"
 }
