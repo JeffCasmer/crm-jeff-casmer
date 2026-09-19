@@ -12853,7 +12853,25 @@
       "lastModified": "2026-09-15",
       "dateAdded": "2026-09-15",
       "addedAt": "2026-09-15T23:04:42.624Z"
+    },
+    {
+      "id": "mu8zv82d49825rw45qt",
+      "name": "David",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100091719885777",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-19",
+      "nextFollowUp": "2026-09-21",
+      "notes": "",
+      "lastModified": "2026-09-19",
+      "dateAdded": "2026-09-19",
+      "addedAt": "2026-09-19T23:04:12.949Z"
     }
   ],
-  "lastUpdated": "2026-09-15T23:06:17.167Z"
+  "lastUpdated": "2026-09-19T23:04:12.950Z"
 }
