@@ -10302,16 +10302,17 @@
       "phone": "",
       "social": "https://www.facebook.com/victor.dziuba.33",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-17",
       "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-31",
+      "lastModified": "2026-09-21",
       "dateAdded": "2026-08-17",
-      "addedAt": "2026-08-18T01:34:58.235Z"
+      "addedAt": "2026-08-18T01:34:58.235Z",
+      "customerSince": "2026-09-21"
     },
     {
       "id": "mszcc259szo33r3ny2g",
@@ -13107,5 +13108,5 @@
       "addedAt": "2026-09-19T23:17:11.249Z"
     }
   ],
-  "lastUpdated": "2026-09-21T18:08:59.410Z"
+  "lastUpdated": "2026-09-21T18:10:09.602Z"
 }
