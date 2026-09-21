@@ -11457,14 +11457,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=61576723366006",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-02",
-      "nextFollowUp": "2026-09-21",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-09-14",
+      "lastModified": "2026-09-21",
       "dateAdded": "2026-09-02",
       "addedAt": "2026-09-03T01:21:02.769Z"
     },
@@ -13107,5 +13107,5 @@
       "addedAt": "2026-09-19T23:17:11.249Z"
     }
   ],
-  "lastUpdated": "2026-09-21T17:51:23.251Z"
+  "lastUpdated": "2026-09-21T17:52:04.283Z"
 }
