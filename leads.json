@@ -13215,7 +13215,25 @@
       "lastModified": "2026-09-24",
       "dateAdded": "2026-09-24",
       "addedAt": "2026-09-25T01:14:44.558Z"
+    },
+    {
+      "id": "muga5vev88kb41aw7mo",
+      "name": "Gary Scott",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gary.scott.248875",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-24",
+      "nextFollowUp": "2026-09-26",
+      "notes": "",
+      "lastModified": "2026-09-24",
+      "dateAdded": "2026-09-24",
+      "addedAt": "2026-09-25T01:26:49.159Z"
     }
   ],
-  "lastUpdated": "2026-09-25T01:18:39.006Z"
+  "lastUpdated": "2026-09-25T01:26:49.159Z"
 }
