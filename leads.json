@@ -13179,7 +13179,25 @@
       "lastModified": "2026-09-24",
       "dateAdded": "2026-09-24",
       "addedAt": "2026-09-25T01:13:29.054Z"
+    },
+    {
+      "id": "mug9pm6eaoksyxt4prm",
+      "name": "Moses",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/moses.kanda",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-24",
+      "nextFollowUp": "2026-09-27",
+      "notes": "",
+      "lastModified": "2026-09-24",
+      "dateAdded": "2026-09-24",
+      "addedAt": "2026-09-25T01:14:10.694Z"
     }
   ],
-  "lastUpdated": "2026-09-25T01:13:29.054Z"
+  "lastUpdated": "2026-09-25T01:14:10.694Z"
 }
