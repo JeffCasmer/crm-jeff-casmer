@@ -13197,7 +13197,25 @@
       "lastModified": "2026-09-24",
       "dateAdded": "2026-09-24",
       "addedAt": "2026-09-25T01:14:10.694Z"
+    },
+    {
+      "id": "mug9qcb2dtpl82p4fc",
+      "name": "John Erik",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/johnerik.hellem",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-24",
+      "nextFollowUp": "2026-09-25",
+      "notes": "",
+      "lastModified": "2026-09-24",
+      "dateAdded": "2026-09-24",
+      "addedAt": "2026-09-25T01:14:44.558Z"
     }
   ],
-  "lastUpdated": "2026-09-25T01:14:10.694Z"
+  "lastUpdated": "2026-09-25T01:14:44.558Z"
 }
