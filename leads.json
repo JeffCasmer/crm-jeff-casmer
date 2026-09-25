@@ -13125,7 +13125,25 @@
       "customerSince": "2026-09-24",
       "dateAdded": "2026-09-24",
       "addedAt": "2026-09-25T01:11:26.822Z"
+    },
+    {
+      "id": "mug9muueyyxw8x5nis9",
+      "name": "Jessica",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jessica.colbert.735",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-24",
+      "nextFollowUp": "2026-09-29",
+      "notes": "",
+      "lastModified": "2026-09-24",
+      "dateAdded": "2026-09-24",
+      "addedAt": "2026-09-25T01:12:01.958Z"
     }
   ],
-  "lastUpdated": "2026-09-25T01:11:26.822Z"
+  "lastUpdated": "2026-09-25T01:12:01.958Z"
 }
