@@ -10776,9 +10776,9 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-24",
-      "nextFollowUp": "2026-10-16",
+      "nextFollowUp": "2026-10-19",
       "notes": "",
-      "lastModified": "2026-10-13",
+      "lastModified": "2026-10-16",
       "customerSince": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-24T16:08:12.580Z"
@@ -13235,5 +13235,5 @@
       "addedAt": "2026-09-25T01:26:49.159Z"
     }
   ],
-  "lastUpdated": "2026-10-17T01:43:27.146Z"
+  "lastUpdated": "2026-10-17T01:44:27.201Z"
 }
