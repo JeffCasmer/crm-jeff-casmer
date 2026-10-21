@@ -13251,7 +13251,25 @@
       "lastModified": "2026-10-21",
       "dateAdded": "2026-10-21",
       "addedAt": "2026-10-21T18:40:49.339Z"
+    },
+    {
+      "id": "mviglc6z530j9rssj3i",
+      "name": "Andras",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100001341057726",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": "2026-10-23",
+      "notes": "",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T18:42:03.131Z"
     }
   ],
-  "lastUpdated": "2026-10-21T18:40:49.339Z"
+  "lastUpdated": "2026-10-21T18:42:03.131Z"
 }
