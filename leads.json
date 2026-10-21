@@ -13287,7 +13287,25 @@
       "lastModified": "2026-10-21",
       "dateAdded": "2026-10-21",
       "addedAt": "2026-10-21T18:42:35.811Z"
+    },
+    {
+      "id": "mvigmq2jvnnk6h5kb4",
+      "name": "Moses",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kendido",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-22",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T18:43:07.771Z"
     }
   ],
-  "lastUpdated": "2026-10-21T18:42:35.811Z"
+  "lastUpdated": "2026-10-21T18:43:07.771Z"
 }
