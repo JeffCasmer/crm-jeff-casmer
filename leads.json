@@ -13323,7 +13323,25 @@
       "lastModified": "2026-10-21",
       "dateAdded": "2026-10-21",
       "addedAt": "2026-10-21T18:43:36.875Z"
+    },
+    {
+      "id": "mvignv7ux63x5wcr0j",
+      "name": "Eric",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/eric.washington.477757",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": "2026-10-22",
+      "notes": "",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T18:44:01.098Z"
     }
   ],
-  "lastUpdated": "2026-10-21T18:43:36.875Z"
+  "lastUpdated": "2026-10-21T18:44:01.098Z"
 }
