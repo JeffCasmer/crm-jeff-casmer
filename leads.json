@@ -13233,7 +13233,25 @@
       "lastModified": "2026-10-11",
       "dateAdded": "2026-09-24",
       "addedAt": "2026-09-25T01:26:49.159Z"
+    },
+    {
+      "id": "mvigjr97146c21llz70q",
+      "name": "Stu Crane",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stu.crane.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": "2026-10-22",
+      "notes": "",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T18:40:49.339Z"
     }
   ],
-  "lastUpdated": "2026-10-21T18:15:16.476Z"
+  "lastUpdated": "2026-10-21T18:40:49.339Z"
 }
