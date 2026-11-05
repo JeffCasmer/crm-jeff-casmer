@@ -13336,12 +13336,12 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-21",
-      "nextFollowUp": "2026-11-04",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-11-01",
+      "lastModified": "2026-11-04",
       "dateAdded": "2026-10-21",
       "addedAt": "2026-10-21T18:44:01.098Z"
     }
   ],
-  "lastUpdated": "2026-11-05T02:10:15.036Z"
+  "lastUpdated": "2026-11-05T02:10:26.116Z"
 }
