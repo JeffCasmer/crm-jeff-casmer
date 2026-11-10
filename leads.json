@@ -246,9 +246,9 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-11-08",
+      "nextFollowUp": "2026-11-13",
       "notes": "Speaking today at 1pm on phone to close.",
-      "lastModified": "2026-11-04",
+      "lastModified": "2026-11-10",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T13:51:42.201Z",
       "videoSent": false,
@@ -13361,5 +13361,5 @@
       "addedAt": "2026-11-05T02:47:05.710Z"
     }
   ],
-  "lastUpdated": "2026-11-10T19:33:00.039Z"
+  "lastUpdated": "2026-11-10T19:33:09.741Z"
 }
