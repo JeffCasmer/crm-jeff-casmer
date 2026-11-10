@@ -13359,7 +13359,25 @@
       "lastModified": "2026-11-10",
       "dateAdded": "2026-11-04",
       "addedAt": "2026-11-05T02:47:05.710Z"
+    },
+    {
+      "id": "mwb4tsu8kqmx1zjrq4r",
+      "name": "Seandale",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/seandale.jackson.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-10",
+      "nextFollowUp": "2026-11-12",
+      "notes": "",
+      "lastModified": "2026-11-10",
+      "dateAdded": "2026-11-10",
+      "addedAt": "2026-11-10T20:18:01.664Z"
     }
   ],
-  "lastUpdated": "2026-11-10T19:33:09.741Z"
+  "lastUpdated": "2026-11-10T20:18:01.665Z"
 }
