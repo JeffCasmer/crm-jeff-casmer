@@ -13377,7 +13377,25 @@
       "lastModified": "2026-11-10",
       "dateAdded": "2026-11-10",
       "addedAt": "2026-11-10T20:18:01.664Z"
+    },
+    {
+      "id": "mwb4us28wqgj0ucq9om",
+      "name": "Christie",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/search/top?q=christie%20witham",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-10",
+      "nextFollowUp": "2026-11-11",
+      "notes": "",
+      "lastModified": "2026-11-10",
+      "dateAdded": "2026-11-10",
+      "addedAt": "2026-11-10T20:18:47.312Z"
     }
   ],
-  "lastUpdated": "2026-11-10T20:18:01.665Z"
+  "lastUpdated": "2026-11-10T20:18:47.312Z"
 }
