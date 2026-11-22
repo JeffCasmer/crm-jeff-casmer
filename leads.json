@@ -13414,7 +13414,25 @@
       "lastModified": "2026-11-22",
       "dateAdded": "2026-11-22",
       "addedAt": "2026-11-22T14:40:58.160Z"
+    },
+    {
+      "id": "mwry3d20yck74s0nl6c",
+      "name": "Carol",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/carol.jackson.9279807",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": "2026-11-28",
+      "notes": "",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T14:41:35.448Z"
     }
   ],
-  "lastUpdated": "2026-11-22T14:40:58.160Z"
+  "lastUpdated": "2026-11-22T14:41:35.448Z"
 }
