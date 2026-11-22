@@ -13151,16 +13151,17 @@
       "phone": "",
       "social": "https://www.facebook.com/muhammadabdul1111",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-24",
       "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-10-11",
+      "lastModified": "2026-11-22",
       "dateAdded": "2026-09-24",
-      "addedAt": "2026-09-25T01:13:00.294Z"
+      "addedAt": "2026-09-25T01:13:00.294Z",
+      "customerSince": "2026-11-22"
     },
     {
       "id": "mug9oq1qbfgm2izsenn",
@@ -13397,5 +13398,5 @@
       "addedAt": "2026-11-10T20:18:47.312Z"
     }
   ],
-  "lastUpdated": "2026-11-22T14:38:05.311Z"
+  "lastUpdated": "2026-11-22T14:39:07.791Z"
 }
