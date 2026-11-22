@@ -13396,7 +13396,25 @@
       "lastModified": "2026-11-18",
       "dateAdded": "2026-11-10",
       "addedAt": "2026-11-10T20:18:47.312Z"
+    },
+    {
+      "id": "mwry2ka83gdyw0d6k0q",
+      "name": "Herly",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61587150928531",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": "2026-11-28",
+      "notes": "",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T14:40:58.160Z"
     }
   ],
-  "lastUpdated": "2026-11-22T14:39:07.791Z"
+  "lastUpdated": "2026-11-22T14:40:58.160Z"
 }
