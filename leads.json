@@ -13450,7 +13450,25 @@
       "lastModified": "2026-11-22",
       "dateAdded": "2026-11-22",
       "addedAt": "2026-11-22T14:42:03.968Z"
+    },
+    {
+      "id": "mwxp4bb55gq7u9q0lz4",
+      "name": "Sharyn",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sharyn.weston.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-26",
+      "nextFollowUp": "2026-11-30",
+      "notes": "",
+      "lastModified": "2026-11-26",
+      "dateAdded": "2026-11-26",
+      "addedAt": "2026-11-26T15:17:00.353Z"
     }
   ],
-  "lastUpdated": "2026-11-26T15:14:49.678Z"
+  "lastUpdated": "2026-11-26T15:17:00.353Z"
 }
