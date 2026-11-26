@@ -13468,7 +13468,25 @@
       "lastModified": "2026-11-26",
       "dateAdded": "2026-11-26",
       "addedAt": "2026-11-26T15:17:00.353Z"
+    },
+    {
+      "id": "mwxp4yif3k6a3swgxy8",
+      "name": "Barbara",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/barbara.kearns.37",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-26",
+      "nextFollowUp": "2026-11-29",
+      "notes": "",
+      "lastModified": "2026-11-26",
+      "dateAdded": "2026-11-26",
+      "addedAt": "2026-11-26T15:17:30.423Z"
     }
   ],
-  "lastUpdated": "2026-11-26T15:17:00.353Z"
+  "lastUpdated": "2026-11-26T15:17:30.423Z"
 }
